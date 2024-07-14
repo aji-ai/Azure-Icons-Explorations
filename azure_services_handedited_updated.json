@@ -1,0 +1,2386 @@
+[
+    {
+        "category_name": "AI + machine learning",
+        "category_desc": "Create the next generation of applications using artificial intelligence capabilities for any developer and any scenario.",
+        "services": [
+            {
+                "service_name": "AI Anomaly Detector",
+                "service_desc": "Easily add anomaly detection capabilities to your apps.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-anomaly-detector/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "00814-icon-service-Anomaly-Detector.svg",
+                "icon_location": "./Icons/ai + machine learning/00814-icon-service-Anomaly-Detector.svg"
+            },
+            {
+                "service_name": "Azure AI Bot Service",
+                "service_desc": "Create bots and connect them across channels.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-bot-service/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "10165-icon-service-Bot-Services.svg",
+                "icon_location": "./Icons/ai + machine learning/10165-icon-service-Bot-Services.svg"
+            },
+            {
+                "service_name": "Azure AI Search",
+                "service_desc": "Enterprise scale search for app development.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-search",
+                "icon_category": "general",
+                "icon_filename": "10834-icon-service-Search.svg",
+                "icon_location": "./Icons/general/10834-icon-service-Search.svg"
+            },
+            {
+                "service_name": "Azure Databricks",
+                "service_desc": "Design AI with Apache Spark\u2122-based analytics.",
+                "service_link": "https://azure.microsoft.com/en-us/products/databricks/",
+                "icon_category": "analytics",
+                "icon_filename": "10787-icon-service-Azure-Databricks.svg",
+                "icon_location": "./Icons/analytics/10787-icon-service-Azure-Databricks.svg"
+            },
+            {
+                "service_name": "Azure Machine Learning",
+                "service_desc": "Use an enterprise-grade service for the end-to-end machine learning lifecycle.",
+                "service_link": "https://azure.microsoft.com/en-us/products/machine-learning/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "10166-icon-service-Machine-Learning.svg",
+                "icon_location": "./Icons/ai + machine learning/10166-icon-service-Machine-Learning.svg"
+            },
+            {
+                "service_name": "Azure Open Datasets",
+                "service_desc": "Cloud platform to host and share curated open datasets to accelerate development of machine learning models.",
+                "service_link": "https://azure.microsoft.com/en-us/products/open-datasets/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "03438-icon-service-Azure-OpenAI.svg",
+                "icon_location": "./Icons/ai + machine learning/03438-icon-service-Azure-OpenAI.svg"
+            },
+            {
+                "service_name": "Azure AI Services",
+                "service_desc": "Add cognitive capabilities to apps with APIs and AI services.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/",
+                "icon_category": "integration",
+                "icon_filename": "10836-icon-service-Azure-Service-Bus.svg",
+                "icon_location": "./Icons/integration/10836-icon-service-Azure-Service-Bus.svg"
+            },
+            {
+                "service_name": "Azure AI Video Indexer",
+                "service_desc": "Easily extract meaningful insights from audio and video files using media AI.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-video-indexer/",
+                "icon_category": "other",
+                "icon_filename": "01800-icon-service-Azure-Video-Indexer.svg",
+                "icon_location": "./Icons/other/01800-icon-service-Azure-Video-Indexer.svg"
+            },
+            {
+                "service_name": "Azure AI Custom Vision",
+                "service_desc": "Easily customize your own state-of-the-art computer vision models for your unique use case.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-custom-vision/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "00793-icon-service-Custom-Vision.svg",
+                "icon_location": "./Icons/ai + machine learning/00793-icon-service-Custom-Vision.svg"
+            },
+            {
+                "service_name": "Data Science Virtual Machines",
+                "service_desc": "Rich pre-configured environment for AI development.",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/data-science-virtual-machines/",
+                "icon_category": "analytics",
+                "icon_filename": "10126-icon-service-Data-Factories.svg",
+                "icon_location": "./Icons/analytics/10126-icon-service-Data-Factories.svg"
+            },
+            {
+                "service_name": "Language Understanding (LUIS)",
+                "service_desc": "Teach your apps to understand commands from your users.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/conversational-language-understanding/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "00801-icon-service-Language-Understanding.svg",
+                "icon_location": "./Icons/ai + machine learning/00801-icon-service-Language-Understanding.svg"
+            },
+            {
+                "service_name": "Speaker recognition",
+                "service_desc": "A Speech service feature that verifies and identifies speakers.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/speaker-recognition/"
+            },
+            {
+                "service_name": "Speech to text",
+                "service_desc": "A Speech service feature that accurately converts spoken audio to text.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/speech-to-text/"
+            },
+            {
+                "service_name": "Speech translation",
+                "service_desc": "Easily integrate real-time speech translation to your app.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/speech-translation/"
+            },
+            {
+                "service_name": "Azure AI Language",
+                "service_desc": "Add natural language capabilities with a single API call.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-language/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "02876-icon-service-Language.svg",
+                "icon_location": "./Icons/ai + machine learning/02876-icon-service-Language.svg"
+            },
+            {
+                "service_name": "Text to speech",
+                "service_desc": "A Speech service feature that converts text to lifelike speech.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/text-to-speech/"
+            },
+            {
+                "service_name": "Azure AI Translator",
+                "service_desc": "Easily conduct machine translation with a simple REST API call.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-translator/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "00800-icon-service-Translator-Text.svg",
+                "icon_location": "./Icons/ai + machine learning/00800-icon-service-Translator-Text.svg"
+            },
+            {
+                "service_name": "Azure AI Metrics Advisor",
+                "service_desc": "An AI service that monitors metrics and diagnoses issues.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-metrics-advisor/",
+                "icon_category": "compute",
+                "icon_filename": "02409-icon-service-Metrics-Advisor.svg",
+                "icon_location": "./Icons/compute/02409-icon-service-Metrics-Advisor.svg"
+            },
+            {
+                "service_name": "Azure OpenAI Service",
+                "service_desc": "Apply advanced coding and language models to a variety of use cases.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/openai-service/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "03438-icon-service-Azure-OpenAI.svg",
+                "icon_location": "./Icons/ai + machine learning/03438-icon-service-Azure-OpenAI.svg"
+            },
+            {
+                "service_name": "Azure AI Personalizer",
+                "service_desc": "Deliver personalized, relevant experiences for each of your users.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-personalizer/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "00796-icon-service-Personalizers.svg",
+                "icon_location": "./Icons/ai + machine learning/00796-icon-service-Personalizers.svg"
+            },
+            {
+                "service_name": "Azure AI Content Safety",
+                "service_desc": "Automated image, text, and video moderation.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety/"
+            },
+            {
+                "service_name": "Health Bot",
+                "service_desc": "A managed service purpose-built for development of virtual healthcare assistants.",
+                "service_link": "https://azure.microsoft.com/en-us/products/bot-services/health-bot/"
+            },
+            {
+                "service_name": "Azure AI Document Intelligence",
+                "service_desc": "A managed service purpose-built for development of virtual healthcare assistants.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-document-intelligence/"
+            },
+            {
+                "service_name": "Azure AI Studio",
+                "service_desc": "Your platform for developing generative AI solutions and custom copilots.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-studio",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "03513-icon-service-AI-Studio.svg",
+                "icon_location": "./Icons/ai + machine learning/03513-icon-service-AI-Studio.svg"
+            },
+            {
+                "service_name": "Azure Operator Call Protection",
+                "service_desc": "Help protect consumers from potential fraud and phone scams with intelligent AI solutions.",
+                "service_link": "https://azure.microsoft.com/en-us/products/operator-call-protection",
+                "icon_category": "hybrid + multicloud",
+                "icon_filename": "03324-icon-service-Azure-Operator-Nexus.svg",
+                "icon_location": "./Icons/hybrid + multicloud/03324-icon-service-Azure-Operator-Nexus.svg"
+            },
+            {
+                "service_name": "Microsoft Copilot for Security",
+                "service_desc": "Protect at the speed and scale of AI with a generative AI-powered assistant.",
+                "service_link": "https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-copilot-security",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            },
+            {
+                "service_name": "Azure AI Immersive Reader",
+                "service_desc": "Empower users of all ages and abilities to read and comprehend text.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-immersive-reader/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "00812-icon-service-Immersive-Readers.svg",
+                "icon_location": "./Icons/ai + machine learning/00812-icon-service-Immersive-Readers.svg"
+            },
+            {
+                "service_name": "Phi-3 open models",
+                "service_desc": "A family of powerful, small language models (SLMs) with groundbreaking performance at low cost and low latency.",
+                "service_link": "https://azure.microsoft.com/en-us/products/phi-3"
+            }
+        ]
+    },
+    {
+        "category_name": "Analytics",
+        "category_desc": "Gather, store, process, analyse and visualise data of any variety, volume or velocity.",
+        "services": [
+            {
+                "service_name": "Azure Analysis Services",
+                "service_desc": "Enterprise-grade analytics engine as a service.",
+                "service_link": "https://azure.microsoft.com/en-us/products/analysis-services/",
+                "icon_category": "analytics",
+                "icon_filename": "10148-icon-service-Analysis-Services.svg",
+                "icon_location": "./Icons/analytics/10148-icon-service-Analysis-Services.svg"
+            },
+            {
+                "service_name": "Azure Data Explorer",
+                "service_desc": "Fast and highly scalable data exploration service.",
+                "service_link": "https://azure.microsoft.com/en-us/products/data-explorer/",
+                "icon_category": "analytics",
+                "icon_filename": "10145-icon-service-Azure-Data-Explorer-Clusters.svg",
+                "icon_location": "./Icons/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg"
+            },
+            {
+                "service_name": "Azure Data Factory",
+                "service_desc": "Hybrid data integration at enterprise scale, made easy.",
+                "service_link": "https://azure.microsoft.com/en-us/products/data-factory/",
+                "icon_category": "analytics",
+                "icon_filename": "10145-icon-service-Azure-Data-Explorer-Clusters.svg",
+                "icon_location": "./Icons/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg"
+            },
+            {
+                "service_name": "Azure Data Lake Storage",
+                "service_desc": "Scalable, secure data lake for high-performance analytics.",
+                "service_link": "https://azure.microsoft.com/en-us/products/storage/data-lake-storage/",
+                "icon_category": "storage",
+                "icon_filename": "10090-icon-service-Data-Lake-Storage-Gen1.svg",
+                "icon_location": "./Icons/storage/10090-icon-service-Data-Lake-Storage-Gen1.svg"
+            },
+            {
+                "service_name": "Azure Data Share",
+                "service_desc": "A simple and safe service for sharing big data with external organizations.",
+                "service_link": "https://azure.microsoft.com/en-us/products/data-share/",
+                "icon_category": "storage",
+                "icon_filename": "10098-icon-service-Data-Shares.svg",
+                "icon_location": "./Icons/storage/10098-icon-service-Data-Shares.svg"
+            },
+            {
+                "service_name": "Azure Databricks",
+                "service_desc": "Design AI with Apache Spark\u2122-based analytics.",
+                "service_link": "https://azure.microsoft.com/en-us/products/databricks/",
+                "icon_category": "analytics",
+                "icon_filename": "10787-icon-service-Azure-Databricks.svg",
+                "icon_location": "./Icons/analytics/10787-icon-service-Azure-Databricks.svg"
+            },
+            {
+                "service_name": "Azure Stream Analytics",
+                "service_desc": "Real-time analytics on fast-moving streaming data.",
+                "service_link": "https://azure.microsoft.com/en-us/products/stream-analytics/",
+                "icon_category": "analytics",
+                "icon_filename": "00042-icon-service-Stream-Analytics-Jobs.svg",
+                "icon_location": "./Icons/analytics/00042-icon-service-Stream-Analytics-Jobs.svg"
+            },
+            {
+                "service_name": "Azure Synapse Analytics",
+                "service_desc": "Limitless analytics with unmatched time to insight.",
+                "service_link": "https://azure.microsoft.com/en-us/products/synapse-analytics/",
+                "icon_category": "analytics",
+                "icon_filename": "00606-icon-service-Azure-Synapse-Analytics.svg",
+                "icon_location": "./Icons/analytics/00606-icon-service-Azure-Synapse-Analytics.svg"
+            },
+            {
+                "service_name": "Data Catalog",
+                "service_desc": "Get more value from your enterprise data assets.",
+                "service_link": "https://azure.microsoft.com/en-us/products/data-catalog/",
+                "icon_category": "integration",
+                "icon_filename": "10216-icon-service-Azure-Data-Catalog.svg",
+                "icon_location": "./Icons/integration/10216-icon-service-Azure-Data-Catalog.svg"
+            },
+            {
+                "service_name": "Data Lake Analytics",
+                "service_desc": "Distributed analytics service that makes big data easy.",
+                "service_link": "https://azure.microsoft.com/en-us/products/data-lake-analytics/",
+                "icon_category": "analytics",
+                "icon_filename": "10143-icon-service-Data-Lake-Analytics.svg",
+                "icon_location": "./Icons/analytics/10143-icon-service-Data-Lake-Analytics.svg"
+            },
+            {
+                "service_name": "Event Hubs",
+                "service_desc": "Receive telemetry from millions of devices.",
+                "service_link": "https://azure.microsoft.com/en-us/products/event-hubs/",
+                "icon_category": "analytics",
+                "icon_filename": "00039-icon-service-Event-Hubs.svg",
+                "icon_location": "./Icons/analytics/00039-icon-service-Event-Hubs.svg"
+            },
+            {
+                "service_name": "HDInsight",
+                "service_desc": "Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters.",
+                "service_link": "https://azure.microsoft.com/en-us/products/hdinsight/"
+            },
+            {
+                "service_name": "Power BI Embedded",
+                "service_desc": "White label Power BI to quickly and easily provide exceptional customer facing dashboards and analytics in your own applications.",
+                "service_link": "https://azure.microsoft.com/en-us/products/power-bi-embedded/",
+                "icon_category": "analytics",
+                "icon_filename": "03332-icon-service-Power-BI-Embedded.svg",
+                "icon_location": "./Icons/analytics/03332-icon-service-Power-BI-Embedded.svg"
+            },
+            {
+                "service_name": "Microsoft Graph Data Connect \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
+                "service_desc": "A secure, high-throughput connector designed to copy select Microsoft 365 productivity datasets into your Azure tenant.",
+                "service_link": "https://azure.microsoft.com/en-us/products/graph-data-connect/",
+                "icon_category": "security",
+                "icon_filename": "03336-icon-service-Microsoft-Defender-EASM.svg",
+                "icon_location": "./Icons/security/03336-icon-service-Microsoft-Defender-EASM.svg"
+            },
+            {
+                "service_name": "Azure Chaos Studio",
+                "service_desc": "Improve application resilience by simulating outages and other disruptions through fault injection.",
+                "service_link": "https://azure.microsoft.com/en-us/products/chaos-studio/",
+                "icon_category": "other",
+                "icon_filename": "02223-icon-service-Azure-Chaos-Studio.svg",
+                "icon_location": "./Icons/other/02223-icon-service-Azure-Chaos-Studio.svg"
+            },
+            {
+                "service_name": "Microsoft Fabric",
+                "service_desc": "Reshape how everyone accesses, manages, and acts on data and insights by connecting every data source and analytics service together\u2014on a single, AI-powered platform.",
+                "service_link": "https://www.microsoft.com/en-us/microsoft-fabric",
+                "icon_category": "security",
+                "icon_filename": "02247-icon-service-Microsoft-Defender-for-IoT.svg",
+                "icon_location": "./Icons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
+            },
+            {
+                "service_name": "Microsoft Purview",
+                "service_desc": "Govern, protect, and manage your data estate.",
+                "service_link": "https://azure.microsoft.com/en-us/products/purview/",
+                "icon_category": "security",
+                "icon_filename": "02247-icon-service-Microsoft-Defender-for-IoT.svg",
+                "icon_location": "./Icons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
+            },
+            {
+                "service_name": "Azure HDInsight on Azure Kubernetes Service (AKS)\u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
+                "service_desc": "Deploy open-source analytics workloads and simplify container management in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/hdinsight-on-aks/",
+                "icon_category": "other",
+                "icon_filename": "03468-icon-service-HDI-AKS-Cluster.svg",
+                "icon_location": "./Icons/other/03468-icon-service-HDI-AKS-Cluster.svg"
+            },
+            {
+                "service_name": "Azure Operator Insights",
+                "service_desc": "Remove data silos and deliver analytical and business insights from massive datasets.",
+                "service_link": "https://azure.microsoft.com/en-us/products/operator-insights/",
+                "icon_category": "hybrid + multicloud",
+                "icon_filename": "03333-icon-service-Azure-Operator-Insights.svg",
+                "icon_location": "./Icons/hybrid + multicloud/03333-icon-service-Azure-Operator-Insights.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Compute",
+        "category_desc": "Access cloud compute capacity and scale on demand\u2014and only pay for the resources you use.",
+        "services": [
+            {
+                "service_name": "App Service",
+                "service_desc": "Quickly create powerful cloud apps for web and mobile.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-service/",
+                "icon_category": "containers",
+                "icon_filename": "10035-icon-service-App-Services.svg",
+                "icon_location": "./Icons/containers/10035-icon-service-App-Services.svg"
+            },
+            {
+                "service_name": "Azure Compute Fleet \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
+                "service_desc": "Easily provision and manage Azure compute capacity at scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/compute-fleet"
+            },
+            {
+                "service_name": "Azure Quantum",
+                "service_desc": "Jump in and explore a diverse selection of today's quantum hardware, software, and solutions.",
+                "service_link": "https://azure.microsoft.com/en-us/products/quantum/"
+            },
+            {
+                "service_name": "Azure Spot Virtual Machines",
+                "service_desc": "Provision unused compute capacity at deep discounts to run interruptible workloads.",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/spot/",
+                "icon_category": "networking",
+                "icon_filename": "02692-icon-service-Spot-VMSS.svg",
+                "icon_location": "./Icons/networking/02692-icon-service-Spot-VMSS.svg"
+            },
+            {
+                "service_name": "Azure Spring Apps",
+                "service_desc": "Build and deploy Spring Boot applications with a fully managed service from Microsoft and VMware.",
+                "service_link": "https://azure.microsoft.com/en-us/products/spring-apps/",
+                "icon_category": "compute",
+                "icon_filename": "10370-icon-service-Azure-Spring-Apps.svg",
+                "icon_location": "./Icons/compute/10370-icon-service-Azure-Spring-Apps.svg"
+            },
+            {
+                "service_name": "Azure VMware Solution",
+                "service_desc": "Run your VMware workloads natively on Azure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-vmware/",
+                "icon_category": "other",
+                "icon_filename": "01219-icon-service-Azure-VMware-Solution.svg",
+                "icon_location": "./Icons/other/01219-icon-service-Azure-VMware-Solution.svg"
+            },
+            {
+                "service_name": "Batch",
+                "service_desc": "Cloud-scale job scheduling and compute management.",
+                "service_link": "https://azure.microsoft.com/en-us/products/batch/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "00028-icon-service-Batch-AI.svg",
+                "icon_location": "./Icons/ai + machine learning/00028-icon-service-Batch-AI.svg"
+            },
+            {
+                "service_name": "Cloud Services",
+                "service_desc": "Create highly-available, infinitely-scalable cloud applications and APIs.",
+                "service_link": "https://azure.microsoft.com/en-us/products/cloud-services/",
+                "icon_category": "other",
+                "icon_filename": "02505-icon-service-Cloud-Services-(extended-support).svg",
+                "icon_location": "./Icons/other/02505-icon-service-Cloud-Services-(extended-support).svg"
+            },
+            {
+                "service_name": "Linux Virtual Machines",
+                "service_desc": "Provision virtual machines for Ubuntu, Red Hat, and more.",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/linux/"
+            },
+            {
+                "service_name": "SQL Server on Azure Virtual Machines",
+                "service_desc": "Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO).",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/sql-server/",
+                "icon_category": "databases",
+                "icon_filename": "10132-icon-service-SQL-Server.svg",
+                "icon_location": "./Icons/databases/10132-icon-service-SQL-Server.svg"
+            },
+            {
+                "service_name": "Static Web Apps",
+                "service_desc": "Streamlined full-stack development from source code to global high availability.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-service/static/",
+                "icon_category": "web",
+                "icon_filename": "01007-icon-service-Static-Apps.svg",
+                "icon_location": "./Icons/web/01007-icon-service-Static-Apps.svg"
+            },
+            {
+                "service_name": "Virtual Machine Scale Sets",
+                "service_desc": "Manage and scale up to thousands of Linux and Windows VMs.",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-machine-scale-sets/",
+                "icon_category": "compute",
+                "icon_filename": "10021-icon-service-Virtual-Machine.svg",
+                "icon_location": "./Icons/compute/10021-icon-service-Virtual-Machine.svg"
+            },
+            {
+                "service_name": "Virtual Machines",
+                "service_desc": "Provision Windows and Linux VMs in seconds.",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/windows/",
+                "icon_category": "compute",
+                "icon_filename": "10021-icon-service-Virtual-Machine.svg",
+                "icon_location": "./Icons/compute/10021-icon-service-Virtual-Machine.svg"
+            },
+            {
+                "service_name": "Azure Virtual Desktop",
+                "service_desc": "Enable a secure, remote desktop experience from anywhere.",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-desktop/",
+                "icon_category": "other",
+                "icon_filename": "00327-icon-service-Azure-Virtual-Desktop.svg",
+                "icon_location": "./Icons/other/00327-icon-service-Azure-Virtual-Desktop.svg"
+            },
+            {
+                "service_name": "Windows Virtual Machines",
+                "service_desc": "Provision virtual machines for SQL Server, SharePoint, and more.",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/windows/"
+            },
+            {
+                "service_name": "Azure Dedicated Host",
+                "service_desc": "A dedicated physical server to host your Azure VMs for Windows and Linux.",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/dedicated-host/",
+                "icon_category": "other",
+                "icon_filename": "02322-icon-service-Dedicated-HSM.svg",
+                "icon_location": "./Icons/other/02322-icon-service-Dedicated-HSM.svg"
+            },
+            {
+                "service_name": "Azure VM Image Builder",
+                "service_desc": "Simplify your image building process with easy to use tool.",
+                "service_link": "https://azure.microsoft.com/en-us/products/image-builder/"
+            },
+            {
+                "service_name": "Azure Kubernetes Service (AKS)",
+                "service_desc": "Deploy and scale containers on managed Kubernetes.",
+                "service_link": "https://azure.microsoft.com/en-us/products/kubernetes-service/",
+                "icon_category": "containers",
+                "icon_filename": "10023-icon-service-Kubernetes-Services.svg",
+                "icon_location": "./Icons/containers/10023-icon-service-Kubernetes-Services.svg"
+            },
+            {
+                "service_name": "Azure Functions",
+                "service_desc": "Execute event-driven serverless code functions with an end-to-end development experience.",
+                "service_link": "https://azure.microsoft.com/en-us/products/functions/",
+                "icon_category": "compute",
+                "icon_filename": "10029-icon-service-Function-Apps.svg",
+                "icon_location": "./Icons/compute/10029-icon-service-Function-Apps.svg"
+            },
+            {
+                "service_name": "Azure Container Instances",
+                "service_desc": "Launch containers with hypervisor isolation.",
+                "service_link": "https://azure.microsoft.com/en-us/products/container-instances/",
+                "icon_category": "containers",
+                "icon_filename": "10104-icon-service-Container-Instances.svg",
+                "icon_location": "./Icons/containers/10104-icon-service-Container-Instances.svg"
+            },
+            {
+                "service_name": "Azure Service Fabric",
+                "service_desc": "Deploy and operate always-on, scalable, distributed apps.",
+                "service_link": "https://azure.microsoft.com/en-us/products/service-fabric/",
+                "icon_category": "containers",
+                "icon_filename": "10036-icon-service-Service-Fabric-Clusters.svg",
+                "icon_location": "./Icons/containers/10036-icon-service-Service-Fabric-Clusters.svg"
+            },
+            {
+                "service_name": "Azure Modeling and Simulation Workbench",
+                "service_desc": "A collaborative on-demand, secure workspace for research and engineering projects.",
+                "service_link": "https://azure.microsoft.com/en-us/products/modeling-and-simulation-workbench"
+            }
+        ]
+    },
+    {
+        "category_name": "Containers",
+        "category_desc": "Develop and manage your containerized applications faster with integrated tools.",
+        "services": [
+            {
+                "service_name": "App Configuration",
+                "service_desc": "Fast, scalable parameter storage for app configuration.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-configuration/",
+                "icon_category": "integration",
+                "icon_filename": "10219-icon-service-App-Configuration.svg",
+                "icon_location": "./Icons/integration/10219-icon-service-App-Configuration.svg"
+            },
+            {
+                "service_name": "Azure Kubernetes Service (AKS)",
+                "service_desc": "Deploy and scale containers on managed Kubernetes.",
+                "service_link": "https://azure.microsoft.com/en-us/products/kubernetes-service/",
+                "icon_category": "containers",
+                "icon_filename": "10023-icon-service-Kubernetes-Services.svg",
+                "icon_location": "./Icons/containers/10023-icon-service-Kubernetes-Services.svg"
+            },
+            {
+                "service_name": "Azure Kubernetes Fleet Manager \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
+                "service_desc": "Seamlessly manage Kubernetes clusters at scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/kubernetes-fleet-manager/",
+                "icon_category": "other",
+                "icon_filename": "03134-icon-service-Kubernetes-Fleet-Manager.svg",
+                "icon_location": "./Icons/other/03134-icon-service-Kubernetes-Fleet-Manager.svg"
+            },
+            {
+                "service_name": "Azure Red Hat OpenShift",
+                "service_desc": "Deploy and scale containers on managed Red Hat OpenShift.",
+                "service_link": "https://azure.microsoft.com/en-us/products/openshift/",
+                "icon_category": "containers",
+                "icon_filename": "03331-icon-service-Azure-Red-Hat-OpenShift.svg",
+                "icon_location": "./Icons/containers/03331-icon-service-Azure-Red-Hat-OpenShift.svg"
+            },
+            {
+                "service_name": "Azure Container Apps",
+                "service_desc": "Build and deploy modern apps and microservices using serverless containers.",
+                "service_link": "https://azure.microsoft.com/en-us/products/container-apps/",
+                "icon_category": "other",
+                "icon_filename": "02989-icon-service-Container-Apps-Environments.svg",
+                "icon_location": "./Icons/other/02989-icon-service-Container-Apps-Environments.svg"
+            },
+            {
+                "service_name": "Azure Functions",
+                "service_desc": "Execute event-driven serverless code functions with an end-to-end development experience.",
+                "service_link": "https://azure.microsoft.com/en-us/products/functions/",
+                "icon_category": "compute",
+                "icon_filename": "10029-icon-service-Function-Apps.svg",
+                "icon_location": "./Icons/compute/10029-icon-service-Function-Apps.svg"
+            },
+            {
+                "service_name": "Web App for Containers",
+                "service_desc": "Run containerized web apps on Windows and Linux.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-service/containers",
+                "icon_category": "general",
+                "icon_filename": "10850-icon-service-Web-Test.svg",
+                "icon_location": "./Icons/general/10850-icon-service-Web-Test.svg"
+            },
+            {
+                "service_name": "Azure Container Instances",
+                "service_desc": "Launch containers with hypervisor isolation.",
+                "service_link": "https://azure.microsoft.com/en-us/products/container-instances/",
+                "icon_category": "containers",
+                "icon_filename": "10104-icon-service-Container-Instances.svg",
+                "icon_location": "./Icons/containers/10104-icon-service-Container-Instances.svg"
+            },
+            {
+                "service_name": "Azure Service Fabric",
+                "service_desc": "Deploy and operate always-on, scalable, distributed apps.",
+                "service_link": "https://azure.microsoft.com/en-us/products/service-fabric/",
+                "icon_category": "containers",
+                "icon_filename": "10036-icon-service-Service-Fabric-Clusters.svg",
+                "icon_location": "./Icons/containers/10036-icon-service-Service-Fabric-Clusters.svg"
+            },
+            {
+                "service_name": "Azure Container Registry",
+                "service_desc": "Build, store, secure, and replicate container images and artifacts.",
+                "service_link": "https://azure.microsoft.com/en-us/products/container-registry/",
+                "icon_category": "containers",
+                "icon_filename": "10105-icon-service-Container-Registries.svg",
+                "icon_location": "./Icons/containers/10105-icon-service-Container-Registries.svg"
+            },
+            {
+                "service_name": "Azure Container Storage \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
+                "service_desc": "Manage persistent volumes for stateful container applications.",
+                "service_link": "https://azure.microsoft.com/en-us/products/container-storage/"
+            }
+        ]
+    },
+    {
+        "category_name": "Databases",
+        "category_desc": "Support rapid growth and innovate faster with secure, enterprise-grade, and fully managed database services.",
+        "services": [
+            {
+                "service_name": "Azure Cache for Redis",
+                "service_desc": "Accelerate apps with high-throughput, low-latency data caching.",
+                "service_link": "https://azure.microsoft.com/en-us/products/cache/",
+                "icon_category": "databases",
+                "icon_filename": "10137-icon-service-Cache-Redis.svg",
+                "icon_location": "./Icons/databases/10137-icon-service-Cache-Redis.svg"
+            },
+            {
+                "service_name": "Azure Cosmos DB",
+                "service_desc": "Build or modernize scalable, high-performance apps.",
+                "service_link": "https://azure.microsoft.com/en-us/products/cosmos-db/",
+                "icon_category": "iot",
+                "icon_filename": "10121-icon-service-Azure-Cosmos-DB.svg",
+                "icon_location": "./Icons/iot/10121-icon-service-Azure-Cosmos-DB.svg"
+            },
+            {
+                "service_name": "Azure Data Factory",
+                "service_desc": "Hybrid data integration at enterprise scale, made easy.",
+                "service_link": "https://azure.microsoft.com/en-us/products/data-factory/",
+                "icon_category": "analytics",
+                "icon_filename": "10145-icon-service-Azure-Data-Explorer-Clusters.svg",
+                "icon_location": "./Icons/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg"
+            },
+            {
+                "service_name": "Azure Database for MariaDB",
+                "service_desc": "Deploy applications to the cloud with enterprise-ready, fully managed community MariaDB.",
+                "service_link": "https://azure.microsoft.com/en-us/products/mariadb/",
+                "icon_category": "databases",
+                "icon_filename": "02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg",
+                "icon_location": "./Icons/databases/02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg"
+            },
+            {
+                "service_name": "Azure Database for MySQL",
+                "service_desc": "Fully managed, scalable MySQL Database.",
+                "service_link": "https://azure.microsoft.com/en-us/products/mysql/",
+                "icon_category": "migration",
+                "icon_filename": "10133-icon-service-Azure-Database-Migration-Services.svg",
+                "icon_location": "./Icons/migration/10133-icon-service-Azure-Database-Migration-Services.svg"
+            },
+            {
+                "service_name": "Azure Database for PostgreSQL",
+                "service_desc": "Fully managed, intelligent, and scalable PostgreSQL.",
+                "service_link": "https://azure.microsoft.com/en-us/products/postgresql/",
+                "icon_category": "databases",
+                "icon_filename": "02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg",
+                "icon_location": "./Icons/databases/02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg"
+            },
+            {
+                "service_name": "Azure Database Migration Service",
+                "service_desc": "Accelerate your data migration to Azure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/database-migration/",
+                "icon_category": "migration",
+                "icon_filename": "10133-icon-service-Azure-Database-Migration-Services.svg",
+                "icon_location": "./Icons/migration/10133-icon-service-Azure-Database-Migration-Services.svg"
+            },
+            {
+                "service_name": "Azure SQL",
+                "service_desc": "Migrate, modernize, and innovate on the modern SQL family of cloud databases.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/",
+                "icon_category": "databases",
+                "icon_filename": "02390-icon-service-Azure-SQL.svg",
+                "icon_location": "./Icons/databases/02390-icon-service-Azure-SQL.svg"
+            },
+            {
+                "service_name": "Azure SQL Database",
+                "service_desc": "Build apps that scale with managed and intelligent SQL database in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/database/",
+                "icon_category": "databases",
+                "icon_filename": "10130-icon-service-SQL-Database.svg",
+                "icon_location": "./Icons/databases/10130-icon-service-SQL-Database.svg"
+            },
+            {
+                "service_name": "Azure SQL Edge",
+                "service_desc": "Consume Services privately on Azure Platform.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/edge/",
+                "icon_category": "databases",
+                "icon_filename": "02750-icon-service-Azure-SQL-Edge.svg",
+                "icon_location": "./Icons/databases/02750-icon-service-Azure-SQL-Edge.svg"
+            },
+            {
+                "service_name": "Azure SQL Managed Instance",
+                "service_desc": "Modernize SQL Server applications with a managed, always-up-to-date SQL instance in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/managed-instance/",
+                "icon_category": "databases",
+                "icon_filename": "10136-icon-service-SQL-Managed-Instance.svg",
+                "icon_location": "./Icons/databases/10136-icon-service-SQL-Managed-Instance.svg"
+            },
+            {
+                "service_name": "SQL Server on Azure Virtual Machines",
+                "service_desc": "Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO).",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/sql-server/",
+                "icon_category": "databases",
+                "icon_filename": "10132-icon-service-SQL-Server.svg",
+                "icon_location": "./Icons/databases/10132-icon-service-SQL-Server.svg"
+            },
+            {
+                "service_name": "Table Storage",
+                "service_desc": "NoSQL key-value store using semi-structured datasets.",
+                "service_link": "https://azure.microsoft.com/en-us/products/storage/tables/",
+                "icon_category": "general",
+                "icon_filename": "10841-icon-service-Table.svg",
+                "icon_location": "./Icons/general/10841-icon-service-Table.svg"
+            },
+            {
+                "service_name": "Azure Managed Instance for Apache Cassandra",
+                "service_desc": "Modernize Cassandra data clusters with a managed instance in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/managed-instance-apache-cassandra/",
+                "icon_category": "other",
+                "icon_filename": "02663-icon-service-Managed-Instance-Apache-Cassandra.svg",
+                "icon_location": "./Icons/other/02663-icon-service-Managed-Instance-Apache-Cassandra.svg"
+            },
+            {
+                "service_name": "Azure confidential ledger",
+                "service_desc": "Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-confidential-ledger/"
+            }
+        ]
+    },
+    {
+        "category_name": "Developer tools",
+        "category_desc": "Build, manage, and continuously deliver cloud applications\u2014using any platform or language.",
+        "services": [
+            {
+                "service_name": "App Configuration",
+                "service_desc": "Fast, scalable parameter storage for app configuration.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-configuration/",
+                "icon_category": "integration",
+                "icon_filename": "10219-icon-service-App-Configuration.svg",
+                "icon_location": "./Icons/integration/10219-icon-service-App-Configuration.svg"
+            },
+            {
+                "service_name": "Azure DevOps",
+                "service_desc": "Services for teams to share code, track work, and ship software.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devops/",
+                "icon_category": "devops",
+                "icon_filename": "10261-icon-service-Azure-DevOps.svg",
+                "icon_location": "./Icons/devops/10261-icon-service-Azure-DevOps.svg"
+            },
+            {
+                "service_name": "Azure DevTest Labs",
+                "service_desc": "Quickly create environments using reusable templates and artifacts.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devtest-lab/",
+                "icon_category": "devops",
+                "icon_filename": "10264-icon-service-DevTest-Labs.svg",
+                "icon_location": "./Icons/devops/10264-icon-service-DevTest-Labs.svg"
+            },
+            {
+                "service_name": "Azure Pipelines",
+                "service_desc": "Continuously build, test, and deploy to any platform and cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devops/pipelines/"
+            },
+            {
+                "service_name": "SDKs",
+                "service_desc": "Get the SDKs and command-line tools you need.",
+                "service_link": "https://azure.microsoft.com/en-us/downloads/"
+            },
+            {
+                "service_name": "Visual Studio",
+                "service_desc": "Powerful and flexible environment to develop apps in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/visual-studio/"
+            },
+            {
+                "service_name": "Visual Studio Code",
+                "service_desc": "A powerful, lightweight code editor for cloud development.",
+                "service_link": "https://azure.microsoft.com/en-us/products/visual-studio-code/"
+            },
+            {
+                "service_name": "Azure Load Testing",
+                "service_desc": "Optimize app performance with high-scale load testing.",
+                "service_link": "https://azure.microsoft.com/en-us/products/load-testing/",
+                "icon_category": "other",
+                "icon_filename": "02944-icon-service-Azure-Load-Testing.svg",
+                "icon_location": "./Icons/other/02944-icon-service-Azure-Load-Testing.svg"
+            },
+            {
+                "service_name": "Microsoft Dev Box",
+                "service_desc": "Streamline development with secure, ready-to-code workstations in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/dev-box/",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            },
+            {
+                "service_name": "Azure Deployment Environments",
+                "service_desc": "Quickly spin up app infrastructure environments with project-based templates.",
+                "service_link": "https://azure.microsoft.com/en-us/products/deployment-environments/",
+                "icon_category": "other",
+                "icon_filename": "03251-icon-service-Azure-Deployment-Environments.svg",
+                "icon_location": "./Icons/other/03251-icon-service-Azure-Deployment-Environments.svg"
+            },
+            {
+                "service_name": "Microsoft Playwright Testing",
+                "service_desc": "Scalable end-to-end modern web app testing service.",
+                "service_link": "https://azure.microsoft.com/en-us/products/playwright-testing/",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            },
+            {
+                "service_name": "Azure Managed Confidential Consortium Framework {CCF} \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
+                "service_desc": "Build enterprise-grade, consortium-style stateful services and decentralized-trust applications with a common source of truth",
+                "service_link": "https://azure.microsoft.com/en-us/products/managed-ccf",
+                "icon_category": "management + governance",
+                "icon_filename": "10311-icon-service-Managed-Desktop.svg",
+                "icon_location": "./Icons/management + governance/10311-icon-service-Managed-Desktop.svg"
+            },
+            {
+                "service_name": "Trusted Signing",
+                "service_desc": "Secure your applications with a fully managed end-to-end signing service for code, documents, applications, and more.",
+                "service_link": "https://azure.microsoft.com/en-us/products/trusted-signing"
+            }
+        ]
+    },
+    {
+        "category_name": "DevOps",
+        "category_desc": "Deliver innovation faster with simple, reliable tools for continuous delivery.",
+        "services": [
+            {
+                "service_name": "Azure Artifacts",
+                "service_desc": "Create, host, and share packages with your team.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devops/artifacts/"
+            },
+            {
+                "service_name": "Azure Boards",
+                "service_desc": "Plan, track, and discuss work across your teams.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devops/boards/"
+            },
+            {
+                "service_name": "Azure DevOps",
+                "service_desc": "Services for teams to share code, track work, and ship software.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devops/",
+                "icon_category": "devops",
+                "icon_filename": "10261-icon-service-Azure-DevOps.svg",
+                "icon_location": "./Icons/devops/10261-icon-service-Azure-DevOps.svg"
+            },
+            {
+                "service_name": "Azure DevTest Labs",
+                "service_desc": "Quickly create environments using reusable templates and artifacts.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devtest-lab/",
+                "icon_category": "devops",
+                "icon_filename": "10264-icon-service-DevTest-Labs.svg",
+                "icon_location": "./Icons/devops/10264-icon-service-DevTest-Labs.svg"
+            },
+            {
+                "service_name": "Azure Monitor",
+                "service_desc": "Full observability into your applications, infrastructure, and network.",
+                "service_link": "https://azure.microsoft.com/en-us/products/monitor/",
+                "icon_category": "monitor",
+                "icon_filename": "00001-icon-service-Monitor.svg",
+                "icon_location": "./Icons/monitor/00001-icon-service-Monitor.svg"
+            },
+            {
+                "service_name": "Azure Pipelines",
+                "service_desc": "Continuously build, test, and deploy to any platform and cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devops/pipelines"
+            },
+            {
+                "service_name": "Azure Repos",
+                "service_desc": "Get unlimited, cloud-hosted private Git repos for your project.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devops/repos/"
+            },
+            {
+                "service_name": "Azure Test Plans",
+                "service_desc": "Test and ship confidently with an exploratory test toolkit.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devops/test-plans/"
+            },
+            {
+                "service_name": "DevOps tool integrations",
+                "service_desc": "Use your favorite DevOps tools with Azure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devops/",
+                "icon_category": "devops",
+                "icon_filename": "10261-icon-service-Azure-DevOps.svg",
+                "icon_location": "./Icons/devops/10261-icon-service-Azure-DevOps.svg"
+            },
+            {
+                "service_name": "Azure Load Testing",
+                "service_desc": "Optimize app performance with high-scale load testing.",
+                "service_link": "https://azure.microsoft.com/en-us/products/load-testing/",
+                "icon_category": "other",
+                "icon_filename": "02944-icon-service-Azure-Load-Testing.svg",
+                "icon_location": "./Icons/other/02944-icon-service-Azure-Load-Testing.svg"
+            },
+            {
+                "service_name": "Azure Managed Grafana",
+                "service_desc": "Deploy Grafana dashboards as a fully managed Azure service.",
+                "service_link": "https://azure.microsoft.com/en-us/products/managed-grafana/",
+                "icon_category": "other",
+                "icon_filename": "02905-icon-service-Azure-Managed-Grafana.svg",
+                "icon_location": "./Icons/other/02905-icon-service-Azure-Managed-Grafana.svg"
+            },
+            {
+                "service_name": "Microsoft Dev Box",
+                "service_desc": "Streamline development with secure, ready-to-code workstations in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/dev-box/",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            },
+            {
+                "service_name": "Azure Deployment Environments",
+                "service_desc": "Quickly spin up app infrastructure environments with project-based templates.",
+                "service_link": "https://azure.microsoft.com/en-us/products/deployment-environments/",
+                "icon_category": "other",
+                "icon_filename": "03251-icon-service-Azure-Deployment-Environments.svg",
+                "icon_location": "./Icons/other/03251-icon-service-Azure-Deployment-Environments.svg"
+            },
+            {
+                "service_name": "GitHub Advanced Security for Azure DevOps",
+                "service_desc": "Develop securely from inception to ship.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devops/github-advanced-security"
+            },
+            {
+                "service_name": "Microsoft Playwright Testing",
+                "service_desc": "Scalable end-to-end modern web app testing service.",
+                "service_link": "https://azure.microsoft.com/en-us/products/playwright-testing/",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Hybrid + multicloud",
+        "category_desc": "Get Azure innovation everywhere\u2014bring the agility and innovation of cloud computing to your on-premises workloads.",
+        "services": [
+            {
+                "service_name": "Azure Arc",
+                "service_desc": "Secure, develop, and operate infrastructure, apps, and Azure services anywhere.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-arc/",
+                "icon_category": "management + governance",
+                "icon_filename": "00756-icon-service-Azure-Arc.svg",
+                "icon_location": "./Icons/management + governance/00756-icon-service-Azure-Arc.svg"
+            },
+            {
+                "service_name": "Azure Database for PostgreSQL",
+                "service_desc": "Fully managed, intelligent, and scalable PostgreSQL.",
+                "service_link": "https://azure.microsoft.com/en-us/products/postgresql/",
+                "icon_category": "databases",
+                "icon_filename": "02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg",
+                "icon_location": "./Icons/databases/02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg"
+            },
+            {
+                "service_name": "Azure DevOps",
+                "service_desc": "Services for teams to share code, track work, and ship software.",
+                "service_link": "https://azure.microsoft.com/en-us/products/devops/",
+                "icon_category": "devops",
+                "icon_filename": "10261-icon-service-Azure-DevOps.svg",
+                "icon_location": "./Icons/devops/10261-icon-service-Azure-DevOps.svg"
+            },
+            {
+                "service_name": "Azure ExpressRoute",
+                "service_desc": "Experience a fast, reliable, and private connection to Azure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/expressroute/",
+                "icon_category": "networking",
+                "icon_filename": "10079-icon-service-ExpressRoute-Circuits.svg",
+                "icon_location": "./Icons/networking/10079-icon-service-ExpressRoute-Circuits.svg"
+            },
+            {
+                "service_name": "Azure IoT Edge",
+                "service_desc": "Extend cloud intelligence and analytics to edge devices.",
+                "service_link": "https://azure.microsoft.com/en-us/products/iot-edge/",
+                "icon_category": "iot",
+                "icon_filename": "10186-icon-service-IoT-Edge.svg",
+                "icon_location": "./Icons/iot/10186-icon-service-IoT-Edge.svg"
+            },
+            {
+                "service_name": "Microsoft Sentinel",
+                "service_desc": "Cloud-native SIEM and intelligent security analytics.",
+                "service_link": "https://azure.microsoft.com/en-us/products/microsoft-sentinel/",
+                "icon_category": "security",
+                "icon_filename": "10241-icon-service-Microsoft-Defender-for-Cloud.svg",
+                "icon_location": "./Icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
+            },
+            {
+                "service_name": "Azure SQL Database",
+                "service_desc": "Build apps that scale with managed and intelligent SQL database in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/database/",
+                "icon_category": "databases",
+                "icon_filename": "10130-icon-service-SQL-Database.svg",
+                "icon_location": "./Icons/databases/10130-icon-service-SQL-Database.svg"
+            },
+            {
+                "service_name": "Azure SQL Edge",
+                "service_desc": "Consume Services privately on Azure Platform.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/edge/",
+                "icon_category": "databases",
+                "icon_filename": "02750-icon-service-Azure-SQL-Edge.svg",
+                "icon_location": "./Icons/databases/02750-icon-service-Azure-SQL-Edge.svg"
+            },
+            {
+                "service_name": "Azure Stack",
+                "service_desc": "Build and run innovative hybrid apps across cloud boundaries.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-stack/edge/",
+                "icon_category": "iot",
+                "icon_filename": "10114-icon-service-Azure-Stack.svg",
+                "icon_location": "./Icons/iot/10114-icon-service-Azure-Stack.svg"
+            },
+            {
+                "service_name": "Microsoft Defender for Cloud",
+                "service_desc": "Extend threat protection to any infrastructure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/defender-for-cloud/",
+                "icon_category": "security",
+                "icon_filename": "10241-icon-service-Microsoft-Defender-for-Cloud.svg",
+                "icon_location": "./Icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
+            },
+            {
+                "service_name": "Azure Stack HCI",
+                "service_desc": "Run your production workloads and cloud-native apps anywhere.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-stack/hci/",
+                "icon_category": "iot",
+                "icon_filename": "03466-icon-service-Stack-HCI-Premium.svg",
+                "icon_location": "./Icons/iot/03466-icon-service-Stack-HCI-Premium.svg"
+            },
+            {
+                "service_name": "Azure Stack Hub",
+                "service_desc": "Azure Stack Hub is sold as an integrated hardware system, with software pre-installed on validated hardware.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-stack/hub/",
+                "icon_category": "iot",
+                "icon_filename": "10114-icon-service-Azure-Stack.svg",
+                "icon_location": "./Icons/iot/10114-icon-service-Azure-Stack.svg"
+            },
+            {
+                "service_name": "Azure Stack Edge",
+                "service_desc": "An Azure managed device that brings the compute, storage, and intelligence of Azure to the edge.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-stack/edge/",
+                "icon_category": "migrate",
+                "icon_filename": "10095-icon-service-Azure-Stack-Edge.svg",
+                "icon_location": "./Icons/migrate/10095-icon-service-Azure-Stack-Edge.svg"
+            },
+            {
+                "service_name": "Azure Programmable Connectivity",
+                "service_desc": "A complete, rugged datacenter solution.",
+                "service_link": "https://azure.microsoft.com/en-us/products/programmable-connectivity",
+                "icon_category": "hybrid + multicloud",
+                "icon_filename": "03347-icon-service-Azure-Programmable-Connectivity.svg",
+                "icon_location": "./Icons/hybrid + multicloud/03347-icon-service-Azure-Programmable-Connectivity.svg"
+            },
+            {
+                "service_name": "Azure Kubernetes Service Edge Essentials",
+                "service_desc": "Azure Kubernetes Service Edge Essentials is an on-premises Kubernetes implementation of Azure Kubernetes Service (AKS) that automates running containerized applications at scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/kubernetes-service/",
+                "icon_category": "containers",
+                "icon_filename": "10023-icon-service-Kubernetes-Services.svg",
+                "icon_location": "./Icons/containers/10023-icon-service-Kubernetes-Services.svg"
+            },
+            {
+                "service_name": "Azure Operator Insights",
+                "service_desc": "Remove data silos and deliver business insights from massive datasets.",
+                "service_link": "https://azure.microsoft.com/en-us/products/operator-insights/",
+                "icon_category": "hybrid + multicloud",
+                "icon_filename": "03333-icon-service-Azure-Operator-Insights.svg",
+                "icon_location": "./Icons/hybrid + multicloud/03333-icon-service-Azure-Operator-Insights.svg"
+            },
+            {
+                "service_name": "Azure Operator Service Manager",
+                "service_desc": "Simplify the deployment, upgrade, and management of complex operator services.",
+                "service_link": "https://azure.microsoft.com/en-us/products/operator-service-manager/",
+                "icon_category": "hybrid + multicloud",
+                "icon_filename": "03334-icon-service-Azure-Operator-Service-Manager.svg",
+                "icon_location": "./Icons/hybrid + multicloud/03334-icon-service-Azure-Operator-Service-Manager.svg"
+            },
+            {
+                "service_name": "Azure Operator Nexus",
+                "service_desc": "Discover a hybrid platform built for mission-critical mobile network applications and can support deployment of both containerized and virtualized network functions.",
+                "service_link": "https://azure.microsoft.com/en-us/products/operator-nexus/",
+                "icon_category": "hybrid + multicloud",
+                "icon_filename": "03324-icon-service-Azure-Operator-Nexus.svg",
+                "icon_location": "./Icons/hybrid + multicloud/03324-icon-service-Azure-Operator-Nexus.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Identity",
+        "category_desc": "Manage user identities and access to protect against advanced threats across devices, data, apps, and infrastructure.",
+        "services": [
+            {
+                "service_name": "Microsoft Entra ID (formerly Azure AD)",
+                "service_desc": "Synchronize on-premises directories and enable single sign-on.",
+                "service_link": "https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            },
+            {
+                "service_name": "Microsoft Entra Domain Services",
+                "service_desc": "Manage your domain controllers in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/microsoft-entra-ds",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            },
+            {
+                "service_name": "Azure Active Directory B2C",
+                "service_desc": "Consumer identity and access management in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/active-directory-external-identities",
+                "icon_category": "identity",
+                "icon_filename": "10221-icon-service-Azure-Active-Directory.svg",
+                "icon_location": "./Icons/identity/10221-icon-service-Azure-Active-Directory.svg"
+            },
+            {
+                "service_name": "Microsoft Entra External ID",
+                "service_desc": "Personalize and help secure access to any application for customers and partners.",
+                "service_link": "https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Integration",
+        "category_desc": "Seamlessly integrate on-premises and cloud-based applications, data, and processes across your enterprise.",
+        "services": [
+            {
+                "service_name": "API Management",
+                "service_desc": "Publish APIs to developers, partners, and employees securely and at scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/api-management/",
+                "icon_category": "integration",
+                "icon_filename": "10042-icon-service-API-Management-Services.svg",
+                "icon_location": "./Icons/integration/10042-icon-service-API-Management-Services.svg"
+            },
+            {
+                "service_name": "Azure Health Data Services",
+                "service_desc": "Unify and manage health data and protected health information (PHI) in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/health-data-services/"
+            },
+            {
+                "service_name": "Event Grid",
+                "service_desc": "Reliable event delivery at massive scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/event-grid/",
+                "icon_category": "iot",
+                "icon_filename": "10221-icon-service-Event-Grid-Subscriptions.svg",
+                "icon_location": "./Icons/iot/10221-icon-service-Event-Grid-Subscriptions.svg"
+            },
+            {
+                "service_name": "Logic Apps",
+                "service_desc": "Automate the access and use of data across clouds.",
+                "service_link": "https://azure.microsoft.com/en-us/products/logic-apps/",
+                "icon_category": "iot",
+                "icon_filename": "02631-icon-service-Logic-Apps.svg",
+                "icon_location": "./Icons/iot/02631-icon-service-Logic-Apps.svg"
+            },
+            {
+                "service_name": "Service Bus",
+                "service_desc": "Connect across private and public cloud environments.",
+                "service_link": "https://azure.microsoft.com/en-us/products/service-bus/",
+                "icon_category": "integration",
+                "icon_filename": "10836-icon-service-Azure-Service-Bus.svg",
+                "icon_location": "./Icons/integration/10836-icon-service-Azure-Service-Bus.svg"
+            },
+            {
+                "service_name": "Azure Web PubSub",
+                "service_desc": "Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern.",
+                "service_link": "https://azure.microsoft.com/en-us/products/web-pubsub/",
+                "icon_category": "networking",
+                "icon_filename": "10362-icon-service-Web-Application-Firewall-Policies(WAF).svg",
+                "icon_location": "./Icons/networking/10362-icon-service-Web-Application-Firewall-Policies(WAF).svg"
+            },
+            {
+                "service_name": "Microsoft Energy Data Services",
+                "service_desc": "Accelerate your journey to energy data modernization and digital transformation.",
+                "service_link": "https://azure.microsoft.com/en-us/products/data-manager-for-energy",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            },
+            {
+                "service_name": "Microsoft Azure Data Manager for Agriculture \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
+                "service_desc": "Azure Data Manager for Agriculture extends the Microsoft Intelligent Data Platform with industry-specific data connectors and\u202fcapabilities to bring together farm data from disparate sources, enabling organizations\u202fto\u202fleverage high quality\u202fdatasets and accelerate the development of digital agriculture solutions.",
+                "service_link": "https://azure.microsoft.com/en-us/products/data-manager-for-agriculture/",
+                "icon_category": "security",
+                "icon_filename": "02247-icon-service-Microsoft-Defender-for-IoT.svg",
+                "icon_location": "./Icons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Internet of Things",
+        "category_desc": "Connect assets or environments, discover insights, and drive informed actions to transform your business.",
+        "services": [
+            {
+                "service_name": "API Management",
+                "service_desc": "Publish APIs to developers, partners, and employees securely and at scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/api-management/",
+                "icon_category": "integration",
+                "icon_filename": "10042-icon-service-API-Management-Services.svg",
+                "icon_location": "./Icons/integration/10042-icon-service-API-Management-Services.svg"
+            },
+            {
+                "service_name": "Azure Cosmos DB",
+                "service_desc": "Build or modernize scalable, high-performance apps.",
+                "service_link": "https://azure.microsoft.com/en-us/products/cosmos-db/",
+                "icon_category": "iot",
+                "icon_filename": "10121-icon-service-Azure-Cosmos-DB.svg",
+                "icon_location": "./Icons/iot/10121-icon-service-Azure-Cosmos-DB.svg"
+            },
+            {
+                "service_name": "Azure Digital Twins",
+                "service_desc": "Use IoT spatial intelligence to create models of physical environments.",
+                "service_link": "https://azure.microsoft.com/en-us/products/digital-twins/",
+                "icon_category": "iot",
+                "icon_filename": "01030-icon-service-Digital-Twins.svg",
+                "icon_location": "./Icons/iot/01030-icon-service-Digital-Twins.svg"
+            },
+            {
+                "service_name": "Azure IoT Central",
+                "service_desc": "Go from proof of concept to proof of value.",
+                "service_link": "https://azure.microsoft.com/en-us/products/iot-central/",
+                "icon_category": "iot",
+                "icon_filename": "10184-icon-service-IoT-Central-Applications.svg",
+                "icon_location": "./Icons/iot/10184-icon-service-IoT-Central-Applications.svg"
+            },
+            {
+                "service_name": "Azure IoT Edge",
+                "service_desc": "Extend cloud intelligence and analytics to edge devices.",
+                "service_link": "https://azure.microsoft.com/en-us/products/iot-edge/",
+                "icon_category": "iot",
+                "icon_filename": "10186-icon-service-IoT-Edge.svg",
+                "icon_location": "./Icons/iot/10186-icon-service-IoT-Edge.svg"
+            },
+            {
+                "service_name": "Azure IoT Hub",
+                "service_desc": "Connect, monitor, and manage billions of IoT assets.",
+                "service_link": "https://azure.microsoft.com/en-us/products/iot-hub/",
+                "icon_category": "iot",
+                "icon_filename": "10182-icon-service-IoT-Hub.svg",
+                "icon_location": "./Icons/iot/10182-icon-service-IoT-Hub.svg"
+            },
+            {
+                "service_name": "Azure IoT Operations",
+                "service_desc": "Unlock insights for intelligent local actions and global visibility. Enabled by Azure Arc.",
+                "service_link": "https://azure.microsoft.com/en-us/products/iot-operations",
+                "icon_category": "iot",
+                "icon_filename": "03485-icon-service-Azure-IoT-Operations.svg",
+                "icon_location": "./Icons/iot/03485-icon-service-Azure-IoT-Operations.svg"
+            },
+            {
+                "service_name": "Azure Functions",
+                "service_desc": "Execute event-driven serverless code functions with an end-to-end development experience.",
+                "service_link": "https://azure.microsoft.com/en-us/products/functions/",
+                "icon_category": "compute",
+                "icon_filename": "10029-icon-service-Function-Apps.svg",
+                "icon_location": "./Icons/compute/10029-icon-service-Function-Apps.svg"
+            },
+            {
+                "service_name": "Azure Machine Learning",
+                "service_desc": "Use an enterprise-grade service for the end-to-end machine learning lifecycle.",
+                "service_link": "https://azure.microsoft.com/en-us/products/machine-learning/",
+                "icon_category": "ai + machine learning",
+                "icon_filename": "10166-icon-service-Machine-Learning.svg",
+                "icon_location": "./Icons/ai + machine learning/10166-icon-service-Machine-Learning.svg"
+            },
+            {
+                "service_name": "Azure Maps",
+                "service_desc": "Add location data and mapping visuals to business applications and solutions.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-maps/",
+                "icon_category": "iot",
+                "icon_filename": "10185-icon-service-Azure-Maps-Accounts.svg",
+                "icon_location": "./Icons/iot/10185-icon-service-Azure-Maps-Accounts.svg"
+            },
+            {
+                "service_name": "Azure RTOS",
+                "service_desc": "Making embedded IoT development and connectivity easy.",
+                "service_link": "https://azure.microsoft.com/en-us/products/rtos/",
+                "icon_category": "other",
+                "icon_filename": "10778-icon-service-RTOS.svg",
+                "icon_location": "./Icons/other/10778-icon-service-RTOS.svg"
+            },
+            {
+                "service_name": "Azure Sphere",
+                "service_desc": "Create, connect, and maintain secured intelligent IoT devices from the edge to the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-sphere/",
+                "icon_category": "other",
+                "icon_filename": "10190-icon-service-Azure-Sphere.svg",
+                "icon_location": "./Icons/other/10190-icon-service-Azure-Sphere.svg"
+            },
+            {
+                "service_name": "Azure SQL Edge",
+                "service_desc": "Consume Services privately on Azure Platform.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/edge/",
+                "icon_category": "databases",
+                "icon_filename": "02750-icon-service-Azure-SQL-Edge.svg",
+                "icon_location": "./Icons/databases/02750-icon-service-Azure-SQL-Edge.svg"
+            },
+            {
+                "service_name": "Azure Stream Analytics",
+                "service_desc": "Real-time analytics on fast-moving streaming data.",
+                "service_link": "https://azure.microsoft.com/en-us/products/stream-analytics/",
+                "icon_category": "analytics",
+                "icon_filename": "00042-icon-service-Stream-Analytics-Jobs.svg",
+                "icon_location": "./Icons/analytics/00042-icon-service-Stream-Analytics-Jobs.svg"
+            },
+            {
+                "service_name": "Azure Time Series Insights",
+                "service_desc": "Visualize IoT data in real time.",
+                "service_link": "https://azure.microsoft.com/en-us/products/time-series-insights/",
+                "icon_category": "iot",
+                "icon_filename": "10192-icon-service-Time-Series-Insights-Access-Policies.svg",
+                "icon_location": "./Icons/iot/10192-icon-service-Time-Series-Insights-Access-Policies.svg"
+            },
+            {
+                "service_name": "Event Grid",
+                "service_desc": "Reliable event delivery at massive scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/event-grid/",
+                "icon_category": "iot",
+                "icon_filename": "10221-icon-service-Event-Grid-Subscriptions.svg",
+                "icon_location": "./Icons/iot/10221-icon-service-Event-Grid-Subscriptions.svg"
+            },
+            {
+                "service_name": "Notification Hubs",
+                "service_desc": "Send push notifications to any platform from any back end.",
+                "service_link": "https://azure.microsoft.com/en-us/products/notification-hubs/",
+                "icon_category": "mobile",
+                "icon_filename": "10045-icon-service-Notification-Hubs.svg",
+                "icon_location": "./Icons/mobile/10045-icon-service-Notification-Hubs.svg"
+            },
+            {
+                "service_name": "Windows 10 IoT Core Services",
+                "service_desc": "Long-term OS support and services to manage device updates and assess device health.",
+                "service_link": "https://azure.microsoft.com/en-us/products/windows-10-iot-core/",
+                "icon_category": "iot",
+                "icon_filename": "10203-icon-service-Windows10-Core-Services.svg",
+                "icon_location": "./Icons/iot/10203-icon-service-Windows10-Core-Services.svg"
+            },
+            {
+                "service_name": "Windows for IoT",
+                "service_desc": "Build intelligent edge solutions with world-class developer tools, long-term support, and enterprise-grade security.",
+                "service_link": "https://azure.microsoft.com/en-us/products/windows-iot/",
+                "icon_category": "other",
+                "icon_filename": "02733-icon-service-Windows-Notification-Services.svg",
+                "icon_location": "./Icons/other/02733-icon-service-Windows-Notification-Services.svg"
+            },
+            {
+                "service_name": "Logic Apps",
+                "service_desc": "Automate the access and use of data across clouds.",
+                "service_link": "https://azure.microsoft.com/en-us/products/logic-apps/",
+                "icon_category": "iot",
+                "icon_filename": "02631-icon-service-Logic-Apps.svg",
+                "icon_location": "./Icons/iot/02631-icon-service-Logic-Apps.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Management and governance",
+        "category_desc": "Simplify, automate, and optimize the management and compliance of your cloud resources.",
+        "services": [
+            {
+                "service_name": "Microsoft Copilot in Azure \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
+                "service_desc": "Simplify operations and management from cloud to edge with an AI companion.",
+                "service_link": "https://azure.microsoft.com/en-us/products/copilot",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            },
+            {
+                "service_name": "Automation",
+                "service_desc": "Simplify cloud management with process automation.",
+                "service_link": "https://azure.microsoft.com/en-us/products/automation/",
+                "icon_category": "management + governance",
+                "icon_filename": "00022-icon-service-Automation-Accounts.svg",
+                "icon_location": "./Icons/management + governance/00022-icon-service-Automation-Accounts.svg"
+            },
+            {
+                "service_name": "Azure Advisor",
+                "service_desc": "Your personalized Azure best practices recommendation engine.",
+                "service_link": "https://azure.microsoft.com/en-us/products/advisor/",
+                "icon_category": "management + governance",
+                "icon_filename": "00003-icon-service-Advisor.svg",
+                "icon_location": "./Icons/management + governance/00003-icon-service-Advisor.svg"
+            },
+            {
+                "service_name": "Defender External Attack Surface Management",
+                "service_desc": "Safeguard the digital experience by discovering all internet-exposed resources with Microsoft Defender External Attack Surface Management (EASM).",
+                "service_link": "https://azure.microsoft.com/en-us/products/defender-external-attack-surface-management/",
+                "icon_category": "other",
+                "icon_filename": "03422-icon-service-Defender-Programable-Board.svg",
+                "icon_location": "./Icons/other/03422-icon-service-Defender-Programable-Board.svg"
+            },
+            {
+                "service_name": "Azure Backup",
+                "service_desc": "Simplify data protection with built-in backup management at scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/backup/",
+                "icon_category": "other",
+                "icon_filename": "02360-icon-service-Azure-Backup-Center.svg",
+                "icon_location": "./Icons/other/02360-icon-service-Azure-Backup-Center.svg"
+            },
+            {
+                "service_name": "Azure Blueprints \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
+                "service_desc": "Enabling quick, repeatable creation of governed environments.",
+                "service_link": "https://azure.microsoft.com/en-us/products/blueprints/",
+                "icon_category": "management + governance",
+                "icon_filename": "00006-icon-service-Blueprints.svg",
+                "icon_location": "./Icons/management + governance/00006-icon-service-Blueprints.svg"
+            },
+            {
+                "service_name": "Azure Lighthouse",
+                "service_desc": "Empowering service providers to manage customers at scale and with precision.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-lighthouse/",
+                "icon_category": "management + governance",
+                "icon_filename": "00471-icon-service-Azure-Lighthouse.svg",
+                "icon_location": "./Icons/management + governance/00471-icon-service-Azure-Lighthouse.svg"
+            },
+            {
+                "service_name": "Azure Managed Applications",
+                "service_desc": "Simplify management of cloud offerings.",
+                "service_link": "https://azure.microsoft.com/en-us/products/managed-applications/",
+                "icon_category": "management + governance",
+                "icon_filename": "10313-icon-service-Managed-Applications-Center.svg",
+                "icon_location": "./Icons/management + governance/10313-icon-service-Managed-Applications-Center.svg"
+            },
+            {
+                "service_name": "Azure Migrate",
+                "service_desc": "Simplify migration and modernization with a unified platform.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-migrate/",
+                "icon_category": "migrate",
+                "icon_filename": "10281-icon-service-Azure-Migrate.svg",
+                "icon_location": "./Icons/migrate/10281-icon-service-Azure-Migrate.svg"
+            },
+            {
+                "service_name": "Azure mobile app",
+                "service_desc": "Stay connected to your Azure resources\u2014anytime, anywhere.",
+                "service_link": "https://azure.microsoft.com/en-us/get-started/azure-portal/mobile-app/"
+            },
+            {
+                "service_name": "Azure Monitor",
+                "service_desc": "Full observability into your applications, infrastructure, and network.",
+                "service_link": "https://azure.microsoft.com/en-us/products/monitor/",
+                "icon_category": "monitor",
+                "icon_filename": "00001-icon-service-Monitor.svg",
+                "icon_location": "./Icons/monitor/00001-icon-service-Monitor.svg"
+            },
+            {
+                "service_name": "Azure Policy",
+                "service_desc": "Implement corporate governance and standards at scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-policy/",
+                "icon_category": "management + governance",
+                "icon_filename": "10316-icon-service-Policy.svg",
+                "icon_location": "./Icons/management + governance/10316-icon-service-Policy.svg"
+            },
+            {
+                "service_name": "Azure Resource Manager",
+                "service_desc": "Simplify how you manage your app resources.",
+                "service_link": "https://azure.microsoft.com/en-us/get-started/azure-portal/resource-manager/",
+                "icon_category": "networking",
+                "icon_filename": "02145-icon-service-Resource-Management-Private-Link.svg",
+                "icon_location": "./Icons/networking/02145-icon-service-Resource-Management-Private-Link.svg"
+            },
+            {
+                "service_name": "Azure Resource Manager templates",
+                "service_desc": "Deliver infrastructure as code for all your Azure resources using Resource Manager.",
+                "service_link": "https://azure.microsoft.com/en-us/products/arm-templates/",
+                "icon_category": "general",
+                "icon_filename": "10349-icon-service-Resource-Explorer.svg",
+                "icon_location": "./Icons/general/10349-icon-service-Resource-Explorer.svg"
+            },
+            {
+                "service_name": "Azure Service Health",
+                "service_desc": "Personalized guidance and support for when issues in Azure services affect you.",
+                "service_link": "https://azure.microsoft.com/en-us/get-started/azure-portal/service-health/",
+                "icon_category": "general",
+                "icon_filename": "10004-icon-service-Service-Health.svg",
+                "icon_location": "./Icons/general/10004-icon-service-Service-Health.svg"
+            },
+            {
+                "service_name": "Azure Site Recovery",
+                "service_desc": "Keep your business running with built-in disaster recovery service.",
+                "service_link": "https://azure.microsoft.com/en-us/products/site-recovery/"
+            },
+            {
+                "service_name": "Cloud Shell",
+                "service_desc": "Streamline Azure administration with a browser-based shell.",
+                "service_link": "https://azure.microsoft.com/en-us/get-started/azure-portal/cloud-shell/",
+                "icon_category": "other",
+                "icon_filename": "00559-icon-service-Azure-Cloud-Shell.svg",
+                "icon_location": "./Icons/other/00559-icon-service-Azure-Cloud-Shell.svg"
+            },
+            {
+                "service_name": "Microsoft Cost Management",
+                "service_desc": "Monitor, allocate, and optimize cloud costs with transparency, accuracy, and efficiency.",
+                "service_link": "https://azure.microsoft.com/en-us/products/cost-management/"
+            },
+            {
+                "service_name": "Microsoft Azure portal",
+                "service_desc": "Build, manage, and monitor all Azure products in a single, unified console.",
+                "service_link": "https://azure.microsoft.com/en-us/get-started/azure-portal/",
+                "icon_category": "security",
+                "icon_filename": "02247-icon-service-Microsoft-Defender-for-IoT.svg",
+                "icon_location": "./Icons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
+            },
+            {
+                "service_name": "Network Watcher",
+                "service_desc": "Network performance monitoring and diagnostics solution.",
+                "service_link": "https://azure.microsoft.com/en-us/products/network-watcher/",
+                "icon_category": "networking",
+                "icon_filename": "10066-icon-service-Network-Watcher.svg",
+                "icon_location": "./Icons/networking/10066-icon-service-Network-Watcher.svg"
+            },
+            {
+                "service_name": "Traffic Manager",
+                "service_desc": "Route incoming traffic for high performance and availability.",
+                "service_link": "https://azure.microsoft.com/en-us/products/traffic-manager/",
+                "icon_category": "networking",
+                "icon_filename": "10065-icon-service-Traffic-Manager-Profiles.svg",
+                "icon_location": "./Icons/networking/10065-icon-service-Traffic-Manager-Profiles.svg"
+            },
+            {
+                "service_name": "Azure Automanage",
+                "service_desc": "Effortless automation of cloud and on-premises infrastructure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-automanage/",
+                "icon_category": "compute",
+                "icon_filename": "02112-icon-service-Automanaged-VM.svg",
+                "icon_location": "./Icons/compute/02112-icon-service-Automanaged-VM.svg"
+            },
+            {
+                "service_name": "Azure Resource Mover",
+                "service_desc": "Simplify how you move multiple resources between Azure regions.",
+                "service_link": "https://azure.microsoft.com/en-us/products/resource-mover/",
+                "icon_category": "other",
+                "icon_filename": "02200-icon-service-Resource-Mover.svg",
+                "icon_location": "./Icons/other/02200-icon-service-Resource-Mover.svg"
+            },
+            {
+                "service_name": "Microsoft Purview",
+                "service_desc": "Govern, protect, and manage your data estate.",
+                "service_link": "https://azure.microsoft.com/en-us/products/purview/",
+                "icon_category": "security",
+                "icon_filename": "02247-icon-service-Microsoft-Defender-for-IoT.svg",
+                "icon_location": "./Icons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
+            },
+            {
+                "service_name": "Azure Chaos Studio",
+                "service_desc": "Improve application resilience by introducing faults and simulating outages.",
+                "service_link": "https://azure.microsoft.com/en-us/products/chaos-studio/",
+                "icon_category": "other",
+                "icon_filename": "02223-icon-service-Azure-Chaos-Studio.svg",
+                "icon_location": "./Icons/other/02223-icon-service-Azure-Chaos-Studio.svg"
+            },
+            {
+                "service_name": "Azure Managed Grafana",
+                "service_desc": "Deploy Grafana dashboards as a fully managed Azure service.",
+                "service_link": "https://azure.microsoft.com/en-us/products/managed-grafana/",
+                "icon_category": "other",
+                "icon_filename": "02905-icon-service-Azure-Managed-Grafana.svg",
+                "icon_location": "./Icons/other/02905-icon-service-Azure-Managed-Grafana.svg"
+            },
+            {
+                "service_name": "Update management center \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
+                "service_desc": "Centrally manage updates and compliance at scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-update-management-center/",
+                "icon_category": "other",
+                "icon_filename": "02846-icon-service-Update-Management-Center.svg",
+                "icon_location": "./Icons/other/02846-icon-service-Update-Management-Center.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Media",
+        "category_desc": "Deliver high-quality video content anywhere, any time, and on any device.",
+        "services": [
+            {
+                "service_name": "Azure Media Player",
+                "service_desc": "A single player for all your playback needs.",
+                "service_link": "https://azure.microsoft.com/en-us/products/media-services/media-player/",
+                "icon_category": "general",
+                "icon_filename": "10854-icon-service-Media.svg",
+                "icon_location": "./Icons/general/10854-icon-service-Media.svg"
+            },
+            {
+                "service_name": "Content Delivery Network",
+                "service_desc": "Fast, reliable content delivery network with global reach.",
+                "service_link": "https://azure.microsoft.com/en-us/products/cdn/"
+            },
+            {
+                "service_name": "Content Protection",
+                "service_desc": "Securely deliver content using AES, PlayReady, Widevine, and Fairplay.",
+                "service_link": "https://azure.microsoft.com/en-us/products/media-services/content-protection/"
+            },
+            {
+                "service_name": "Encoding",
+                "service_desc": "Studio grade encoding at cloud scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/media-services/encoding/"
+            },
+            {
+                "service_name": "Live and On-Demand Streaming",
+                "service_desc": "Deliver content to virtually all devices with ability to scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/media-services/live-on-demand/"
+            },
+            {
+                "service_name": "Media Services",
+                "service_desc": "Encode, store, and stream video and audio at scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/media-services/",
+                "icon_category": "web",
+                "icon_filename": "10309-icon-service-Azure-Media-Service.svg",
+                "icon_location": "./Icons/web/10309-icon-service-Azure-Media-Service.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Migration",
+        "category_desc": "Simplify and accelerate your migration to the cloud with guidance, tools, and resources.",
+        "services": [
+            {
+                "service_name": "Azure Database Migration Service",
+                "service_desc": "Accelerate your data migration to Azure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/database-migration/",
+                "icon_category": "migration",
+                "icon_filename": "10133-icon-service-Azure-Database-Migration-Services.svg",
+                "icon_location": "./Icons/migration/10133-icon-service-Azure-Database-Migration-Services.svg"
+            },
+            {
+                "service_name": "Azure Migrate",
+                "service_desc": "Simplify migration and modernization with a unified platform.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-migrate/",
+                "icon_category": "migrate",
+                "icon_filename": "10281-icon-service-Azure-Migrate.svg",
+                "icon_location": "./Icons/migrate/10281-icon-service-Azure-Migrate.svg"
+            },
+            {
+                "service_name": "Azure Site Recovery",
+                "service_desc": "Keep your business running with built-in disaster recovery service.",
+                "service_link": "https://azure.microsoft.com/en-us/products/site-recovery/"
+            },
+            {
+                "service_name": "Microsoft Cost Management",
+                "service_desc": "Monitor, allocate, and optimize cloud costs with transparency, accuracy, and efficiency.",
+                "service_link": "https://azure.microsoft.com/en-us/products/cost-management/"
+            },
+            {
+                "service_name": "Azure Data Box",
+                "service_desc": "Appliances and solutions for data transfer to Azure and edge compute.",
+                "service_link": "https://azure.microsoft.com/en-us/products/databox/",
+                "icon_category": "migrate",
+                "icon_filename": "10094-icon-service-Data-Box.svg",
+                "icon_location": "./Icons/migrate/10094-icon-service-Data-Box.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Mixed reality",
+        "category_desc": "Blend your physical and digital worlds to create immersive, collaborative experiences.",
+        "services": [
+            {
+                "service_name": "Remote Rendering",
+                "service_desc": "Automatically align and anchor 3D content to objects in the physical world.",
+                "service_link": "https://azure.microsoft.com/en-us/products/remote-rendering/",
+                "icon_category": "mixed reality",
+                "icon_filename": "00698-icon-service-Remote-Rendering.svg",
+                "icon_location": "./Icons/mixed reality/00698-icon-service-Remote-Rendering.svg"
+            },
+            {
+                "service_name": "Azure Digital Twins",
+                "service_desc": "Use IoT spatial intelligence to create models of physical environments.",
+                "service_link": "https://azure.microsoft.com/en-us/products/digital-twins/",
+                "icon_category": "iot",
+                "icon_filename": "01030-icon-service-Digital-Twins.svg",
+                "icon_location": "./Icons/iot/01030-icon-service-Digital-Twins.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Mobile",
+        "category_desc": "Build and deploy cross-platform and native apps for any mobile device.",
+        "services": [
+            {
+                "service_name": "API Management",
+                "service_desc": "Publish APIs to developers, partners, and employees securely and at scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/api-management/",
+                "icon_category": "integration",
+                "icon_filename": "10042-icon-service-API-Management-Services.svg",
+                "icon_location": "./Icons/integration/10042-icon-service-API-Management-Services.svg"
+            },
+            {
+                "service_name": "App Configuration",
+                "service_desc": "Fast, scalable parameter storage for app configuration.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-configuration/",
+                "icon_category": "integration",
+                "icon_filename": "10219-icon-service-App-Configuration.svg",
+                "icon_location": "./Icons/integration/10219-icon-service-App-Configuration.svg"
+            },
+            {
+                "service_name": "App Service",
+                "service_desc": "Quickly create powerful cloud apps for web and mobile.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-service/",
+                "icon_category": "containers",
+                "icon_filename": "10035-icon-service-App-Services.svg",
+                "icon_location": "./Icons/containers/10035-icon-service-App-Services.svg"
+            },
+            {
+                "service_name": "Azure AI Search",
+                "service_desc": "Enterprise scale search for app development.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-search",
+                "icon_category": "general",
+                "icon_filename": "10834-icon-service-Search.svg",
+                "icon_location": "./Icons/general/10834-icon-service-Search.svg"
+            },
+            {
+                "service_name": "Azure Maps",
+                "service_desc": "Add location data and mapping visuals to business applications and solutions.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-maps/",
+                "icon_category": "iot",
+                "icon_filename": "10185-icon-service-Azure-Maps-Accounts.svg",
+                "icon_location": "./Icons/iot/10185-icon-service-Azure-Maps-Accounts.svg"
+            },
+            {
+                "service_name": "Azure AI Services",
+                "service_desc": "Add cognitive capabilities to apps with APIs and AI services.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/",
+                "icon_category": "integration",
+                "icon_filename": "10836-icon-service-Azure-Service-Bus.svg",
+                "icon_location": "./Icons/integration/10836-icon-service-Azure-Service-Bus.svg"
+            },
+            {
+                "service_name": "App Center",
+                "service_desc": "Build, test, release, and monitor your mobile and desktop apps.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-center/",
+                "icon_category": "other",
+                "icon_filename": "10232-icon-service-App-Registrations.svg",
+                "icon_location": "./Icons/other/10232-icon-service-App-Registrations.svg"
+            },
+            {
+                "service_name": "Azure Communication Services",
+                "service_desc": "Build multichannel communication experiences.",
+                "service_link": "https://azure.microsoft.com/en-us/products/communication-services/",
+                "icon_category": "other",
+                "icon_filename": "00968-icon-service-Azure-Communication-Services.svg",
+                "icon_location": "./Icons/other/00968-icon-service-Azure-Communication-Services.svg"
+            },
+            {
+                "service_name": "Azure Operator 5G Core",
+                "service_desc": "Modernize your network with a flexible, scalable 5G technology mobile packet core.",
+                "service_link": "https://azure.microsoft.com/en-us/products/operator-5g-core",
+                "icon_category": "hybrid + multicloud",
+                "icon_filename": "03248-icon-service-Azure-Operator-5G-Core.svg",
+                "icon_location": "./Icons/hybrid + multicloud/03248-icon-service-Azure-Operator-5G-Core.svg"
+            },
+            {
+                "service_name": "Azure Operator Call Protection",
+                "service_desc": "Help protect consumers from potential fraud and phone scams with intelligent AI solutions.",
+                "service_link": "https://azure.microsoft.com/en-us/products/operator-call-protection",
+                "icon_category": "hybrid + multicloud",
+                "icon_filename": "03324-icon-service-Azure-Operator-Nexus.svg",
+                "icon_location": "./Icons/hybrid + multicloud/03324-icon-service-Azure-Operator-Nexus.svg"
+            },
+            {
+                "service_name": "Notification Hubs",
+                "service_desc": "Send push notifications to any platform from any back end.",
+                "service_link": "https://azure.microsoft.com/en-us/products/notification-hubs/",
+                "icon_category": "mobile",
+                "icon_filename": "10045-icon-service-Notification-Hubs.svg",
+                "icon_location": "./Icons/mobile/10045-icon-service-Notification-Hubs.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Networking",
+        "category_desc": "Connect cloud and on-premises infrastructure and services to provide your customers and users the best possible experience.",
+        "services": [
+            {
+                "service_name": "Application Gateway",
+                "service_desc": "Build secure, scalable, highly available web front ends in Azure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/application-gateway",
+                "icon_category": "networking",
+                "icon_filename": "10076-icon-service-Application-Gateways.svg",
+                "icon_location": "./Icons/networking/10076-icon-service-Application-Gateways.svg"
+            },
+            {
+                "service_name": "Azure Bastion",
+                "service_desc": "Fully managed service that helps secure remote access to your virtual machines.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-bastion/",
+                "icon_category": "networking",
+                "icon_filename": "02422-icon-service-Bastions.svg",
+                "icon_location": "./Icons/networking/02422-icon-service-Bastions.svg"
+            },
+            {
+                "service_name": "Azure DDoS Protection",
+                "service_desc": "Protect your Azure resources from distributed denial-of-service (DDoS) attacks.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ddos-protection/",
+                "icon_category": "networking",
+                "icon_filename": "10072-icon-service-DDoS-Protection-Plans.svg",
+                "icon_location": "./Icons/networking/10072-icon-service-DDoS-Protection-Plans.svg"
+            },
+            {
+                "service_name": "Azure DNS",
+                "service_desc": "Host your Domain Name System (DNS) domain in Azure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/dns/",
+                "icon_category": "networking",
+                "icon_filename": "03368-icon-service-DNS-Security-Policy.svg",
+                "icon_location": "./Icons/networking/03368-icon-service-DNS-Security-Policy.svg"
+            },
+            {
+                "service_name": "Azure ExpressRoute",
+                "service_desc": "Experience a fast, reliable, and private connection to Azure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/expressroute/",
+                "icon_category": "networking",
+                "icon_filename": "10079-icon-service-ExpressRoute-Circuits.svg",
+                "icon_location": "./Icons/networking/10079-icon-service-ExpressRoute-Circuits.svg"
+            },
+            {
+                "service_name": "Azure Firewall",
+                "service_desc": "Protect your Azure Virtual Network resources with cloud-native network security.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-firewall/",
+                "icon_category": "networking",
+                "icon_filename": "10084-icon-service-Firewalls.svg",
+                "icon_location": "./Icons/networking/10084-icon-service-Firewalls.svg"
+            },
+            {
+                "service_name": "Azure Orbital Ground Station",
+                "service_desc": "Rapidly ingest data from space into the cloud with a satellite ground station service.",
+                "service_link": "https://azure.microsoft.com/en-us/products/orbital/",
+                "icon_category": "other",
+                "icon_filename": "02697-icon-service-Azure-Orbital.svg",
+                "icon_location": "./Icons/other/02697-icon-service-Azure-Orbital.svg"
+            },
+            {
+                "service_name": "Azure Route Server",
+                "service_desc": "Enable network appliances to exchange routes dynamically with virtual networks in Azure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/route-server/"
+            },
+            {
+                "service_name": "Azure Private 5G Core",
+                "service_desc": "Rapidly deploy and manage private 5G networks at the enterprise edge.",
+                "service_link": "https://azure.microsoft.com/en-us/products/private-5g-core/"
+            },
+            {
+                "service_name": "Azure Communications Gateway",
+                "service_desc": "Connects operators' fixed and mobile networks with Microsoft Teams.",
+                "service_link": "https://azure.microsoft.com/en-us/products/communications-gateway/",
+                "icon_category": "networking",
+                "icon_filename": "03311-icon-service-Azure-Communications-Gateway.svg",
+                "icon_location": "./Icons/networking/03311-icon-service-Azure-Communications-Gateway.svg"
+            },
+            {
+                "service_name": "Azure Operator 5G Core",
+                "service_desc": "Modernize your network with a flexible, scalable 5G technology mobile packet core.",
+                "service_link": "https://azure.microsoft.com/en-us/products/operator-5g-core",
+                "icon_category": "hybrid + multicloud",
+                "icon_filename": "03248-icon-service-Azure-Operator-5G-Core.svg",
+                "icon_location": "./Icons/hybrid + multicloud/03248-icon-service-Azure-Operator-5G-Core.svg"
+            },
+            {
+                "service_name": "Azure Front Door",
+                "service_desc": "Modern cloud CDN that delivers optimized experiences to your users anywhere.",
+                "service_link": "https://azure.microsoft.com/en-us/products/frontdoor/",
+                "icon_category": "networking",
+                "icon_filename": "10073-icon-service-Front-Door-and-CDN-Profiles.svg",
+                "icon_location": "./Icons/networking/10073-icon-service-Front-Door-and-CDN-Profiles.svg"
+            },
+            {
+                "service_name": "Azure Network Function Manager",
+                "service_desc": "Extend Azure management for deploying 5G and SD-WAN network functions on edge devices.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-network-function-manager/",
+                "icon_category": "other",
+                "icon_filename": "02740-icon-service-Azure-Network-Function-Manager.svg",
+                "icon_location": "./Icons/other/02740-icon-service-Azure-Network-Function-Manager.svg"
+            },
+            {
+                "service_name": "Azure Virtual Network Manager",
+                "service_desc": "Centrally manage virtual networks in Azure from a single pane of glass.",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-wan/",
+                "icon_category": "networking",
+                "icon_filename": "10353-icon-service-Virtual-WANs.svg",
+                "icon_location": "./Icons/networking/10353-icon-service-Virtual-WANs.svg"
+            },
+            {
+                "service_name": "Azure NAT Gateway",
+                "service_desc": "Provide highly reliable, secure, and scalable outbound connectivity to the internet.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-nat-gateway",
+                "icon_category": "networking",
+                "icon_filename": "10310-icon-service-NAT.svg",
+                "icon_location": "./Icons/networking/10310-icon-service-NAT.svg"
+            },
+            {
+                "service_name": "Azure Programmable Connectivity",
+                "service_desc": "Simplify network API management across multiple operator networks globally with a unified interface.",
+                "service_link": "https://azure.microsoft.com/en-us/products/programmable-connectivity",
+                "icon_category": "hybrid + multicloud",
+                "icon_filename": "03347-icon-service-Azure-Programmable-Connectivity.svg",
+                "icon_location": "./Icons/hybrid + multicloud/03347-icon-service-Azure-Programmable-Connectivity.svg"
+            },
+            {
+                "service_name": "Azure Private Link",
+                "service_desc": "Private access to services hosted on the Azure platform, keeping your data on the Microsoft network.",
+                "service_link": "https://azure.microsoft.com/en-us/products/private-link/",
+                "icon_category": "networking",
+                "icon_filename": "00427-icon-service-Private-Link.svg",
+                "icon_location": "./Icons/networking/00427-icon-service-Private-Link.svg"
+            },
+            {
+                "service_name": "Azure Firewall Manager",
+                "service_desc": "Central network security policy and route management for globally distributed, software-defined perimeters.",
+                "service_link": "https://azure.microsoft.com/en-us/products/firewall-manager/",
+                "icon_category": "networking",
+                "icon_filename": "00271-icon-service-Azure-Firewall-Manager.svg",
+                "icon_location": "./Icons/networking/00271-icon-service-Azure-Firewall-Manager.svg"
+            },
+            {
+                "service_name": "Content Delivery Network",
+                "service_desc": "Fast, reliable content delivery network with global reach.",
+                "service_link": "https://azure.microsoft.com/en-us/products/cdn/"
+            },
+            {
+                "service_name": "Network Watcher",
+                "service_desc": "Network performance monitoring and diagnostics solution.",
+                "service_link": "https://azure.microsoft.com/en-us/products/network-watcher/",
+                "icon_category": "networking",
+                "icon_filename": "10066-icon-service-Network-Watcher.svg",
+                "icon_location": "./Icons/networking/10066-icon-service-Network-Watcher.svg"
+            },
+            {
+                "service_name": "Traffic Manager",
+                "service_desc": "Route incoming traffic for high performance and availability.",
+                "service_link": "https://azure.microsoft.com/en-us/products/traffic-manager/",
+                "icon_category": "networking",
+                "icon_filename": "10065-icon-service-Traffic-Manager-Profiles.svg",
+                "icon_location": "./Icons/networking/10065-icon-service-Traffic-Manager-Profiles.svg"
+            },
+            {
+                "service_name": "Virtual Network",
+                "service_desc": "Create your own private network infrastructure in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-network/",
+                "icon_category": "networking",
+                "icon_filename": "10061-icon-service-Virtual-Networks.svg",
+                "icon_location": "./Icons/networking/10061-icon-service-Virtual-Networks.svg"
+            },
+            {
+                "service_name": "Virtual WAN",
+                "service_desc": "Optimize and automate branch to branch connectivity through Azure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-wan/",
+                "icon_category": "networking",
+                "icon_filename": "10353-icon-service-Virtual-WANs.svg",
+                "icon_location": "./Icons/networking/10353-icon-service-Virtual-WANs.svg"
+            },
+            {
+                "service_name": "VPN Gateway",
+                "service_desc": "Establish secure, cross-premises connectivity.",
+                "service_link": "https://azure.microsoft.com/en-us/products/vpn-gateway/"
+            },
+            {
+                "service_name": "Web Application Firewall",
+                "service_desc": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps.",
+                "service_link": "https://azure.microsoft.com/en-us/products/web-application-firewall/",
+                "icon_category": "networking",
+                "icon_filename": "10362-icon-service-Web-Application-Firewall-Policies(WAF).svg",
+                "icon_location": "./Icons/networking/10362-icon-service-Web-Application-Firewall-Policies(WAF).svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Security",
+        "category_desc": "Protect your enterprise from advanced threats across hybrid cloud workloads.",
+        "services": [
+            {
+                "service_name": "App Configuration",
+                "service_desc": "Fast, scalable parameter storage for app configuration.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-configuration/",
+                "icon_category": "integration",
+                "icon_filename": "10219-icon-service-App-Configuration.svg",
+                "icon_location": "./Icons/integration/10219-icon-service-App-Configuration.svg"
+            },
+            {
+                "service_name": "Application Gateway",
+                "service_desc": "Build secure, scalable, highly available web front ends in Azure.",
+                "service_link": "https://azure.microsoft.com/en-us/products/application-gateway",
+                "icon_category": "networking",
+                "icon_filename": "10076-icon-service-Application-Gateways.svg",
+                "icon_location": "./Icons/networking/10076-icon-service-Application-Gateways.svg"
+            },
+            {
+                "service_name": "Microsoft Entra Domain Services",
+                "service_desc": "Manage your domain controllers in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/microsoft-entra-ds",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            },
+            {
+                "service_name": "Microsoft Defender for Cloud",
+                "service_desc": "Protect your multi-cloud and hybrid environments.",
+                "service_link": "https://azure.microsoft.com/en-us/products/defender-for-cloud/",
+                "icon_category": "security",
+                "icon_filename": "10241-icon-service-Microsoft-Defender-for-Cloud.svg",
+                "icon_location": "./Icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
+            },
+            {
+                "service_name": "Defender External Attack Surface Management",
+                "service_desc": "Safeguard the digital experience by discovering all internet-exposed resources with Microsoft Defender External Attack Surface Management (EASM).",
+                "service_link": "https://azure.microsoft.com/en-us/products/defender-external-attack-surface-management/",
+                "icon_category": "other",
+                "icon_filename": "03422-icon-service-Defender-Programable-Board.svg",
+                "icon_location": "./Icons/other/03422-icon-service-Defender-Programable-Board.svg"
+            },
+            {
+                "service_name": "Azure Bastion",
+                "service_desc": "Fully managed service that helps secure remote access to your virtual machines.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-bastion/",
+                "icon_category": "networking",
+                "icon_filename": "02422-icon-service-Bastions.svg",
+                "icon_location": "./Icons/networking/02422-icon-service-Bastions.svg"
+            },
+            {
+                "service_name": "Azure DDoS Protection",
+                "service_desc": "Protect your Azure resources from distributed denial-of-service (DDoS) attacks.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ddos-protection/",
+                "icon_category": "networking",
+                "icon_filename": "10072-icon-service-DDoS-Protection-Plans.svg",
+                "icon_location": "./Icons/networking/10072-icon-service-DDoS-Protection-Plans.svg"
+            },
+            {
+                "service_name": "Azure Dedicated HSM",
+                "service_desc": "Manage hardware security modules that you use in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-dedicated-hsm/",
+                "icon_category": "other",
+                "icon_filename": "02322-icon-service-Dedicated-HSM.svg",
+                "icon_location": "./Icons/other/02322-icon-service-Dedicated-HSM.svg"
+            },
+            {
+                "service_name": "Azure Firewall",
+                "service_desc": "Protect your Azure Virtual Network resources with cloud-native network security.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-firewall/",
+                "icon_category": "networking",
+                "icon_filename": "10084-icon-service-Firewalls.svg",
+                "icon_location": "./Icons/networking/10084-icon-service-Firewalls.svg"
+            },
+            {
+                "service_name": "Azure Firewall Manager",
+                "service_desc": "Central network security policy and route management for globally distributed, software-defined perimeters.",
+                "service_link": "https://azure.microsoft.com/en-us/products/firewall-manager/",
+                "icon_category": "networking",
+                "icon_filename": "00271-icon-service-Azure-Firewall-Manager.svg",
+                "icon_location": "./Icons/networking/00271-icon-service-Azure-Firewall-Manager.svg"
+            },
+            {
+                "service_name": "Azure Front Door",
+                "service_desc": "Modern cloud CDN that delivers optimized experiences to your users anywhere.",
+                "service_link": "https://azure.microsoft.com/en-us/products/frontdoor/",
+                "icon_category": "networking",
+                "icon_filename": "10073-icon-service-Front-Door-and-CDN-Profiles.svg",
+                "icon_location": "./Icons/networking/10073-icon-service-Front-Door-and-CDN-Profiles.svg"
+            },
+            {
+                "service_name": "Azure Information Protection",
+                "service_desc": "Better protect your sensitive information\u2014anytime, anywhere.",
+                "service_link": "https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection",
+                "icon_category": "security",
+                "icon_filename": "10229-icon-service-Azure-Information-Protection.svg",
+                "icon_location": "./Icons/security/10229-icon-service-Azure-Information-Protection.svg"
+            },
+            {
+                "service_name": "Microsoft Sentinel",
+                "service_desc": "Cloud-native SIEM and intelligent security analytics.",
+                "service_link": "https://azure.microsoft.com/en-us/products/microsoft-sentinel/",
+                "icon_category": "security",
+                "icon_filename": "10241-icon-service-Microsoft-Defender-for-Cloud.svg",
+                "icon_location": "./Icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
+            },
+            {
+                "service_name": "Key Vault",
+                "service_desc": "Safeguard and maintain control of keys and other secrets.",
+                "service_link": "https://azure.microsoft.com/en-us/products/key-vault/",
+                "icon_category": "security",
+                "icon_filename": "10245-icon-service-Key-Vaults.svg",
+                "icon_location": "./Icons/security/10245-icon-service-Key-Vaults.svg"
+            },
+            {
+                "service_name": "Azure confidential ledger",
+                "service_desc": "Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-confidential-ledger/"
+            },
+            {
+                "service_name": "VPN Gateway",
+                "service_desc": "Establish secure, cross-premises connectivity.",
+                "service_link": "https://azure.microsoft.com/en-us/products/vpn-gateway/"
+            },
+            {
+                "service_name": "Web Application Firewall",
+                "service_desc": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps.",
+                "service_link": "https://azure.microsoft.com/en-us/products/web-application-firewall/",
+                "icon_category": "networking",
+                "icon_filename": "10362-icon-service-Web-Application-Firewall-Policies(WAF).svg",
+                "icon_location": "./Icons/networking/10362-icon-service-Web-Application-Firewall-Policies(WAF).svg"
+            },
+            {
+                "service_name": "Microsoft Azure Attestation",
+                "service_desc": "A unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-attestation/"
+            },
+            {
+                "service_name": "Microsoft Copilot for Security",
+                "service_desc": "Protect at the speed and scale of AI with a generative AI-powered assistant.",
+                "service_link": "https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-copilot-security",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Storage",
+        "category_desc": "Get secure, massively scalable cloud storage for your data, apps, and workloads.",
+        "services": [
+            {
+                "service_name": "Archive Storage",
+                "service_desc": "Industry leading price point for storing rarely accessed data.",
+                "service_link": "https://azure.microsoft.com/en-us/products/storage",
+                "icon_category": "management + governance",
+                "icon_filename": "00756-icon-service-Azure-Arc.svg",
+                "icon_location": "./Icons/management + governance/00756-icon-service-Azure-Arc.svg"
+            },
+            {
+                "service_name": "Azure Managed Lustre",
+                "service_desc": "Azure Managed Lustre is a fully managed, cloud based parallel file system that enables customers to run their high performance computing (HPC) workloads in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/managed-lustre/",
+                "icon_category": "management + governance",
+                "icon_filename": "10313-icon-service-Managed-Applications-Center.svg",
+                "icon_location": "./Icons/management + governance/10313-icon-service-Managed-Applications-Center.svg"
+            },
+            {
+                "service_name": "Azure Backup",
+                "service_desc": "Simplify data protection with built-in backup management at scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/backup/",
+                "icon_category": "other",
+                "icon_filename": "02360-icon-service-Azure-Backup-Center.svg",
+                "icon_location": "./Icons/other/02360-icon-service-Azure-Backup-Center.svg"
+            },
+            {
+                "service_name": "Azure Data Lake Storage",
+                "service_desc": "Scalable, secure data lake for high-performance analytics.",
+                "service_link": "https://azure.microsoft.com/en-us/products/storage/data-lake-storage/",
+                "icon_category": "storage",
+                "icon_filename": "10090-icon-service-Data-Lake-Storage-Gen1.svg",
+                "icon_location": "./Icons/storage/10090-icon-service-Data-Lake-Storage-Gen1.svg"
+            },
+            {
+                "service_name": "Azure Data Share",
+                "service_desc": "A simple and safe service for sharing big data with external organizations.",
+                "service_link": "https://azure.microsoft.com/en-us/products/data-share/",
+                "icon_category": "storage",
+                "icon_filename": "10098-icon-service-Data-Shares.svg",
+                "icon_location": "./Icons/storage/10098-icon-service-Data-Shares.svg"
+            },
+            {
+                "service_name": "Azure Files",
+                "service_desc": "Simple, secure and serverless enterprise-grade cloud file shares.",
+                "service_link": "https://azure.microsoft.com/en-us/products/storage/files/",
+                "icon_category": "general",
+                "icon_filename": "10801-icon-service-Files.svg",
+                "icon_location": "./Icons/general/10801-icon-service-Files.svg"
+            },
+            {
+                "service_name": "Azure Storage Actions \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
+                "service_desc": "Simplify storage data management at massive scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/storage-actions",
+                "icon_category": "new icons",
+                "icon_filename": "03502-icon-service-Storage-Actions.svg",
+                "icon_location": "./Icons/new icons/03502-icon-service-Storage-Actions.svg"
+            },
+            {
+                "service_name": "Azure NetApp Files",
+                "service_desc": "Enterprise-grade Azure file shares, powered by NetApp.",
+                "service_link": "https://azure.microsoft.com/en-us/products/netapp/",
+                "icon_category": "storage",
+                "icon_filename": "10096-icon-service-Azure-NetApp-Files.svg",
+                "icon_location": "./Icons/storage/10096-icon-service-Azure-NetApp-Files.svg"
+            },
+            {
+                "service_name": "Azure Blob Storage",
+                "service_desc": "Massively scalable and secure object storage.",
+                "service_link": "https://azure.microsoft.com/en-us/products/storage/blobs/"
+            },
+            {
+                "service_name": "Azure Data Box",
+                "service_desc": "Appliances and solutions for data transfer to Azure and edge compute.",
+                "service_link": "https://azure.microsoft.com/en-us/products/databox/",
+                "icon_category": "migrate",
+                "icon_filename": "10094-icon-service-Data-Box.svg",
+                "icon_location": "./Icons/migrate/10094-icon-service-Data-Box.svg"
+            },
+            {
+                "service_name": "Azure Disk Storage",
+                "service_desc": "High-performance, highly durable block storage.",
+                "service_link": "https://azure.microsoft.com/en-us/products/storage/disks/",
+                "icon_category": "compute",
+                "icon_filename": "00398-icon-service-Disk-Encryption-Sets.svg",
+                "icon_location": "./Icons/compute/00398-icon-service-Disk-Encryption-Sets.svg"
+            },
+            {
+                "service_name": "Azure confidential ledger",
+                "service_desc": "Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-confidential-ledger/"
+            },
+            {
+                "service_name": "Azure Elastic SAN",
+                "service_desc": "Elastic SAN is a cloud-native Storage Area Network (SAN) service built on Azure. Gain access to an end-to-end experience like your on-premises SAN.",
+                "service_link": "https://azure.microsoft.com/en-us/products/storage/elastic-san/",
+                "icon_category": "other",
+                "icon_filename": "03190-icon-service-Elastic-SAN.svg",
+                "icon_location": "./Icons/other/03190-icon-service-Elastic-SAN.svg"
+            },
+            {
+                "service_name": "Queue Storage",
+                "service_desc": "Effectively scale apps according to traffic.",
+                "service_link": "https://azure.microsoft.com/en-us/products/storage/queues/"
+            },
+            {
+                "service_name": "Storage Accounts",
+                "service_desc": "Durable, highly available, and massively scalable cloud storage.",
+                "service_link": "https://azure.microsoft.com/en-us/products/category/storage/",
+                "icon_category": "storage",
+                "icon_filename": "10086-icon-service-Storage-Accounts.svg",
+                "icon_location": "./Icons/storage/10086-icon-service-Storage-Accounts.svg"
+            },
+            {
+                "service_name": "Storage Explorer",
+                "service_desc": "View and interact with Azure Storage resources.",
+                "service_link": "https://azure.microsoft.com/en-us/products/storage/storage-explorer/",
+                "icon_category": "storage",
+                "icon_filename": "10091-icon-service-Storage-Explorer.svg",
+                "icon_location": "./Icons/storage/10091-icon-service-Storage-Explorer.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Virtual desktop infrastructure",
+        "category_desc": "Empower employees to work securely from anywhere with a cloud-based virtual desktop infrastructure.",
+        "services": [
+            {
+                "service_name": "Azure Lab Services",
+                "service_desc": "Set up virtual labs for classes, training, hackathons, and other related scenarios.",
+                "service_link": "https://azure.microsoft.com/en-us/products/lab-services/",
+                "icon_category": "devops",
+                "icon_filename": "10265-icon-service-Lab-Services.svg",
+                "icon_location": "./Icons/devops/10265-icon-service-Lab-Services.svg"
+            },
+            {
+                "service_name": "Azure Virtual Desktop",
+                "service_desc": "Enable a secure, remote desktop experience from anywhere.",
+                "service_link": "https://azure.microsoft.com/en-us/products/virtual-desktop/",
+                "icon_category": "other",
+                "icon_filename": "00327-icon-service-Azure-Virtual-Desktop.svg",
+                "icon_location": "./Icons/other/00327-icon-service-Azure-Virtual-Desktop.svg"
+            },
+            {
+                "service_name": "Microsoft Dev Box \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
+                "service_desc": "Streamline development with secure, ready-to-code workstations in the cloud.",
+                "service_link": "https://azure.microsoft.com/en-us/products/dev-box/",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            }
+        ]
+    },
+    {
+        "category_name": "Web",
+        "category_desc": "Build, deploy, and scale powerful web applications quickly and efficiently.",
+        "services": [
+            {
+                "service_name": "API Management",
+                "service_desc": "Publish APIs to developers, partners, and employees securely and at scale.",
+                "service_link": "https://azure.microsoft.com/en-us/products/api-management/",
+                "icon_category": "integration",
+                "icon_filename": "10042-icon-service-API-Management-Services.svg",
+                "icon_location": "./Icons/integration/10042-icon-service-API-Management-Services.svg"
+            },
+            {
+                "service_name": "App Configuration",
+                "service_desc": "Fast, scalable parameter storage for app configuration.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-configuration/",
+                "icon_category": "integration",
+                "icon_filename": "10219-icon-service-App-Configuration.svg",
+                "icon_location": "./Icons/integration/10219-icon-service-App-Configuration.svg"
+            },
+            {
+                "service_name": "App Service",
+                "service_desc": "Quickly create powerful cloud apps for web and mobile.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-service/",
+                "icon_category": "containers",
+                "icon_filename": "10035-icon-service-App-Services.svg",
+                "icon_location": "./Icons/containers/10035-icon-service-App-Services.svg"
+            },
+            {
+                "service_name": "Azure AI Search",
+                "service_desc": "Enterprise scale search for app development.",
+                "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-search",
+                "icon_category": "general",
+                "icon_filename": "10834-icon-service-Search.svg",
+                "icon_location": "./Icons/general/10834-icon-service-Search.svg"
+            },
+            {
+                "service_name": "Azure Maps",
+                "service_desc": "Add location data and mapping visuals to business applications and solutions.",
+                "service_link": "https://azure.microsoft.com/en-us/products/azure-maps/",
+                "icon_category": "iot",
+                "icon_filename": "10185-icon-service-Azure-Maps-Accounts.svg",
+                "icon_location": "./Icons/iot/10185-icon-service-Azure-Maps-Accounts.svg"
+            },
+            {
+                "service_name": "Azure SignalR Service",
+                "service_desc": "Add real-time web functionalities easily.",
+                "service_link": "https://azure.microsoft.com/en-us/products/signalr-service/",
+                "icon_category": "web",
+                "icon_filename": "10052-icon-service-SignalR.svg",
+                "icon_location": "./Icons/web/10052-icon-service-SignalR.svg"
+            },
+            {
+                "service_name": "Content Delivery Network",
+                "service_desc": "Fast, reliable content delivery network with global reach.",
+                "service_link": "https://azure.microsoft.com/en-us/products/cdn/"
+            },
+            {
+                "service_name": "Notification Hubs",
+                "service_desc": "Send push notifications to any platform from any back end.",
+                "service_link": "https://azure.microsoft.com/en-us/products/notification-hubs/",
+                "icon_category": "mobile",
+                "icon_filename": "10045-icon-service-Notification-Hubs.svg",
+                "icon_location": "./Icons/mobile/10045-icon-service-Notification-Hubs.svg"
+            },
+            {
+                "service_name": "Static Web Apps",
+                "service_desc": "Streamlined full-stack development from source code to global high availability.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-service/static/",
+                "icon_category": "web",
+                "icon_filename": "01007-icon-service-Static-Apps.svg",
+                "icon_location": "./Icons/web/01007-icon-service-Static-Apps.svg"
+            },
+            {
+                "service_name": "Azure Communication Services",
+                "service_desc": "Build multichannel communication experiences.",
+                "service_link": "https://azure.microsoft.com/en-us/products/communication-services/",
+                "icon_category": "other",
+                "icon_filename": "00968-icon-service-Azure-Communication-Services.svg",
+                "icon_location": "./Icons/other/00968-icon-service-Azure-Communication-Services.svg"
+            },
+            {
+                "service_name": "Azure Web PubSub",
+                "service_desc": "Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern.",
+                "service_link": "https://azure.microsoft.com/en-us/products/web-pubsub/",
+                "icon_category": "networking",
+                "icon_filename": "10362-icon-service-Web-Application-Firewall-Policies(WAF).svg",
+                "icon_location": "./Icons/networking/10362-icon-service-Web-Application-Firewall-Policies(WAF).svg"
+            },
+            {
+                "service_name": "Azure Fluid Relay",
+                "service_desc": "Easily add real-time collaborative experiences to your apps with Fluid Framework.",
+                "service_link": "https://azure.microsoft.com/en-us/products/fluid-relay/"
+            },
+            {
+                "service_name": "Web App for Containers",
+                "service_desc": "Run containerized web apps on Windows and Linux.",
+                "service_link": "https://azure.microsoft.com/en-us/products/app-service/containers/",
+                "icon_category": "general",
+                "icon_filename": "10850-icon-service-Web-Test.svg",
+                "icon_location": "./Icons/general/10850-icon-service-Web-Test.svg"
+            },
+            {
+                "service_name": "Microsoft Playwright Testing",
+                "service_desc": "Scalable end-to-end modern web app testing service.",
+                "service_link": "https://azure.microsoft.com/en-us/products/playwright-testing/",
+                "icon_category": "other",
+                "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
+                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+            }
+        ]
+    }
+]

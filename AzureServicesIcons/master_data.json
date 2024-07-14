@@ -1,0 +1,2062 @@
+[
+    {
+        "category": "AI + machine learning",
+        "name": "Azure AI Studio",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Azure AI Studio.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Azure Machine Learning",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Azure Machine Learning.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "AI Search",
+        "svg_file": "AzureServicesIcons/AI + machine learning/AI Search.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Azure AI services",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Azure AI services.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Azure AI services multi-service account",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Azure AI services multi.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Azure AI Video Indexer",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Azure AI Video Indexer.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Anomaly detectors",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Anomaly detectors.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Bot Services",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Bot Services.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Computer vision",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Computer vision.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Content moderators",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Content moderators.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Custom vision",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Custom vision.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Document intelligences",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Document intelligences.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Face APIs",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Face APIs.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Immersive readers",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Immersive readers.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Language",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Language.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Metrics advisors",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Metrics advisors.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Azure OpenAI",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Azure OpenAI.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Personalizers",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Personalizers.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Speech services",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Speech services.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Translators",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Translators.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Intelligent Recommendations Accounts",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Intelligent Recommendations Accounts.svg"
+    },
+    {
+        "category": "AI + machine learning",
+        "name": "Azure Synapse Analytics",
+        "svg_file": "AzureServicesIcons/AI + machine learning/Azure Synapse Analytics.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Analysis Services",
+        "svg_file": "AzureServicesIcons/Analytics/Analysis Services.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Apache Airflow\u2122 on Astro - An Azure Native ISV Service",
+        "svg_file": "AzureServicesIcons/Analytics/Apache Airflow on Astro.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Data factories",
+        "svg_file": "AzureServicesIcons/Analytics/Data factories.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Data Lake Analytics",
+        "svg_file": "AzureServicesIcons/Analytics/Data Lake Analytics.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Data Lake Storage Gen1",
+        "svg_file": "AzureServicesIcons/Analytics/Data Lake Storage Gen1.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Azure Databricks",
+        "svg_file": "AzureServicesIcons/Analytics/Azure Databricks.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "HDInsight clusters",
+        "svg_file": "AzureServicesIcons/Analytics/HDInsight clusters.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Azure HDInsight on AKS clusters (preview)",
+        "svg_file": "AzureServicesIcons/Analytics/Azure HDInsight on AKS clusters preview.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Informatica Intelligent Data Management Cloud - An Azure Native ISV Service",
+        "svg_file": "AzureServicesIcons/Analytics/Informatica Intelligent Data Management Cloud.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Microsoft Graph Data Connect",
+        "svg_file": "AzureServicesIcons/Analytics/Microsoft Graph Data Connect.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Data Catalog",
+        "svg_file": "AzureServicesIcons/Analytics/Data Catalog.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Azure Data Explorer Clusters",
+        "svg_file": "AzureServicesIcons/Analytics/Azure Data Explorer Clusters.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Data Share Invitations",
+        "svg_file": "AzureServicesIcons/Analytics/Data Share Invitations.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Data Shares",
+        "svg_file": "AzureServicesIcons/Analytics/Data Shares.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Power BI Embedded",
+        "svg_file": "AzureServicesIcons/Analytics/Power BI Embedded.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Apache Kafka\u00ae & Apache Flink\u00ae on Confluent Cloud\u2122 - An Azure Native ISV Service",
+        "svg_file": "AzureServicesIcons/Analytics/Apache Kafka Apache Flink on Confluent Cloud.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Event Hubs",
+        "svg_file": "AzureServicesIcons/Analytics/Event Hubs.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Log Analytics workspaces",
+        "svg_file": "AzureServicesIcons/Analytics/Log Analytics workspaces.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Managed Prometheus",
+        "svg_file": "AzureServicesIcons/Analytics/Managed Prometheus.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Stream Analytics clusters",
+        "svg_file": "AzureServicesIcons/Analytics/Stream Analytics clusters.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Stream Analytics jobs",
+        "svg_file": "AzureServicesIcons/Analytics/Stream Analytics jobs.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Azure Synapse Analytics",
+        "svg_file": "AzureServicesIcons/Analytics/Azure Synapse Analytics.svg"
+    },
+    {
+        "category": "Analytics",
+        "name": "Azure Synapse Analytics (private link hubs)",
+        "svg_file": "AzureServicesIcons/Analytics/Azure Synapse Analytics private link hubs.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Availability sets",
+        "svg_file": "AzureServicesIcons/Compute/Availability sets.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Community images",
+        "svg_file": "AzureServicesIcons/Compute/Community images.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Compute Fleet",
+        "svg_file": "AzureServicesIcons/Compute/Compute Fleet.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Azure compute galleries",
+        "svg_file": "AzureServicesIcons/Compute/Azure compute galleries.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Disk Pools",
+        "svg_file": "AzureServicesIcons/Compute/Disk Pools.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Host groups",
+        "svg_file": "AzureServicesIcons/Compute/Host groups.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Image templates",
+        "svg_file": "AzureServicesIcons/Compute/Image templates.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Images",
+        "svg_file": "AzureServicesIcons/Compute/Images.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Lab accounts",
+        "svg_file": "AzureServicesIcons/Compute/Lab accounts.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Proximity placement groups",
+        "svg_file": "AzureServicesIcons/Compute/Proximity placement groups.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Restore Point Collections",
+        "svg_file": "AzureServicesIcons/Compute/Restore Point Collections.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "SSH keys",
+        "svg_file": "AzureServicesIcons/Compute/SSH keys.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Azure Virtual Desktop",
+        "svg_file": "AzureServicesIcons/Compute/Azure Virtual Desktop.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Virtual machine scale sets",
+        "svg_file": "AzureServicesIcons/Compute/Virtual machine scale sets.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Virtual machines",
+        "svg_file": "AzureServicesIcons/Compute/Virtual machines.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "VM application definitions",
+        "svg_file": "AzureServicesIcons/Compute/VM application definitions.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "VM application versions",
+        "svg_file": "AzureServicesIcons/Compute/VM application versions.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "VM image definitions",
+        "svg_file": "AzureServicesIcons/Compute/VM image definitions.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "VM image versions",
+        "svg_file": "AzureServicesIcons/Compute/VM image versions.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "App Services",
+        "svg_file": "AzureServicesIcons/Compute/App Services.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Cloud services (extended support)",
+        "svg_file": "AzureServicesIcons/Compute/Cloud services extended support.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Azure Spring Apps",
+        "svg_file": "AzureServicesIcons/Compute/Azure Spring Apps.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Virtual Instances for SAP solutions",
+        "svg_file": "AzureServicesIcons/Compute/Virtual Instances for SAP solutions.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Azure VMware Solution",
+        "svg_file": "AzureServicesIcons/Compute/Azure VMware Solution.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Container Apps",
+        "svg_file": "AzureServicesIcons/Compute/Container Apps.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Container Apps Environments",
+        "svg_file": "AzureServicesIcons/Compute/Container Apps Environments.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Function App",
+        "svg_file": "AzureServicesIcons/Compute/Function App.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Kubernetes services",
+        "svg_file": "AzureServicesIcons/Compute/Kubernetes services.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "BareMetal Instances",
+        "svg_file": "AzureServicesIcons/Compute/BareMetal Instances.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Batch accounts",
+        "svg_file": "AzureServicesIcons/Compute/Batch accounts.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Genomics accounts",
+        "svg_file": "AzureServicesIcons/Compute/Genomics accounts.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Quantum Workspaces",
+        "svg_file": "AzureServicesIcons/Compute/Quantum Workspaces.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "SAP HANA on Azure",
+        "svg_file": "AzureServicesIcons/Compute/SAP HANA on Azure.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Azure Arc",
+        "svg_file": "AzureServicesIcons/Compute/Azure Arc.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Citrix Virtual Apps Essentials",
+        "svg_file": "AzureServicesIcons/Compute/Citrix Virtual Apps Essentials.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Citrix Virtual Desktops Essentials",
+        "svg_file": "AzureServicesIcons/Compute/Citrix Virtual Desktops Essentials.svg"
+    },
+    {
+        "category": "Compute",
+        "name": "Machines - Azure Arc",
+        "svg_file": "AzureServicesIcons/Compute/Machines.svg"
+    },
+    {
+        "category": "Containers",
+        "name": "Container instances",
+        "svg_file": "AzureServicesIcons/Containers/Container instances.svg"
+    },
+    {
+        "category": "Containers",
+        "name": "Container registries",
+        "svg_file": "AzureServicesIcons/Containers/Container registries.svg"
+    },
+    {
+        "category": "Containers",
+        "name": "Kubernetes fleet manager",
+        "svg_file": "AzureServicesIcons/Containers/Kubernetes fleet manager.svg"
+    },
+    {
+        "category": "Containers",
+        "name": "Kubernetes services",
+        "svg_file": "AzureServicesIcons/Containers/Kubernetes services.svg"
+    },
+    {
+        "category": "Containers",
+        "name": "Azure Red Hat OpenShift clusters",
+        "svg_file": "AzureServicesIcons/Containers/Azure Red Hat OpenShift clusters.svg"
+    },
+    {
+        "category": "Containers",
+        "name": "Service Fabric clusters",
+        "svg_file": "AzureServicesIcons/Containers/Service Fabric clusters.svg"
+    },
+    {
+        "category": "Containers",
+        "name": "Service Fabric managed clusters",
+        "svg_file": "AzureServicesIcons/Containers/Service Fabric managed clusters.svg"
+    },
+    {
+        "category": "Containers",
+        "name": "App Configuration",
+        "svg_file": "AzureServicesIcons/Containers/App Configuration.svg"
+    },
+    {
+        "category": "Containers",
+        "name": "Container App Jobs",
+        "svg_file": "AzureServicesIcons/Containers/Container App Jobs.svg"
+    },
+    {
+        "category": "Containers",
+        "name": "Container Apps",
+        "svg_file": "AzureServicesIcons/Containers/Container Apps.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "Azure Cosmos DB",
+        "svg_file": "AzureServicesIcons/Databases/Azure Cosmos DB.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "Azure Database for PostgreSQL flexible servers",
+        "svg_file": "AzureServicesIcons/Databases/Azure Database for PostgreSQL flexible servers.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "Azure SQL Database Hyperscale",
+        "svg_file": "AzureServicesIcons/Databases/Azure SQL Database Hyperscale.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "Azure Cosmos DB for MongoDB (vCore)",
+        "svg_file": "AzureServicesIcons/Databases/Azure Cosmos DB for MongoDB vCore.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "Azure Database for MySQL flexible servers",
+        "svg_file": "AzureServicesIcons/Databases/Azure Database for MySQL flexible servers.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "Azure Managed Instance for Apache Cassandra",
+        "svg_file": "AzureServicesIcons/Databases/Azure Managed Instance for Apache Cassandra.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "Oracle Database@Azure",
+        "svg_file": "AzureServicesIcons/Databases/Oracle DatabaseAzure.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "SQL databases",
+        "svg_file": "AzureServicesIcons/Databases/SQL databases.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "SQL managed instances",
+        "svg_file": "AzureServicesIcons/Databases/SQL managed instances.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "SQL virtual machines",
+        "svg_file": "AzureServicesIcons/Databases/SQL virtual machines.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "Azure Arc data controllers",
+        "svg_file": "AzureServicesIcons/Databases/Azure Arc data controllers.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "PostgreSQL servers \u2013 Azure Arc",
+        "svg_file": "AzureServicesIcons/Databases/PostgreSQL servers Azure Arc.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "SQL managed instances - Azure Arc",
+        "svg_file": "AzureServicesIcons/Databases/SQL managed instances.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "SQL Server - Azure Arc",
+        "svg_file": "AzureServicesIcons/Databases/SQL Server.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "Azure Cache for Redis",
+        "svg_file": "AzureServicesIcons/Databases/Azure Cache for Redis.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "Azure Database Migration Services",
+        "svg_file": "AzureServicesIcons/Databases/Azure Database Migration Services.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "Elastic Job agents",
+        "svg_file": "AzureServicesIcons/Databases/Elastic Job agents.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "Managed databases",
+        "svg_file": "AzureServicesIcons/Databases/Managed databases.svg"
+    },
+    {
+        "category": "Databases",
+        "name": "SQL Server stretch databases",
+        "svg_file": "AzureServicesIcons/Databases/SQL Server stretch databases.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Chaos Experiments",
+        "svg_file": "AzureServicesIcons/DevOps/Chaos Experiments.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Chaos Studio",
+        "svg_file": "AzureServicesIcons/DevOps/Chaos Studio.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Azure Deployment Environments",
+        "svg_file": "AzureServicesIcons/DevOps/Azure Deployment Environments.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Dev centers",
+        "svg_file": "AzureServicesIcons/DevOps/Dev centers.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Azure DevOps organizations",
+        "svg_file": "AzureServicesIcons/DevOps/Azure DevOps organizations.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "DevTest Labs",
+        "svg_file": "AzureServicesIcons/DevOps/DevTest Labs.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Azure Lab Services",
+        "svg_file": "AzureServicesIcons/DevOps/Azure Lab Services.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Azure Load Testing",
+        "svg_file": "AzureServicesIcons/DevOps/Azure Load Testing.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Microsoft Dev Box",
+        "svg_file": "AzureServicesIcons/DevOps/Microsoft Dev Box.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Network connections",
+        "svg_file": "AzureServicesIcons/DevOps/Network connections.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Playwright Testing",
+        "svg_file": "AzureServicesIcons/DevOps/Playwright Testing.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Projects",
+        "svg_file": "AzureServicesIcons/DevOps/Projects.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Targets Management",
+        "svg_file": "AzureServicesIcons/DevOps/Targets Management.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "API Connections",
+        "svg_file": "AzureServicesIcons/DevOps/API Connections.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "API Management services",
+        "svg_file": "AzureServicesIcons/DevOps/API Management services.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "App Configuration",
+        "svg_file": "AzureServicesIcons/DevOps/App Configuration.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Application Insights",
+        "svg_file": "AzureServicesIcons/DevOps/Application Insights.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Datadog - An Azure Native ISV Service",
+        "svg_file": "AzureServicesIcons/DevOps/Datadog.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Elastic Cloud (Elasticsearch) \u2013 An Azure Native ISV Service",
+        "svg_file": "AzureServicesIcons/DevOps/Elastic Cloud Elasticsearch An Azure Native ISV Service.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Monitor",
+        "svg_file": "AzureServicesIcons/DevOps/Monitor.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Azure Native Dynatrace Service",
+        "svg_file": "AzureServicesIcons/DevOps/Azure Native Dynatrace Service.svg"
+    },
+    {
+        "category": "DevOps",
+        "name": "Azure Native New Relic Service",
+        "svg_file": "AzureServicesIcons/DevOps/Azure Native New Relic Service.svg"
+    },
+    {
+        "category": "General",
+        "name": "All resources",
+        "svg_file": "AzureServicesIcons/General/All resources.svg"
+    },
+    {
+        "category": "General",
+        "name": "Dashboard hub",
+        "svg_file": "AzureServicesIcons/General/Dashboard hub.svg"
+    },
+    {
+        "category": "General",
+        "name": "Deploy a custom template",
+        "svg_file": "AzureServicesIcons/General/Deploy a custom template.svg"
+    },
+    {
+        "category": "General",
+        "name": "Marketplace",
+        "svg_file": "AzureServicesIcons/General/Marketplace.svg"
+    },
+    {
+        "category": "General",
+        "name": "Recent",
+        "svg_file": "AzureServicesIcons/General/Recent.svg"
+    },
+    {
+        "category": "General",
+        "name": "Resource Explorer",
+        "svg_file": "AzureServicesIcons/General/Resource Explorer.svg"
+    },
+    {
+        "category": "General",
+        "name": "Resource Graph Explorer",
+        "svg_file": "AzureServicesIcons/General/Resource Graph Explorer.svg"
+    },
+    {
+        "category": "General",
+        "name": "Resource groups",
+        "svg_file": "AzureServicesIcons/General/Resource groups.svg"
+    },
+    {
+        "category": "General",
+        "name": "Resource Manager",
+        "svg_file": "AzureServicesIcons/General/Resource Manager.svg"
+    },
+    {
+        "category": "General",
+        "name": "SaaS (classic)",
+        "svg_file": "AzureServicesIcons/General/SaaS classic.svg"
+    },
+    {
+        "category": "General",
+        "name": "Subscriptions",
+        "svg_file": "AzureServicesIcons/General/Subscriptions.svg"
+    },
+    {
+        "category": "General",
+        "name": "Tags",
+        "svg_file": "AzureServicesIcons/General/Tags.svg"
+    },
+    {
+        "category": "General",
+        "name": "Templates",
+        "svg_file": "AzureServicesIcons/General/Templates.svg"
+    },
+    {
+        "category": "General",
+        "name": "Virtual Instances for SAP solutions",
+        "svg_file": "AzureServicesIcons/General/Virtual Instances for SAP solutions.svg"
+    },
+    {
+        "category": "General",
+        "name": "Cost Management + Billing",
+        "svg_file": "AzureServicesIcons/General/Cost Management Billing.svg"
+    },
+    {
+        "category": "General",
+        "name": "Free services",
+        "svg_file": "AzureServicesIcons/General/Free services.svg"
+    },
+    {
+        "category": "General",
+        "name": "Quotas",
+        "svg_file": "AzureServicesIcons/General/Quotas.svg"
+    },
+    {
+        "category": "General",
+        "name": "Reservations",
+        "svg_file": "AzureServicesIcons/General/Reservations.svg"
+    },
+    {
+        "category": "General",
+        "name": "Education",
+        "svg_file": "AzureServicesIcons/General/Education.svg"
+    },
+    {
+        "category": "General",
+        "name": "Preview features",
+        "svg_file": "AzureServicesIcons/General/Preview features.svg"
+    },
+    {
+        "category": "General",
+        "name": "Quickstart Center",
+        "svg_file": "AzureServicesIcons/General/Quickstart Center.svg"
+    },
+    {
+        "category": "General",
+        "name": "Help + support",
+        "svg_file": "AzureServicesIcons/General/Help support.svg"
+    },
+    {
+        "category": "General",
+        "name": "Service Health",
+        "svg_file": "AzureServicesIcons/General/Service Health.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Azure Arc",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Azure Arc.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Azure Arc data controllers",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Azure Arc data controllers.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Custom locations",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Custom locations.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Guest Assignments",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Guest Assignments.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Microsoft Entra ID",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Microsoft Entra ID.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Azure Network Function Manager \u2013 Devices",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Azure Network Function Manager Devices.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Resource bridges",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Resource bridges.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "SCVMM management servers",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/SCVMM management servers.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Site manager - Azure Arc",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Site manager.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "VMware vCenters",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/VMware vCenters.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Azure Arc Private Link Scopes",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Azure Arc Private Link Scopes.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Azure Edge Hardware Center",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Azure Edge Hardware Center.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "ExpressRoute circuits",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/ExpressRoute circuits.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Machines - Azure Arc",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Machines.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Operator Nexus",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Operator Nexus.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "SQL Server - Azure Arc",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/SQL Server.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Azure Stack HCI",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Azure Stack HCI.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Virtual WANs",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Virtual WANs.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "PostgreSQL servers \u2013 Azure Arc",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/PostgreSQL servers Azure Arc.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Azure SQL",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Azure SQL.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "SQL managed instances - Azure Arc",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/SQL managed instances.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "SQL Server databases - Azure Arc",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/SQL Server databases.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Microsoft Entra Connect",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Microsoft Entra Connect.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Microsoft Entra Connect Health",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Microsoft Entra Connect Health.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Microsoft Defender for Cloud",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Microsoft Defender for Cloud.svg"
+    },
+    {
+        "category": "Hybrid + multicloud",
+        "name": "Microsoft Sentinel",
+        "svg_file": "AzureServicesIcons/Hybrid + multicloud/Microsoft Sentinel.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Microsoft Entra Connect",
+        "svg_file": "AzureServicesIcons/Identity/Microsoft Entra Connect.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Microsoft Entra Connect Health",
+        "svg_file": "AzureServicesIcons/Identity/Microsoft Entra Connect Health.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Azure AD B2C",
+        "svg_file": "AzureServicesIcons/Identity/Azure AD B2C.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "B2C Tenants",
+        "svg_file": "AzureServicesIcons/Identity/B2C Tenants.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Enterprise applications",
+        "svg_file": "AzureServicesIcons/Identity/Enterprise applications.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "External Identities",
+        "svg_file": "AzureServicesIcons/Identity/External Identities.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "App registrations",
+        "svg_file": "AzureServicesIcons/Identity/App registrations.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "External Configuration Tenant",
+        "svg_file": "AzureServicesIcons/Identity/External Configuration Tenant.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Guest Usages",
+        "svg_file": "AzureServicesIcons/Identity/Guest Usages.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Managed Identities",
+        "svg_file": "AzureServicesIcons/Identity/Managed Identities.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Microsoft Entra Domain Services",
+        "svg_file": "AzureServicesIcons/Identity/Microsoft Entra Domain Services.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Microsoft Entra ID",
+        "svg_file": "AzureServicesIcons/Identity/Microsoft Entra ID.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Microsoft Entra Privileged Identity Management",
+        "svg_file": "AzureServicesIcons/Identity/Microsoft Entra Privileged Identity Management.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Identity Governance",
+        "svg_file": "AzureServicesIcons/Identity/Identity Governance.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Microsoft Entra ID Protection",
+        "svg_file": "AzureServicesIcons/Identity/Microsoft Entra ID Protection.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Microsoft Entra ID Security",
+        "svg_file": "AzureServicesIcons/Identity/Microsoft Entra ID Security.svg"
+    },
+    {
+        "category": "Identity",
+        "name": "Verified ID",
+        "svg_file": "AzureServicesIcons/Identity/Verified ID.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Apache Airflow\u2122 on Astro - An Azure Native ISV Service",
+        "svg_file": "AzureServicesIcons/Integration/Apache Airflow on Astro.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "App Configuration",
+        "svg_file": "AzureServicesIcons/Integration/App Configuration.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Integration accounts",
+        "svg_file": "AzureServicesIcons/Integration/Integration accounts.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Integration Service Environments",
+        "svg_file": "AzureServicesIcons/Integration/Integration Service Environments.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Logic apps",
+        "svg_file": "AzureServicesIcons/Integration/Logic apps.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Logic Apps Custom Connector",
+        "svg_file": "AzureServicesIcons/Integration/Logic Apps Custom Connector.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "API Connections",
+        "svg_file": "AzureServicesIcons/Integration/API Connections.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Azure API for FHIR",
+        "svg_file": "AzureServicesIcons/Integration/Azure API for FHIR.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "API Management services",
+        "svg_file": "AzureServicesIcons/Integration/API Management services.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "FHIR service",
+        "svg_file": "AzureServicesIcons/Integration/FHIR service.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Health Data Services workspace",
+        "svg_file": "AzureServicesIcons/Integration/Health Data Services workspace.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Apache Kafka\u00ae & Apache Flink\u00ae on Confluent Cloud\u2122 - An Azure Native ISV Service",
+        "svg_file": "AzureServicesIcons/Integration/Apache Kafka Apache Flink on Confluent Cloud.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Event Grid",
+        "svg_file": "AzureServicesIcons/Integration/Event Grid.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Event Hubs",
+        "svg_file": "AzureServicesIcons/Integration/Event Hubs.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Event Hubs Clusters",
+        "svg_file": "AzureServicesIcons/Integration/Event Hubs Clusters.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Relays",
+        "svg_file": "AzureServicesIcons/Integration/Relays.svg"
+    },
+    {
+        "category": "Integration",
+        "name": "Service Bus",
+        "svg_file": "AzureServicesIcons/Integration/Service Bus.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "IoT Central Applications",
+        "svg_file": "AzureServicesIcons/Internet of Things/IoT Central Applications.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "IoT Hub",
+        "svg_file": "AzureServicesIcons/Internet of Things/IoT Hub.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Device Update for IoT Hubs",
+        "svg_file": "AzureServicesIcons/Internet of Things/Device Update for IoT Hubs.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Azure IoT Hub Device Provisioning Services",
+        "svg_file": "AzureServicesIcons/Internet of Things/Azure IoT Hub Device Provisioning Services.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Microsoft Defender for IoT",
+        "svg_file": "AzureServicesIcons/Internet of Things/Microsoft Defender for IoT.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Azure Cosmos DB",
+        "svg_file": "AzureServicesIcons/Internet of Things/Azure Cosmos DB.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Azure Data Explorer Clusters",
+        "svg_file": "AzureServicesIcons/Internet of Things/Azure Data Explorer Clusters.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Azure Digital Twins",
+        "svg_file": "AzureServicesIcons/Internet of Things/Azure Digital Twins.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Event Hubs",
+        "svg_file": "AzureServicesIcons/Internet of Things/Event Hubs.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Function App",
+        "svg_file": "AzureServicesIcons/Internet of Things/Function App.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Storage accounts",
+        "svg_file": "AzureServicesIcons/Internet of Things/Storage accounts.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Stream Analytics jobs",
+        "svg_file": "AzureServicesIcons/Internet of Things/Stream Analytics jobs.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Azure Synapse Analytics",
+        "svg_file": "AzureServicesIcons/Internet of Things/Azure Synapse Analytics.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Time Series Insights environments",
+        "svg_file": "AzureServicesIcons/Internet of Things/Time Series Insights environments.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Azure AI services",
+        "svg_file": "AzureServicesIcons/Internet of Things/Azure AI services.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Logic apps",
+        "svg_file": "AzureServicesIcons/Internet of Things/Logic apps.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Azure Machine Learning",
+        "svg_file": "AzureServicesIcons/Internet of Things/Azure Machine Learning.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Azure Maps Accounts",
+        "svg_file": "AzureServicesIcons/Internet of Things/Azure Maps Accounts.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Azure Maps Creator Resources",
+        "svg_file": "AzureServicesIcons/Internet of Things/Azure Maps Creator Resources.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Power Platform",
+        "svg_file": "AzureServicesIcons/Internet of Things/Power Platform.svg"
+    },
+    {
+        "category": "Internet of Things",
+        "name": "Azure Stack Edge / Data Box Gateway",
+        "svg_file": "AzureServicesIcons/Internet of Things/Azure Stack Edge Data Box Gateway.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Azure Center for SAP solutions",
+        "svg_file": "AzureServicesIcons/Management and governance/Azure Center for SAP solutions.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Change Analysis",
+        "svg_file": "AzureServicesIcons/Management and governance/Change Analysis.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Deployment Scripts",
+        "svg_file": "AzureServicesIcons/Management and governance/Deployment Scripts.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Diagnostic settings",
+        "svg_file": "AzureServicesIcons/Management and governance/Diagnostic settings.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Azure Monitors for SAP solutions",
+        "svg_file": "AzureServicesIcons/Management and governance/Azure Monitors for SAP solutions.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Resource Graph Explorer",
+        "svg_file": "AzureServicesIcons/Management and governance/Resource Graph Explorer.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Resource Graph queries",
+        "svg_file": "AzureServicesIcons/Management and governance/Resource Graph queries.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Resource groups",
+        "svg_file": "AzureServicesIcons/Management and governance/Resource groups.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Azure Resource Mover",
+        "svg_file": "AzureServicesIcons/Management and governance/Azure Resource Mover.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Rollouts",
+        "svg_file": "AzureServicesIcons/Management and governance/Rollouts.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Subscriptions",
+        "svg_file": "AzureServicesIcons/Management and governance/Subscriptions.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Tags",
+        "svg_file": "AzureServicesIcons/Management and governance/Tags.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Template specs",
+        "svg_file": "AzureServicesIcons/Management and governance/Template specs.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Templates",
+        "svg_file": "AzureServicesIcons/Management and governance/Templates.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Virtual Instances for SAP solutions",
+        "svg_file": "AzureServicesIcons/Management and governance/Virtual Instances for SAP solutions.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Copilot for Azure admin center",
+        "svg_file": "AzureServicesIcons/Management and governance/Copilot for Azure admin center.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Advisor",
+        "svg_file": "AzureServicesIcons/Management and governance/Advisor.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Automanage",
+        "svg_file": "AzureServicesIcons/Management and governance/Automanage.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Automation Accounts",
+        "svg_file": "AzureServicesIcons/Management and governance/Automation Accounts.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Blueprints",
+        "svg_file": "AzureServicesIcons/Management and governance/Blueprints.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Capacity Reservation Groups",
+        "svg_file": "AzureServicesIcons/Management and governance/Capacity Reservation Groups.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Carbon optimization",
+        "svg_file": "AzureServicesIcons/Management and governance/Carbon optimization.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Cost Management",
+        "svg_file": "AzureServicesIcons/Management and governance/Cost Management.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Guest Assignments",
+        "svg_file": "AzureServicesIcons/Management and governance/Guest Assignments.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Policy",
+        "svg_file": "AzureServicesIcons/Management and governance/Policy.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Azure Update Manager",
+        "svg_file": "AzureServicesIcons/Management and governance/Azure Update Manager.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Azure Arc",
+        "svg_file": "AzureServicesIcons/Management and governance/Azure Arc.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Machines - Azure Arc",
+        "svg_file": "AzureServicesIcons/Management and governance/Machines.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Microsoft Purview accounts",
+        "svg_file": "AzureServicesIcons/Management and governance/Microsoft Purview accounts.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Customer Lockbox for Microsoft Azure",
+        "svg_file": "AzureServicesIcons/Management and governance/Customer Lockbox for Microsoft Azure.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Azure Lighthouse",
+        "svg_file": "AzureServicesIcons/Management and governance/Azure Lighthouse.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Managed applications center",
+        "svg_file": "AzureServicesIcons/Management and governance/Managed applications center.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Intune",
+        "svg_file": "AzureServicesIcons/Management and governance/Intune.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Intune for Education",
+        "svg_file": "AzureServicesIcons/Management and governance/Intune for Education.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Universal Print",
+        "svg_file": "AzureServicesIcons/Management and governance/Universal Print.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Backup center",
+        "svg_file": "AzureServicesIcons/Management and governance/Backup center.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Backup vaults",
+        "svg_file": "AzureServicesIcons/Management and governance/Backup vaults.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Business Continuity Center",
+        "svg_file": "AzureServicesIcons/Management and governance/Business Continuity Center.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Azure Native Qumulo Scalable File Service",
+        "svg_file": "AzureServicesIcons/Management and governance/Azure Native Qumulo Scalable File Service.svg"
+    },
+    {
+        "category": "Management and governance",
+        "name": "Recovery Services vaults",
+        "svg_file": "AzureServicesIcons/Management and governance/Recovery Services vaults.svg"
+    },
+    {
+        "category": "Migration",
+        "name": "Azure Database Migration Services",
+        "svg_file": "AzureServicesIcons/Migration/Azure Database Migration Services.svg"
+    },
+    {
+        "category": "Migration",
+        "name": "Azure Migrate",
+        "svg_file": "AzureServicesIcons/Migration/Azure Migrate.svg"
+    },
+    {
+        "category": "Migration",
+        "name": "Azure Data Box",
+        "svg_file": "AzureServicesIcons/Migration/Azure Data Box.svg"
+    },
+    {
+        "category": "Migration",
+        "name": "Recovery Services vaults",
+        "svg_file": "AzureServicesIcons/Migration/Recovery Services vaults.svg"
+    },
+    {
+        "category": "Migration",
+        "name": "Azure Stack Edge / Data Box Gateway",
+        "svg_file": "AzureServicesIcons/Migration/Azure Stack Edge Data Box Gateway.svg"
+    },
+    {
+        "category": "Mixed reality",
+        "name": "Object Anchors Accounts",
+        "svg_file": "AzureServicesIcons/Mixed reality/Object Anchors Accounts.svg"
+    },
+    {
+        "category": "Mixed reality",
+        "name": "Remote Rendering Accounts",
+        "svg_file": "AzureServicesIcons/Mixed reality/Remote Rendering Accounts.svg"
+    },
+    {
+        "category": "Mixed reality",
+        "name": "Spatial Anchors Accounts",
+        "svg_file": "AzureServicesIcons/Mixed reality/Spatial Anchors Accounts.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Alerts",
+        "svg_file": "AzureServicesIcons/Monitor/Alerts.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Autoscale",
+        "svg_file": "AzureServicesIcons/Monitor/Autoscale.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Change Analysis",
+        "svg_file": "AzureServicesIcons/Monitor/Change Analysis.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Diagnostic settings",
+        "svg_file": "AzureServicesIcons/Monitor/Diagnostic settings.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Log Analytics workspaces",
+        "svg_file": "AzureServicesIcons/Monitor/Log Analytics workspaces.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Managed Prometheus",
+        "svg_file": "AzureServicesIcons/Monitor/Managed Prometheus.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Metrics",
+        "svg_file": "AzureServicesIcons/Monitor/Metrics.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Azure Monitor workspaces",
+        "svg_file": "AzureServicesIcons/Monitor/Azure Monitor workspaces.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Azure Native Dynatrace Service",
+        "svg_file": "AzureServicesIcons/Monitor/Azure Native Dynatrace Service.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Azure Workbooks",
+        "svg_file": "AzureServicesIcons/Monitor/Azure Workbooks.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Application Insights",
+        "svg_file": "AzureServicesIcons/Monitor/Application Insights.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Activity log",
+        "svg_file": "AzureServicesIcons/Monitor/Activity log.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Data collection endpoints",
+        "svg_file": "AzureServicesIcons/Monitor/Data collection endpoints.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Data collection rules",
+        "svg_file": "AzureServicesIcons/Monitor/Data collection rules.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Database watchers",
+        "svg_file": "AzureServicesIcons/Monitor/Database watchers.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Datadog - An Azure Native ISV Service",
+        "svg_file": "AzureServicesIcons/Monitor/Datadog.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Elastic Cloud (Elasticsearch) \u2013 An Azure Native ISV Service",
+        "svg_file": "AzureServicesIcons/Monitor/Elastic Cloud Elasticsearch An Azure Native ISV Service.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Log Analytics query packs",
+        "svg_file": "AzureServicesIcons/Monitor/Log Analytics query packs.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Azure Managed Grafana",
+        "svg_file": "AzureServicesIcons/Monitor/Azure Managed Grafana.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Monitor",
+        "svg_file": "AzureServicesIcons/Monitor/Monitor.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Azure Monitors for SAP solutions",
+        "svg_file": "AzureServicesIcons/Monitor/Azure Monitors for SAP solutions.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Azure Native New Relic Service",
+        "svg_file": "AzureServicesIcons/Monitor/Azure Native New Relic Service.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Network Watcher",
+        "svg_file": "AzureServicesIcons/Monitor/Network Watcher.svg"
+    },
+    {
+        "category": "Monitor",
+        "name": "Service Health",
+        "svg_file": "AzureServicesIcons/Monitor/Service Health.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Bastions",
+        "svg_file": "AzureServicesIcons/Networking/Bastions.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Custom IP Prefixes",
+        "svg_file": "AzureServicesIcons/Networking/Custom IP Prefixes.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "DNS private resolvers",
+        "svg_file": "AzureServicesIcons/Networking/DNS private resolvers.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "DNS zones",
+        "svg_file": "AzureServicesIcons/Networking/DNS zones.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "NAT gateways",
+        "svg_file": "AzureServicesIcons/Networking/NAT gateways.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Network interfaces",
+        "svg_file": "AzureServicesIcons/Networking/Network interfaces.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Network managers",
+        "svg_file": "AzureServicesIcons/Networking/Network managers.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Private DNS zones",
+        "svg_file": "AzureServicesIcons/Networking/Private DNS zones.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Private Link",
+        "svg_file": "AzureServicesIcons/Networking/Private Link.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Public IP addresses",
+        "svg_file": "AzureServicesIcons/Networking/Public IP addresses.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Public IP Prefixes",
+        "svg_file": "AzureServicesIcons/Networking/Public IP Prefixes.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Route tables",
+        "svg_file": "AzureServicesIcons/Networking/Route tables.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Virtual networks",
+        "svg_file": "AzureServicesIcons/Networking/Virtual networks.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Communications Gateways",
+        "svg_file": "AzureServicesIcons/Networking/Communications Gateways.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Connections",
+        "svg_file": "AzureServicesIcons/Networking/Connections.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "ExpressRoute circuits",
+        "svg_file": "AzureServicesIcons/Networking/ExpressRoute circuits.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "ExpressRoute traffic collectors",
+        "svg_file": "AzureServicesIcons/Networking/ExpressRoute traffic collectors.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Local network gateways",
+        "svg_file": "AzureServicesIcons/Networking/Local network gateways.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Mobile Networks",
+        "svg_file": "AzureServicesIcons/Networking/Mobile Networks.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Peering Services",
+        "svg_file": "AzureServicesIcons/Networking/Peering Services.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Peerings",
+        "svg_file": "AzureServicesIcons/Networking/Peerings.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Virtual network gateways",
+        "svg_file": "AzureServicesIcons/Networking/Virtual network gateways.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Virtual WANs",
+        "svg_file": "AzureServicesIcons/Networking/Virtual WANs.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "DDoS protection plans",
+        "svg_file": "AzureServicesIcons/Networking/DDoS protection plans.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Firewall Manager",
+        "svg_file": "AzureServicesIcons/Networking/Firewall Manager.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Firewalls",
+        "svg_file": "AzureServicesIcons/Networking/Firewalls.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "IP Groups",
+        "svg_file": "AzureServicesIcons/Networking/IP Groups.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Network security groups",
+        "svg_file": "AzureServicesIcons/Networking/Network security groups.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Network Security Perimeters",
+        "svg_file": "AzureServicesIcons/Networking/Network Security Perimeters.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Web Application Firewall policies (WAF)",
+        "svg_file": "AzureServicesIcons/Networking/Web Application Firewall policies WAF.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Application gateways",
+        "svg_file": "AzureServicesIcons/Networking/Application gateways.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Load balancers",
+        "svg_file": "AzureServicesIcons/Networking/Load balancers.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Load balancing - help me choose",
+        "svg_file": "AzureServicesIcons/Networking/Load balancing.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Front Door and CDN profiles",
+        "svg_file": "AzureServicesIcons/Networking/Front Door and CDN profiles.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Microsoft Connected Cache for Internet Service Providers",
+        "svg_file": "AzureServicesIcons/Networking/Microsoft Connected Cache for Internet Service Providers.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Monitor",
+        "svg_file": "AzureServicesIcons/Networking/Monitor.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "Network Watcher",
+        "svg_file": "AzureServicesIcons/Networking/Network Watcher.svg"
+    },
+    {
+        "category": "Networking",
+        "name": "NGINXaaS",
+        "svg_file": "AzureServicesIcons/Networking/NGINXaaS.svg"
+    },
+    {
+        "category": "Security",
+        "name": "App Compliance Automation Tool for Microsoft 365",
+        "svg_file": "AzureServicesIcons/Security/App Compliance Automation Tool for Microsoft 365.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Application security groups",
+        "svg_file": "AzureServicesIcons/Security/Application security groups.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Confidential Ledgers",
+        "svg_file": "AzureServicesIcons/Security/Confidential Ledgers.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Log Analytics workspaces",
+        "svg_file": "AzureServicesIcons/Security/Log Analytics workspaces.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Web Application Firewall policies (WAF)",
+        "svg_file": "AzureServicesIcons/Security/Web Application Firewall policies WAF.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Microsoft Entra Domain Services",
+        "svg_file": "AzureServicesIcons/Security/Microsoft Entra Domain Services.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Microsoft Entra ID",
+        "svg_file": "AzureServicesIcons/Security/Microsoft Entra ID.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Microsoft Entra ID Security",
+        "svg_file": "AzureServicesIcons/Security/Microsoft Entra ID Security.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Microsoft Entra Privileged Identity Management",
+        "svg_file": "AzureServicesIcons/Security/Microsoft Entra Privileged Identity Management.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Multifactor authentication",
+        "svg_file": "AzureServicesIcons/Security/Multifactor authentication.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Trusted Signing Accounts",
+        "svg_file": "AzureServicesIcons/Security/Trusted Signing Accounts.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Application gateways",
+        "svg_file": "AzureServicesIcons/Security/Application gateways.svg"
+    },
+    {
+        "category": "Security",
+        "name": "DDoS protection plans",
+        "svg_file": "AzureServicesIcons/Security/DDoS protection plans.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Firewalls",
+        "svg_file": "AzureServicesIcons/Security/Firewalls.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Key vaults",
+        "svg_file": "AzureServicesIcons/Security/Key vaults.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Network Security Perimeters",
+        "svg_file": "AzureServicesIcons/Security/Network Security Perimeters.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Virtual network gateways",
+        "svg_file": "AzureServicesIcons/Security/Virtual network gateways.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Microsoft Defender EASM",
+        "svg_file": "AzureServicesIcons/Security/Microsoft Defender EASM.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Microsoft Defender for Cloud",
+        "svg_file": "AzureServicesIcons/Security/Microsoft Defender for Cloud.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Microsoft Defender for IoT",
+        "svg_file": "AzureServicesIcons/Security/Microsoft Defender for IoT.svg"
+    },
+    {
+        "category": "Security",
+        "name": "Microsoft Sentinel",
+        "svg_file": "AzureServicesIcons/Security/Microsoft Sentinel.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Azure Edge Hardware Center",
+        "svg_file": "AzureServicesIcons/Storage/Azure Edge Hardware Center.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Azure Stack Edge / Data Box Gateway",
+        "svg_file": "AzureServicesIcons/Storage/Azure Stack Edge Data Box Gateway.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Disk Accesses",
+        "svg_file": "AzureServicesIcons/Storage/Disk Accesses.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Disk Encryption Sets",
+        "svg_file": "AzureServicesIcons/Storage/Disk Encryption Sets.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Disk Pools",
+        "svg_file": "AzureServicesIcons/Storage/Disk Pools.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Disks",
+        "svg_file": "AzureServicesIcons/Storage/Disks.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Elastic SANs",
+        "svg_file": "AzureServicesIcons/Storage/Elastic SANs.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Azure Native Qumulo Scalable File Service",
+        "svg_file": "AzureServicesIcons/Storage/Azure Native Qumulo Scalable File Service.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Azure NetApp Files",
+        "svg_file": "AzureServicesIcons/Storage/Azure NetApp Files.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Snapshots",
+        "svg_file": "AzureServicesIcons/Storage/Snapshots.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Storage accounts",
+        "svg_file": "AzureServicesIcons/Storage/Storage accounts.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Storage browser",
+        "svg_file": "AzureServicesIcons/Storage/Storage browser.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Azure Data Box",
+        "svg_file": "AzureServicesIcons/Storage/Azure Data Box.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Storage movers",
+        "svg_file": "AzureServicesIcons/Storage/Storage movers.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Data Lake Storage Gen1",
+        "svg_file": "AzureServicesIcons/Storage/Data Lake Storage Gen1.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "HPC caches",
+        "svg_file": "AzureServicesIcons/Storage/HPC caches.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Azure Managed Lustre",
+        "svg_file": "AzureServicesIcons/Storage/Azure Managed Lustre.svg"
+    },
+    {
+        "category": "Storage",
+        "name": "Storage Sync Services",
+        "svg_file": "AzureServicesIcons/Storage/Storage Sync Services.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "API Connections",
+        "svg_file": "AzureServicesIcons/Web & Mobile/API Connections.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "API Management services",
+        "svg_file": "AzureServicesIcons/Web & Mobile/API Management services.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "App Configuration",
+        "svg_file": "AzureServicesIcons/Web & Mobile/App Configuration.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "App Service Certificates",
+        "svg_file": "AzureServicesIcons/Web & Mobile/App Service Certificates.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "App Service Domains",
+        "svg_file": "AzureServicesIcons/Web & Mobile/App Service Domains.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "App Service Environments",
+        "svg_file": "AzureServicesIcons/Web & Mobile/App Service Environments.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "App Service plans",
+        "svg_file": "AzureServicesIcons/Web & Mobile/App Service plans.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Application Insights",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Application Insights.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "App Services",
+        "svg_file": "AzureServicesIcons/Web & Mobile/App Services.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "App Spaces (preview)",
+        "svg_file": "AzureServicesIcons/Web & Mobile/App Spaces preview.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Container Apps",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Container Apps.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Function App",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Function App.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Logic apps",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Logic apps.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Azure Spring Apps",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Azure Spring Apps.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Static Web Apps",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Static Web Apps.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "AI Search",
+        "svg_file": "AzureServicesIcons/Web & Mobile/AI Search.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Media Services",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Media Services.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Communication Services",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Communication Services.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Email Communication Services",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Email Communication Services.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Fluid Relay",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Fluid Relay.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Notification Hubs",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Notification Hubs.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "SignalR",
+        "svg_file": "AzureServicesIcons/Web & Mobile/SignalR.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Virtual Appointments Builder",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Virtual Appointments Builder.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Web PubSub for Socket.IO",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Web PubSub for SocketIO.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Web PubSub Service",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Web PubSub Service.svg"
+    },
+    {
+        "category": "Web & Mobile",
+        "name": "Community Training",
+        "svg_file": "AzureServicesIcons/Web & Mobile/Community Training.svg"
+    }
+]
