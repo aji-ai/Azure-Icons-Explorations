@@ -9,7 +9,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-anomaly-detector/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "00814-icon-service-Anomaly-Detector.svg",
-                "icon_location": "./Icons/ai + machine learning/00814-icon-service-Anomaly-Detector.svg"
+                "icon_location": "WebIcons/ai + machine learning/00814-icon-service-Anomaly-Detector.svg"
             },
             {
                 "service_name": "Azure AI Bot Service",
@@ -17,7 +17,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-bot-service/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "10165-icon-service-Bot-Services.svg",
-                "icon_location": "./Icons/ai + machine learning/10165-icon-service-Bot-Services.svg"
+                "icon_location": "WebIcons/ai + machine learning/10165-icon-service-Bot-Services.svg"
             },
             {
                 "service_name": "Azure AI Search",
@@ -25,7 +25,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-search",
                 "icon_category": "general",
                 "icon_filename": "10834-icon-service-Search.svg",
-                "icon_location": "./Icons/general/10834-icon-service-Search.svg"
+                "icon_location": "WebIcons/general/10834-icon-service-Search.svg"
             },
             {
                 "service_name": "Azure Databricks",
@@ -33,7 +33,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/databricks/",
                 "icon_category": "analytics",
                 "icon_filename": "10787-icon-service-Azure-Databricks.svg",
-                "icon_location": "./Icons/analytics/10787-icon-service-Azure-Databricks.svg"
+                "icon_location": "WebIcons/analytics/10787-icon-service-Azure-Databricks.svg"
             },
             {
                 "service_name": "Azure Machine Learning",
@@ -41,7 +41,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/machine-learning/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "10166-icon-service-Machine-Learning.svg",
-                "icon_location": "./Icons/ai + machine learning/10166-icon-service-Machine-Learning.svg"
+                "icon_location": "WebIcons/ai + machine learning/10166-icon-service-Machine-Learning.svg"
             },
             {
                 "service_name": "Azure Open Datasets",
@@ -49,7 +49,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/open-datasets/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "03438-icon-service-Azure-OpenAI.svg",
-                "icon_location": "./Icons/ai + machine learning/03438-icon-service-Azure-OpenAI.svg"
+                "icon_location": "WebIcons/ai + machine learning/03438-icon-service-Azure-OpenAI.svg"
             },
             {
                 "service_name": "Azure AI Services",
@@ -57,7 +57,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/",
                 "icon_category": "integration",
                 "icon_filename": "10836-icon-service-Azure-Service-Bus.svg",
-                "icon_location": "./Icons/integration/10836-icon-service-Azure-Service-Bus.svg"
+                "icon_location": "WebIcons/integration/10836-icon-service-Azure-Service-Bus.svg"
             },
             {
                 "service_name": "Azure AI Video Indexer",
@@ -65,7 +65,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-video-indexer/",
                 "icon_category": "other",
                 "icon_filename": "01800-icon-service-Azure-Video-Indexer.svg",
-                "icon_location": "./Icons/other/01800-icon-service-Azure-Video-Indexer.svg"
+                "icon_location": "WebIcons/other/01800-icon-service-Azure-Video-Indexer.svg"
             },
             {
                 "service_name": "Azure AI Custom Vision",
@@ -73,7 +73,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-custom-vision/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "00793-icon-service-Custom-Vision.svg",
-                "icon_location": "./Icons/ai + machine learning/00793-icon-service-Custom-Vision.svg"
+                "icon_location": "WebIcons/ai + machine learning/00793-icon-service-Custom-Vision.svg"
             },
             {
                 "service_name": "Data Science Virtual Machines",
@@ -81,7 +81,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/data-science-virtual-machines/",
                 "icon_category": "analytics",
                 "icon_filename": "10126-icon-service-Data-Factories.svg",
-                "icon_location": "./Icons/analytics/10126-icon-service-Data-Factories.svg"
+                "icon_location": "WebIcons/analytics/10126-icon-service-Data-Factories.svg"
             },
             {
                 "service_name": "Language Understanding (LUIS)",
@@ -89,7 +89,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/conversational-language-understanding/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "00801-icon-service-Language-Understanding.svg",
-                "icon_location": "./Icons/ai + machine learning/00801-icon-service-Language-Understanding.svg"
+                "icon_location": "WebIcons/ai + machine learning/00801-icon-service-Language-Understanding.svg"
             },
             {
                 "service_name": "Speaker recognition",
@@ -112,7 +112,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-language/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "02876-icon-service-Language.svg",
-                "icon_location": "./Icons/ai + machine learning/02876-icon-service-Language.svg"
+                "icon_location": "WebIcons/ai + machine learning/02876-icon-service-Language.svg"
             },
             {
                 "service_name": "Text to speech",
@@ -125,7 +125,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-translator/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "00800-icon-service-Translator-Text.svg",
-                "icon_location": "./Icons/ai + machine learning/00800-icon-service-Translator-Text.svg"
+                "icon_location": "WebIcons/ai + machine learning/00800-icon-service-Translator-Text.svg"
             },
             {
                 "service_name": "Azure AI Metrics Advisor",
@@ -133,7 +133,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-metrics-advisor/",
                 "icon_category": "compute",
                 "icon_filename": "02409-icon-service-Metrics-Advisor.svg",
-                "icon_location": "./Icons/compute/02409-icon-service-Metrics-Advisor.svg"
+                "icon_location": "WebIcons/compute/02409-icon-service-Metrics-Advisor.svg"
             },
             {
                 "service_name": "Azure OpenAI Service",
@@ -141,7 +141,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/openai-service/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "03438-icon-service-Azure-OpenAI.svg",
-                "icon_location": "./Icons/ai + machine learning/03438-icon-service-Azure-OpenAI.svg"
+                "icon_location": "WebIcons/ai + machine learning/03438-icon-service-Azure-OpenAI.svg"
             },
             {
                 "service_name": "Azure AI Personalizer",
@@ -149,7 +149,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-personalizer/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "00796-icon-service-Personalizers.svg",
-                "icon_location": "./Icons/ai + machine learning/00796-icon-service-Personalizers.svg"
+                "icon_location": "WebIcons/ai + machine learning/00796-icon-service-Personalizers.svg"
             },
             {
                 "service_name": "Azure AI Content Safety",
@@ -172,7 +172,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-studio",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "03513-icon-service-AI-Studio.svg",
-                "icon_location": "./Icons/ai + machine learning/03513-icon-service-AI-Studio.svg"
+                "icon_location": "WebIcons/ai + machine learning/03513-icon-service-AI-Studio.svg"
             },
             {
                 "service_name": "Azure Operator Call Protection",
@@ -180,7 +180,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/operator-call-protection",
                 "icon_category": "hybrid + multicloud",
                 "icon_filename": "03324-icon-service-Azure-Operator-Nexus.svg",
-                "icon_location": "./Icons/hybrid + multicloud/03324-icon-service-Azure-Operator-Nexus.svg"
+                "icon_location": "WebIcons/hybrid + multicloud/03324-icon-service-Azure-Operator-Nexus.svg"
             },
             {
                 "service_name": "Microsoft Copilot for Security",
@@ -188,7 +188,7 @@
                 "service_link": "https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-copilot-security",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             },
             {
                 "service_name": "Azure AI Immersive Reader",
@@ -196,7 +196,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-immersive-reader/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "00812-icon-service-Immersive-Readers.svg",
-                "icon_location": "./Icons/ai + machine learning/00812-icon-service-Immersive-Readers.svg"
+                "icon_location": "WebIcons/ai + machine learning/00812-icon-service-Immersive-Readers.svg"
             },
             {
                 "service_name": "Phi-3 open models",
@@ -215,7 +215,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/analysis-services/",
                 "icon_category": "analytics",
                 "icon_filename": "10148-icon-service-Analysis-Services.svg",
-                "icon_location": "./Icons/analytics/10148-icon-service-Analysis-Services.svg"
+                "icon_location": "WebIcons/analytics/10148-icon-service-Analysis-Services.svg"
             },
             {
                 "service_name": "Azure Data Explorer",
@@ -223,7 +223,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/data-explorer/",
                 "icon_category": "analytics",
                 "icon_filename": "10145-icon-service-Azure-Data-Explorer-Clusters.svg",
-                "icon_location": "./Icons/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg"
+                "icon_location": "WebIcons/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg"
             },
             {
                 "service_name": "Azure Data Factory",
@@ -231,7 +231,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/data-factory/",
                 "icon_category": "analytics",
                 "icon_filename": "10145-icon-service-Azure-Data-Explorer-Clusters.svg",
-                "icon_location": "./Icons/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg"
+                "icon_location": "WebIcons/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg"
             },
             {
                 "service_name": "Azure Data Lake Storage",
@@ -239,7 +239,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/storage/data-lake-storage/",
                 "icon_category": "storage",
                 "icon_filename": "10090-icon-service-Data-Lake-Storage-Gen1.svg",
-                "icon_location": "./Icons/storage/10090-icon-service-Data-Lake-Storage-Gen1.svg"
+                "icon_location": "WebIcons/storage/10090-icon-service-Data-Lake-Storage-Gen1.svg"
             },
             {
                 "service_name": "Azure Data Share",
@@ -247,7 +247,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/data-share/",
                 "icon_category": "storage",
                 "icon_filename": "10098-icon-service-Data-Shares.svg",
-                "icon_location": "./Icons/storage/10098-icon-service-Data-Shares.svg"
+                "icon_location": "WebIcons/storage/10098-icon-service-Data-Shares.svg"
             },
             {
                 "service_name": "Azure Databricks",
@@ -255,7 +255,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/databricks/",
                 "icon_category": "analytics",
                 "icon_filename": "10787-icon-service-Azure-Databricks.svg",
-                "icon_location": "./Icons/analytics/10787-icon-service-Azure-Databricks.svg"
+                "icon_location": "WebIcons/analytics/10787-icon-service-Azure-Databricks.svg"
             },
             {
                 "service_name": "Azure Stream Analytics",
@@ -263,7 +263,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/stream-analytics/",
                 "icon_category": "analytics",
                 "icon_filename": "00042-icon-service-Stream-Analytics-Jobs.svg",
-                "icon_location": "./Icons/analytics/00042-icon-service-Stream-Analytics-Jobs.svg"
+                "icon_location": "WebIcons/analytics/00042-icon-service-Stream-Analytics-Jobs.svg"
             },
             {
                 "service_name": "Azure Synapse Analytics",
@@ -271,7 +271,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/synapse-analytics/",
                 "icon_category": "analytics",
                 "icon_filename": "00606-icon-service-Azure-Synapse-Analytics.svg",
-                "icon_location": "./Icons/analytics/00606-icon-service-Azure-Synapse-Analytics.svg"
+                "icon_location": "WebIcons/analytics/00606-icon-service-Azure-Synapse-Analytics.svg"
             },
             {
                 "service_name": "Data Catalog",
@@ -279,7 +279,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/data-catalog/",
                 "icon_category": "integration",
                 "icon_filename": "10216-icon-service-Azure-Data-Catalog.svg",
-                "icon_location": "./Icons/integration/10216-icon-service-Azure-Data-Catalog.svg"
+                "icon_location": "WebIcons/integration/10216-icon-service-Azure-Data-Catalog.svg"
             },
             {
                 "service_name": "Data Lake Analytics",
@@ -287,7 +287,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/data-lake-analytics/",
                 "icon_category": "analytics",
                 "icon_filename": "10143-icon-service-Data-Lake-Analytics.svg",
-                "icon_location": "./Icons/analytics/10143-icon-service-Data-Lake-Analytics.svg"
+                "icon_location": "WebIcons/analytics/10143-icon-service-Data-Lake-Analytics.svg"
             },
             {
                 "service_name": "Event Hubs",
@@ -295,7 +295,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/event-hubs/",
                 "icon_category": "analytics",
                 "icon_filename": "00039-icon-service-Event-Hubs.svg",
-                "icon_location": "./Icons/analytics/00039-icon-service-Event-Hubs.svg"
+                "icon_location": "WebIcons/analytics/00039-icon-service-Event-Hubs.svg"
             },
             {
                 "service_name": "HDInsight",
@@ -308,7 +308,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/power-bi-embedded/",
                 "icon_category": "analytics",
                 "icon_filename": "03332-icon-service-Power-BI-Embedded.svg",
-                "icon_location": "./Icons/analytics/03332-icon-service-Power-BI-Embedded.svg"
+                "icon_location": "WebIcons/analytics/03332-icon-service-Power-BI-Embedded.svg"
             },
             {
                 "service_name": "Microsoft Graph Data Connect \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
@@ -316,7 +316,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/graph-data-connect/",
                 "icon_category": "security",
                 "icon_filename": "03336-icon-service-Microsoft-Defender-EASM.svg",
-                "icon_location": "./Icons/security/03336-icon-service-Microsoft-Defender-EASM.svg"
+                "icon_location": "WebIcons/security/03336-icon-service-Microsoft-Defender-EASM.svg"
             },
             {
                 "service_name": "Azure Chaos Studio",
@@ -324,7 +324,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/chaos-studio/",
                 "icon_category": "other",
                 "icon_filename": "02223-icon-service-Azure-Chaos-Studio.svg",
-                "icon_location": "./Icons/other/02223-icon-service-Azure-Chaos-Studio.svg"
+                "icon_location": "WebIcons/other/02223-icon-service-Azure-Chaos-Studio.svg"
             },
             {
                 "service_name": "Microsoft Fabric",
@@ -332,7 +332,7 @@
                 "service_link": "https://www.microsoft.com/en-us/microsoft-fabric",
                 "icon_category": "security",
                 "icon_filename": "02247-icon-service-Microsoft-Defender-for-IoT.svg",
-                "icon_location": "./Icons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
+                "icon_location": "WebIcons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
             },
             {
                 "service_name": "Microsoft Purview",
@@ -340,7 +340,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/purview/",
                 "icon_category": "security",
                 "icon_filename": "02247-icon-service-Microsoft-Defender-for-IoT.svg",
-                "icon_location": "./Icons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
+                "icon_location": "WebIcons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
             },
             {
                 "service_name": "Azure HDInsight on Azure Kubernetes Service (AKS)\u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
@@ -348,7 +348,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/hdinsight-on-aks/",
                 "icon_category": "other",
                 "icon_filename": "03468-icon-service-HDI-AKS-Cluster.svg",
-                "icon_location": "./Icons/other/03468-icon-service-HDI-AKS-Cluster.svg"
+                "icon_location": "WebIcons/other/03468-icon-service-HDI-AKS-Cluster.svg"
             },
             {
                 "service_name": "Azure Operator Insights",
@@ -356,7 +356,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/operator-insights/",
                 "icon_category": "hybrid + multicloud",
                 "icon_filename": "03333-icon-service-Azure-Operator-Insights.svg",
-                "icon_location": "./Icons/hybrid + multicloud/03333-icon-service-Azure-Operator-Insights.svg"
+                "icon_location": "WebIcons/hybrid + multicloud/03333-icon-service-Azure-Operator-Insights.svg"
             }
         ]
     },
@@ -370,7 +370,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-service/",
                 "icon_category": "containers",
                 "icon_filename": "10035-icon-service-App-Services.svg",
-                "icon_location": "./Icons/containers/10035-icon-service-App-Services.svg"
+                "icon_location": "WebIcons/containers/10035-icon-service-App-Services.svg"
             },
             {
                 "service_name": "Azure Compute Fleet \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
@@ -388,7 +388,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/spot/",
                 "icon_category": "networking",
                 "icon_filename": "02692-icon-service-Spot-VMSS.svg",
-                "icon_location": "./Icons/networking/02692-icon-service-Spot-VMSS.svg"
+                "icon_location": "WebIcons/networking/02692-icon-service-Spot-VMSS.svg"
             },
             {
                 "service_name": "Azure Spring Apps",
@@ -396,7 +396,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/spring-apps/",
                 "icon_category": "compute",
                 "icon_filename": "10370-icon-service-Azure-Spring-Apps.svg",
-                "icon_location": "./Icons/compute/10370-icon-service-Azure-Spring-Apps.svg"
+                "icon_location": "WebIcons/compute/10370-icon-service-Azure-Spring-Apps.svg"
             },
             {
                 "service_name": "Azure VMware Solution",
@@ -404,7 +404,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-vmware/",
                 "icon_category": "other",
                 "icon_filename": "01219-icon-service-Azure-VMware-Solution.svg",
-                "icon_location": "./Icons/other/01219-icon-service-Azure-VMware-Solution.svg"
+                "icon_location": "WebIcons/other/01219-icon-service-Azure-VMware-Solution.svg"
             },
             {
                 "service_name": "Batch",
@@ -412,7 +412,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/batch/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "00028-icon-service-Batch-AI.svg",
-                "icon_location": "./Icons/ai + machine learning/00028-icon-service-Batch-AI.svg"
+                "icon_location": "WebIcons/ai + machine learning/00028-icon-service-Batch-AI.svg"
             },
             {
                 "service_name": "Cloud Services",
@@ -420,7 +420,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/cloud-services/",
                 "icon_category": "other",
                 "icon_filename": "02505-icon-service-Cloud-Services-(extended-support).svg",
-                "icon_location": "./Icons/other/02505-icon-service-Cloud-Services-(extended-support).svg"
+                "icon_location": "WebIcons/other/02505-icon-service-Cloud-Services-(extended-support).svg"
             },
             {
                 "service_name": "Linux Virtual Machines",
@@ -433,7 +433,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/sql-server/",
                 "icon_category": "databases",
                 "icon_filename": "10132-icon-service-SQL-Server.svg",
-                "icon_location": "./Icons/databases/10132-icon-service-SQL-Server.svg"
+                "icon_location": "WebIcons/databases/10132-icon-service-SQL-Server.svg"
             },
             {
                 "service_name": "Static Web Apps",
@@ -441,7 +441,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-service/static/",
                 "icon_category": "web",
                 "icon_filename": "01007-icon-service-Static-Apps.svg",
-                "icon_location": "./Icons/web/01007-icon-service-Static-Apps.svg"
+                "icon_location": "WebIcons/web/01007-icon-service-Static-Apps.svg"
             },
             {
                 "service_name": "Virtual Machine Scale Sets",
@@ -449,7 +449,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/virtual-machine-scale-sets/",
                 "icon_category": "compute",
                 "icon_filename": "10021-icon-service-Virtual-Machine.svg",
-                "icon_location": "./Icons/compute/10021-icon-service-Virtual-Machine.svg"
+                "icon_location": "WebIcons/compute/10021-icon-service-Virtual-Machine.svg"
             },
             {
                 "service_name": "Virtual Machines",
@@ -457,7 +457,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/windows/",
                 "icon_category": "compute",
                 "icon_filename": "10021-icon-service-Virtual-Machine.svg",
-                "icon_location": "./Icons/compute/10021-icon-service-Virtual-Machine.svg"
+                "icon_location": "WebIcons/compute/10021-icon-service-Virtual-Machine.svg"
             },
             {
                 "service_name": "Azure Virtual Desktop",
@@ -465,7 +465,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/virtual-desktop/",
                 "icon_category": "other",
                 "icon_filename": "00327-icon-service-Azure-Virtual-Desktop.svg",
-                "icon_location": "./Icons/other/00327-icon-service-Azure-Virtual-Desktop.svg"
+                "icon_location": "WebIcons/other/00327-icon-service-Azure-Virtual-Desktop.svg"
             },
             {
                 "service_name": "Windows Virtual Machines",
@@ -478,7 +478,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/dedicated-host/",
                 "icon_category": "other",
                 "icon_filename": "02322-icon-service-Dedicated-HSM.svg",
-                "icon_location": "./Icons/other/02322-icon-service-Dedicated-HSM.svg"
+                "icon_location": "WebIcons/other/02322-icon-service-Dedicated-HSM.svg"
             },
             {
                 "service_name": "Azure VM Image Builder",
@@ -491,7 +491,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/kubernetes-service/",
                 "icon_category": "containers",
                 "icon_filename": "10023-icon-service-Kubernetes-Services.svg",
-                "icon_location": "./Icons/containers/10023-icon-service-Kubernetes-Services.svg"
+                "icon_location": "WebIcons/containers/10023-icon-service-Kubernetes-Services.svg"
             },
             {
                 "service_name": "Azure Functions",
@@ -499,7 +499,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/functions/",
                 "icon_category": "compute",
                 "icon_filename": "10029-icon-service-Function-Apps.svg",
-                "icon_location": "./Icons/compute/10029-icon-service-Function-Apps.svg"
+                "icon_location": "WebIcons/compute/10029-icon-service-Function-Apps.svg"
             },
             {
                 "service_name": "Azure Container Instances",
@@ -507,7 +507,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/container-instances/",
                 "icon_category": "containers",
                 "icon_filename": "10104-icon-service-Container-Instances.svg",
-                "icon_location": "./Icons/containers/10104-icon-service-Container-Instances.svg"
+                "icon_location": "WebIcons/containers/10104-icon-service-Container-Instances.svg"
             },
             {
                 "service_name": "Azure Service Fabric",
@@ -515,7 +515,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/service-fabric/",
                 "icon_category": "containers",
                 "icon_filename": "10036-icon-service-Service-Fabric-Clusters.svg",
-                "icon_location": "./Icons/containers/10036-icon-service-Service-Fabric-Clusters.svg"
+                "icon_location": "WebIcons/containers/10036-icon-service-Service-Fabric-Clusters.svg"
             },
             {
                 "service_name": "Azure Modeling and Simulation Workbench",
@@ -534,7 +534,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-configuration/",
                 "icon_category": "integration",
                 "icon_filename": "10219-icon-service-App-Configuration.svg",
-                "icon_location": "./Icons/integration/10219-icon-service-App-Configuration.svg"
+                "icon_location": "WebIcons/integration/10219-icon-service-App-Configuration.svg"
             },
             {
                 "service_name": "Azure Kubernetes Service (AKS)",
@@ -542,7 +542,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/kubernetes-service/",
                 "icon_category": "containers",
                 "icon_filename": "10023-icon-service-Kubernetes-Services.svg",
-                "icon_location": "./Icons/containers/10023-icon-service-Kubernetes-Services.svg"
+                "icon_location": "WebIcons/containers/10023-icon-service-Kubernetes-Services.svg"
             },
             {
                 "service_name": "Azure Kubernetes Fleet Manager \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
@@ -550,7 +550,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/kubernetes-fleet-manager/",
                 "icon_category": "other",
                 "icon_filename": "03134-icon-service-Kubernetes-Fleet-Manager.svg",
-                "icon_location": "./Icons/other/03134-icon-service-Kubernetes-Fleet-Manager.svg"
+                "icon_location": "WebIcons/other/03134-icon-service-Kubernetes-Fleet-Manager.svg"
             },
             {
                 "service_name": "Azure Red Hat OpenShift",
@@ -558,7 +558,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/openshift/",
                 "icon_category": "containers",
                 "icon_filename": "03331-icon-service-Azure-Red-Hat-OpenShift.svg",
-                "icon_location": "./Icons/containers/03331-icon-service-Azure-Red-Hat-OpenShift.svg"
+                "icon_location": "WebIcons/containers/03331-icon-service-Azure-Red-Hat-OpenShift.svg"
             },
             {
                 "service_name": "Azure Container Apps",
@@ -566,7 +566,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/container-apps/",
                 "icon_category": "other",
                 "icon_filename": "02989-icon-service-Container-Apps-Environments.svg",
-                "icon_location": "./Icons/other/02989-icon-service-Container-Apps-Environments.svg"
+                "icon_location": "WebIcons/other/02989-icon-service-Container-Apps-Environments.svg"
             },
             {
                 "service_name": "Azure Functions",
@@ -574,7 +574,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/functions/",
                 "icon_category": "compute",
                 "icon_filename": "10029-icon-service-Function-Apps.svg",
-                "icon_location": "./Icons/compute/10029-icon-service-Function-Apps.svg"
+                "icon_location": "WebIcons/compute/10029-icon-service-Function-Apps.svg"
             },
             {
                 "service_name": "Web App for Containers",
@@ -582,7 +582,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-service/containers",
                 "icon_category": "general",
                 "icon_filename": "10850-icon-service-Web-Test.svg",
-                "icon_location": "./Icons/general/10850-icon-service-Web-Test.svg"
+                "icon_location": "WebIcons/general/10850-icon-service-Web-Test.svg"
             },
             {
                 "service_name": "Azure Container Instances",
@@ -590,7 +590,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/container-instances/",
                 "icon_category": "containers",
                 "icon_filename": "10104-icon-service-Container-Instances.svg",
-                "icon_location": "./Icons/containers/10104-icon-service-Container-Instances.svg"
+                "icon_location": "WebIcons/containers/10104-icon-service-Container-Instances.svg"
             },
             {
                 "service_name": "Azure Service Fabric",
@@ -598,7 +598,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/service-fabric/",
                 "icon_category": "containers",
                 "icon_filename": "10036-icon-service-Service-Fabric-Clusters.svg",
-                "icon_location": "./Icons/containers/10036-icon-service-Service-Fabric-Clusters.svg"
+                "icon_location": "WebIcons/containers/10036-icon-service-Service-Fabric-Clusters.svg"
             },
             {
                 "service_name": "Azure Container Registry",
@@ -606,7 +606,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/container-registry/",
                 "icon_category": "containers",
                 "icon_filename": "10105-icon-service-Container-Registries.svg",
-                "icon_location": "./Icons/containers/10105-icon-service-Container-Registries.svg"
+                "icon_location": "WebIcons/containers/10105-icon-service-Container-Registries.svg"
             },
             {
                 "service_name": "Azure Container Storage \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
@@ -625,7 +625,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/cache/",
                 "icon_category": "databases",
                 "icon_filename": "10137-icon-service-Cache-Redis.svg",
-                "icon_location": "./Icons/databases/10137-icon-service-Cache-Redis.svg"
+                "icon_location": "WebIcons/databases/10137-icon-service-Cache-Redis.svg"
             },
             {
                 "service_name": "Azure Cosmos DB",
@@ -633,7 +633,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/cosmos-db/",
                 "icon_category": "iot",
                 "icon_filename": "10121-icon-service-Azure-Cosmos-DB.svg",
-                "icon_location": "./Icons/iot/10121-icon-service-Azure-Cosmos-DB.svg"
+                "icon_location": "WebIcons/iot/10121-icon-service-Azure-Cosmos-DB.svg"
             },
             {
                 "service_name": "Azure Data Factory",
@@ -641,7 +641,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/data-factory/",
                 "icon_category": "analytics",
                 "icon_filename": "10145-icon-service-Azure-Data-Explorer-Clusters.svg",
-                "icon_location": "./Icons/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg"
+                "icon_location": "WebIcons/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg"
             },
             {
                 "service_name": "Azure Database for MariaDB",
@@ -649,7 +649,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/mariadb/",
                 "icon_category": "databases",
                 "icon_filename": "02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg",
-                "icon_location": "./Icons/databases/02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg"
+                "icon_location": "WebIcons/databases/02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg"
             },
             {
                 "service_name": "Azure Database for MySQL",
@@ -657,7 +657,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/mysql/",
                 "icon_category": "migration",
                 "icon_filename": "10133-icon-service-Azure-Database-Migration-Services.svg",
-                "icon_location": "./Icons/migration/10133-icon-service-Azure-Database-Migration-Services.svg"
+                "icon_location": "WebIcons/migration/10133-icon-service-Azure-Database-Migration-Services.svg"
             },
             {
                 "service_name": "Azure Database for PostgreSQL",
@@ -665,7 +665,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/postgresql/",
                 "icon_category": "databases",
                 "icon_filename": "02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg",
-                "icon_location": "./Icons/databases/02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg"
+                "icon_location": "WebIcons/databases/02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg"
             },
             {
                 "service_name": "Azure Database Migration Service",
@@ -673,7 +673,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/database-migration/",
                 "icon_category": "migration",
                 "icon_filename": "10133-icon-service-Azure-Database-Migration-Services.svg",
-                "icon_location": "./Icons/migration/10133-icon-service-Azure-Database-Migration-Services.svg"
+                "icon_location": "WebIcons/migration/10133-icon-service-Azure-Database-Migration-Services.svg"
             },
             {
                 "service_name": "Azure SQL",
@@ -681,7 +681,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/",
                 "icon_category": "databases",
                 "icon_filename": "02390-icon-service-Azure-SQL.svg",
-                "icon_location": "./Icons/databases/02390-icon-service-Azure-SQL.svg"
+                "icon_location": "WebIcons/databases/02390-icon-service-Azure-SQL.svg"
             },
             {
                 "service_name": "Azure SQL Database",
@@ -689,7 +689,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/database/",
                 "icon_category": "databases",
                 "icon_filename": "10130-icon-service-SQL-Database.svg",
-                "icon_location": "./Icons/databases/10130-icon-service-SQL-Database.svg"
+                "icon_location": "WebIcons/databases/10130-icon-service-SQL-Database.svg"
             },
             {
                 "service_name": "Azure SQL Edge",
@@ -697,7 +697,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/edge/",
                 "icon_category": "databases",
                 "icon_filename": "02750-icon-service-Azure-SQL-Edge.svg",
-                "icon_location": "./Icons/databases/02750-icon-service-Azure-SQL-Edge.svg"
+                "icon_location": "WebIcons/databases/02750-icon-service-Azure-SQL-Edge.svg"
             },
             {
                 "service_name": "Azure SQL Managed Instance",
@@ -705,7 +705,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/managed-instance/",
                 "icon_category": "databases",
                 "icon_filename": "10136-icon-service-SQL-Managed-Instance.svg",
-                "icon_location": "./Icons/databases/10136-icon-service-SQL-Managed-Instance.svg"
+                "icon_location": "WebIcons/databases/10136-icon-service-SQL-Managed-Instance.svg"
             },
             {
                 "service_name": "SQL Server on Azure Virtual Machines",
@@ -713,7 +713,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/virtual-machines/sql-server/",
                 "icon_category": "databases",
                 "icon_filename": "10132-icon-service-SQL-Server.svg",
-                "icon_location": "./Icons/databases/10132-icon-service-SQL-Server.svg"
+                "icon_location": "WebIcons/databases/10132-icon-service-SQL-Server.svg"
             },
             {
                 "service_name": "Table Storage",
@@ -721,7 +721,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/storage/tables/",
                 "icon_category": "general",
                 "icon_filename": "10841-icon-service-Table.svg",
-                "icon_location": "./Icons/general/10841-icon-service-Table.svg"
+                "icon_location": "WebIcons/general/10841-icon-service-Table.svg"
             },
             {
                 "service_name": "Azure Managed Instance for Apache Cassandra",
@@ -729,7 +729,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/managed-instance-apache-cassandra/",
                 "icon_category": "other",
                 "icon_filename": "02663-icon-service-Managed-Instance-Apache-Cassandra.svg",
-                "icon_location": "./Icons/other/02663-icon-service-Managed-Instance-Apache-Cassandra.svg"
+                "icon_location": "WebIcons/other/02663-icon-service-Managed-Instance-Apache-Cassandra.svg"
             },
             {
                 "service_name": "Azure confidential ledger",
@@ -748,7 +748,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-configuration/",
                 "icon_category": "integration",
                 "icon_filename": "10219-icon-service-App-Configuration.svg",
-                "icon_location": "./Icons/integration/10219-icon-service-App-Configuration.svg"
+                "icon_location": "WebIcons/integration/10219-icon-service-App-Configuration.svg"
             },
             {
                 "service_name": "Azure DevOps",
@@ -756,7 +756,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/devops/",
                 "icon_category": "devops",
                 "icon_filename": "10261-icon-service-Azure-DevOps.svg",
-                "icon_location": "./Icons/devops/10261-icon-service-Azure-DevOps.svg"
+                "icon_location": "WebIcons/devops/10261-icon-service-Azure-DevOps.svg"
             },
             {
                 "service_name": "Azure DevTest Labs",
@@ -764,7 +764,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/devtest-lab/",
                 "icon_category": "devops",
                 "icon_filename": "10264-icon-service-DevTest-Labs.svg",
-                "icon_location": "./Icons/devops/10264-icon-service-DevTest-Labs.svg"
+                "icon_location": "WebIcons/devops/10264-icon-service-DevTest-Labs.svg"
             },
             {
                 "service_name": "Azure Pipelines",
@@ -792,7 +792,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/load-testing/",
                 "icon_category": "other",
                 "icon_filename": "02944-icon-service-Azure-Load-Testing.svg",
-                "icon_location": "./Icons/other/02944-icon-service-Azure-Load-Testing.svg"
+                "icon_location": "WebIcons/other/02944-icon-service-Azure-Load-Testing.svg"
             },
             {
                 "service_name": "Microsoft Dev Box",
@@ -800,7 +800,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/dev-box/",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             },
             {
                 "service_name": "Azure Deployment Environments",
@@ -808,7 +808,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/deployment-environments/",
                 "icon_category": "other",
                 "icon_filename": "03251-icon-service-Azure-Deployment-Environments.svg",
-                "icon_location": "./Icons/other/03251-icon-service-Azure-Deployment-Environments.svg"
+                "icon_location": "WebIcons/other/03251-icon-service-Azure-Deployment-Environments.svg"
             },
             {
                 "service_name": "Microsoft Playwright Testing",
@@ -816,7 +816,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/playwright-testing/",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             },
             {
                 "service_name": "Azure Managed Confidential Consortium Framework {CCF} \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
@@ -824,7 +824,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/managed-ccf",
                 "icon_category": "management + governance",
                 "icon_filename": "10311-icon-service-Managed-Desktop.svg",
-                "icon_location": "./Icons/management + governance/10311-icon-service-Managed-Desktop.svg"
+                "icon_location": "WebIcons/management + governance/10311-icon-service-Managed-Desktop.svg"
             },
             {
                 "service_name": "Trusted Signing",
@@ -853,7 +853,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/devops/",
                 "icon_category": "devops",
                 "icon_filename": "10261-icon-service-Azure-DevOps.svg",
-                "icon_location": "./Icons/devops/10261-icon-service-Azure-DevOps.svg"
+                "icon_location": "WebIcons/devops/10261-icon-service-Azure-DevOps.svg"
             },
             {
                 "service_name": "Azure DevTest Labs",
@@ -861,7 +861,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/devtest-lab/",
                 "icon_category": "devops",
                 "icon_filename": "10264-icon-service-DevTest-Labs.svg",
-                "icon_location": "./Icons/devops/10264-icon-service-DevTest-Labs.svg"
+                "icon_location": "WebIcons/devops/10264-icon-service-DevTest-Labs.svg"
             },
             {
                 "service_name": "Azure Monitor",
@@ -869,7 +869,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/monitor/",
                 "icon_category": "monitor",
                 "icon_filename": "00001-icon-service-Monitor.svg",
-                "icon_location": "./Icons/monitor/00001-icon-service-Monitor.svg"
+                "icon_location": "WebIcons/monitor/00001-icon-service-Monitor.svg"
             },
             {
                 "service_name": "Azure Pipelines",
@@ -892,7 +892,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/devops/",
                 "icon_category": "devops",
                 "icon_filename": "10261-icon-service-Azure-DevOps.svg",
-                "icon_location": "./Icons/devops/10261-icon-service-Azure-DevOps.svg"
+                "icon_location": "WebIcons/devops/10261-icon-service-Azure-DevOps.svg"
             },
             {
                 "service_name": "Azure Load Testing",
@@ -900,7 +900,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/load-testing/",
                 "icon_category": "other",
                 "icon_filename": "02944-icon-service-Azure-Load-Testing.svg",
-                "icon_location": "./Icons/other/02944-icon-service-Azure-Load-Testing.svg"
+                "icon_location": "WebIcons/other/02944-icon-service-Azure-Load-Testing.svg"
             },
             {
                 "service_name": "Azure Managed Grafana",
@@ -908,7 +908,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/managed-grafana/",
                 "icon_category": "other",
                 "icon_filename": "02905-icon-service-Azure-Managed-Grafana.svg",
-                "icon_location": "./Icons/other/02905-icon-service-Azure-Managed-Grafana.svg"
+                "icon_location": "WebIcons/other/02905-icon-service-Azure-Managed-Grafana.svg"
             },
             {
                 "service_name": "Microsoft Dev Box",
@@ -916,7 +916,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/dev-box/",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             },
             {
                 "service_name": "Azure Deployment Environments",
@@ -924,7 +924,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/deployment-environments/",
                 "icon_category": "other",
                 "icon_filename": "03251-icon-service-Azure-Deployment-Environments.svg",
-                "icon_location": "./Icons/other/03251-icon-service-Azure-Deployment-Environments.svg"
+                "icon_location": "WebIcons/other/03251-icon-service-Azure-Deployment-Environments.svg"
             },
             {
                 "service_name": "GitHub Advanced Security for Azure DevOps",
@@ -937,7 +937,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/playwright-testing/",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             }
         ]
     },
@@ -951,7 +951,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-arc/",
                 "icon_category": "management + governance",
                 "icon_filename": "00756-icon-service-Azure-Arc.svg",
-                "icon_location": "./Icons/management + governance/00756-icon-service-Azure-Arc.svg"
+                "icon_location": "WebIcons/management + governance/00756-icon-service-Azure-Arc.svg"
             },
             {
                 "service_name": "Azure Database for PostgreSQL",
@@ -959,7 +959,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/postgresql/",
                 "icon_category": "databases",
                 "icon_filename": "02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg",
-                "icon_location": "./Icons/databases/02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg"
+                "icon_location": "WebIcons/databases/02827-icon-service-Azure-Database-PostgreSQL-Server-Group.svg"
             },
             {
                 "service_name": "Azure DevOps",
@@ -967,7 +967,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/devops/",
                 "icon_category": "devops",
                 "icon_filename": "10261-icon-service-Azure-DevOps.svg",
-                "icon_location": "./Icons/devops/10261-icon-service-Azure-DevOps.svg"
+                "icon_location": "WebIcons/devops/10261-icon-service-Azure-DevOps.svg"
             },
             {
                 "service_name": "Azure ExpressRoute",
@@ -975,7 +975,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/expressroute/",
                 "icon_category": "networking",
                 "icon_filename": "10079-icon-service-ExpressRoute-Circuits.svg",
-                "icon_location": "./Icons/networking/10079-icon-service-ExpressRoute-Circuits.svg"
+                "icon_location": "WebIcons/networking/10079-icon-service-ExpressRoute-Circuits.svg"
             },
             {
                 "service_name": "Azure IoT Edge",
@@ -983,7 +983,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/iot-edge/",
                 "icon_category": "iot",
                 "icon_filename": "10186-icon-service-IoT-Edge.svg",
-                "icon_location": "./Icons/iot/10186-icon-service-IoT-Edge.svg"
+                "icon_location": "WebIcons/iot/10186-icon-service-IoT-Edge.svg"
             },
             {
                 "service_name": "Microsoft Sentinel",
@@ -991,7 +991,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/microsoft-sentinel/",
                 "icon_category": "security",
                 "icon_filename": "10241-icon-service-Microsoft-Defender-for-Cloud.svg",
-                "icon_location": "./Icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
+                "icon_location": "WebIcons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
             },
             {
                 "service_name": "Azure SQL Database",
@@ -999,7 +999,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/database/",
                 "icon_category": "databases",
                 "icon_filename": "10130-icon-service-SQL-Database.svg",
-                "icon_location": "./Icons/databases/10130-icon-service-SQL-Database.svg"
+                "icon_location": "WebIcons/databases/10130-icon-service-SQL-Database.svg"
             },
             {
                 "service_name": "Azure SQL Edge",
@@ -1007,7 +1007,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/edge/",
                 "icon_category": "databases",
                 "icon_filename": "02750-icon-service-Azure-SQL-Edge.svg",
-                "icon_location": "./Icons/databases/02750-icon-service-Azure-SQL-Edge.svg"
+                "icon_location": "WebIcons/databases/02750-icon-service-Azure-SQL-Edge.svg"
             },
             {
                 "service_name": "Azure Stack",
@@ -1015,7 +1015,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-stack/edge/",
                 "icon_category": "iot",
                 "icon_filename": "10114-icon-service-Azure-Stack.svg",
-                "icon_location": "./Icons/iot/10114-icon-service-Azure-Stack.svg"
+                "icon_location": "WebIcons/iot/10114-icon-service-Azure-Stack.svg"
             },
             {
                 "service_name": "Microsoft Defender for Cloud",
@@ -1023,7 +1023,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/defender-for-cloud/",
                 "icon_category": "security",
                 "icon_filename": "10241-icon-service-Microsoft-Defender-for-Cloud.svg",
-                "icon_location": "./Icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
+                "icon_location": "WebIcons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
             },
             {
                 "service_name": "Azure Stack HCI",
@@ -1031,7 +1031,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-stack/hci/",
                 "icon_category": "iot",
                 "icon_filename": "03466-icon-service-Stack-HCI-Premium.svg",
-                "icon_location": "./Icons/iot/03466-icon-service-Stack-HCI-Premium.svg"
+                "icon_location": "WebIcons/iot/03466-icon-service-Stack-HCI-Premium.svg"
             },
             {
                 "service_name": "Azure Stack Hub",
@@ -1039,7 +1039,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-stack/hub/",
                 "icon_category": "iot",
                 "icon_filename": "10114-icon-service-Azure-Stack.svg",
-                "icon_location": "./Icons/iot/10114-icon-service-Azure-Stack.svg"
+                "icon_location": "WebIcons/iot/10114-icon-service-Azure-Stack.svg"
             },
             {
                 "service_name": "Azure Stack Edge",
@@ -1047,7 +1047,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-stack/edge/",
                 "icon_category": "migrate",
                 "icon_filename": "10095-icon-service-Azure-Stack-Edge.svg",
-                "icon_location": "./Icons/migrate/10095-icon-service-Azure-Stack-Edge.svg"
+                "icon_location": "WebIcons/migrate/10095-icon-service-Azure-Stack-Edge.svg"
             },
             {
                 "service_name": "Azure Programmable Connectivity",
@@ -1055,7 +1055,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/programmable-connectivity",
                 "icon_category": "hybrid + multicloud",
                 "icon_filename": "03347-icon-service-Azure-Programmable-Connectivity.svg",
-                "icon_location": "./Icons/hybrid + multicloud/03347-icon-service-Azure-Programmable-Connectivity.svg"
+                "icon_location": "WebIcons/hybrid + multicloud/03347-icon-service-Azure-Programmable-Connectivity.svg"
             },
             {
                 "service_name": "Azure Kubernetes Service Edge Essentials",
@@ -1063,7 +1063,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/kubernetes-service/",
                 "icon_category": "containers",
                 "icon_filename": "10023-icon-service-Kubernetes-Services.svg",
-                "icon_location": "./Icons/containers/10023-icon-service-Kubernetes-Services.svg"
+                "icon_location": "WebIcons/containers/10023-icon-service-Kubernetes-Services.svg"
             },
             {
                 "service_name": "Azure Operator Insights",
@@ -1071,7 +1071,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/operator-insights/",
                 "icon_category": "hybrid + multicloud",
                 "icon_filename": "03333-icon-service-Azure-Operator-Insights.svg",
-                "icon_location": "./Icons/hybrid + multicloud/03333-icon-service-Azure-Operator-Insights.svg"
+                "icon_location": "WebIcons/hybrid + multicloud/03333-icon-service-Azure-Operator-Insights.svg"
             },
             {
                 "service_name": "Azure Operator Service Manager",
@@ -1079,7 +1079,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/operator-service-manager/",
                 "icon_category": "hybrid + multicloud",
                 "icon_filename": "03334-icon-service-Azure-Operator-Service-Manager.svg",
-                "icon_location": "./Icons/hybrid + multicloud/03334-icon-service-Azure-Operator-Service-Manager.svg"
+                "icon_location": "WebIcons/hybrid + multicloud/03334-icon-service-Azure-Operator-Service-Manager.svg"
             },
             {
                 "service_name": "Azure Operator Nexus",
@@ -1087,7 +1087,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/operator-nexus/",
                 "icon_category": "hybrid + multicloud",
                 "icon_filename": "03324-icon-service-Azure-Operator-Nexus.svg",
-                "icon_location": "./Icons/hybrid + multicloud/03324-icon-service-Azure-Operator-Nexus.svg"
+                "icon_location": "WebIcons/hybrid + multicloud/03324-icon-service-Azure-Operator-Nexus.svg"
             }
         ]
     },
@@ -1101,7 +1101,7 @@
                 "service_link": "https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             },
             {
                 "service_name": "Microsoft Entra Domain Services",
@@ -1109,7 +1109,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/microsoft-entra-ds",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             },
             {
                 "service_name": "Azure Active Directory B2C",
@@ -1117,7 +1117,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/active-directory-external-identities",
                 "icon_category": "identity",
                 "icon_filename": "10221-icon-service-Azure-Active-Directory.svg",
-                "icon_location": "./Icons/identity/10221-icon-service-Azure-Active-Directory.svg"
+                "icon_location": "WebIcons/identity/10221-icon-service-Azure-Active-Directory.svg"
             },
             {
                 "service_name": "Microsoft Entra External ID",
@@ -1125,7 +1125,7 @@
                 "service_link": "https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             }
         ]
     },
@@ -1139,7 +1139,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/api-management/",
                 "icon_category": "integration",
                 "icon_filename": "10042-icon-service-API-Management-Services.svg",
-                "icon_location": "./Icons/integration/10042-icon-service-API-Management-Services.svg"
+                "icon_location": "WebIcons/integration/10042-icon-service-API-Management-Services.svg"
             },
             {
                 "service_name": "Azure Health Data Services",
@@ -1152,7 +1152,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/event-grid/",
                 "icon_category": "iot",
                 "icon_filename": "10221-icon-service-Event-Grid-Subscriptions.svg",
-                "icon_location": "./Icons/iot/10221-icon-service-Event-Grid-Subscriptions.svg"
+                "icon_location": "WebIcons/iot/10221-icon-service-Event-Grid-Subscriptions.svg"
             },
             {
                 "service_name": "Logic Apps",
@@ -1160,7 +1160,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/logic-apps/",
                 "icon_category": "iot",
                 "icon_filename": "02631-icon-service-Logic-Apps.svg",
-                "icon_location": "./Icons/iot/02631-icon-service-Logic-Apps.svg"
+                "icon_location": "WebIcons/iot/02631-icon-service-Logic-Apps.svg"
             },
             {
                 "service_name": "Service Bus",
@@ -1168,7 +1168,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/service-bus/",
                 "icon_category": "integration",
                 "icon_filename": "10836-icon-service-Azure-Service-Bus.svg",
-                "icon_location": "./Icons/integration/10836-icon-service-Azure-Service-Bus.svg"
+                "icon_location": "WebIcons/integration/10836-icon-service-Azure-Service-Bus.svg"
             },
             {
                 "service_name": "Azure Web PubSub",
@@ -1176,7 +1176,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/web-pubsub/",
                 "icon_category": "networking",
                 "icon_filename": "10362-icon-service-Web-Application-Firewall-Policies(WAF).svg",
-                "icon_location": "./Icons/networking/10362-icon-service-Web-Application-Firewall-Policies(WAF).svg"
+                "icon_location": "WebIcons/networking/10362-icon-service-Web-Application-Firewall-Policies(WAF).svg"
             },
             {
                 "service_name": "Microsoft Energy Data Services",
@@ -1184,7 +1184,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/data-manager-for-energy",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             },
             {
                 "service_name": "Microsoft Azure Data Manager for Agriculture \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
@@ -1192,7 +1192,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/data-manager-for-agriculture/",
                 "icon_category": "security",
                 "icon_filename": "02247-icon-service-Microsoft-Defender-for-IoT.svg",
-                "icon_location": "./Icons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
+                "icon_location": "WebIcons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
             }
         ]
     },
@@ -1206,7 +1206,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/api-management/",
                 "icon_category": "integration",
                 "icon_filename": "10042-icon-service-API-Management-Services.svg",
-                "icon_location": "./Icons/integration/10042-icon-service-API-Management-Services.svg"
+                "icon_location": "WebIcons/integration/10042-icon-service-API-Management-Services.svg"
             },
             {
                 "service_name": "Azure Cosmos DB",
@@ -1214,7 +1214,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/cosmos-db/",
                 "icon_category": "iot",
                 "icon_filename": "10121-icon-service-Azure-Cosmos-DB.svg",
-                "icon_location": "./Icons/iot/10121-icon-service-Azure-Cosmos-DB.svg"
+                "icon_location": "WebIcons/iot/10121-icon-service-Azure-Cosmos-DB.svg"
             },
             {
                 "service_name": "Azure Digital Twins",
@@ -1222,7 +1222,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/digital-twins/",
                 "icon_category": "iot",
                 "icon_filename": "01030-icon-service-Digital-Twins.svg",
-                "icon_location": "./Icons/iot/01030-icon-service-Digital-Twins.svg"
+                "icon_location": "WebIcons/iot/01030-icon-service-Digital-Twins.svg"
             },
             {
                 "service_name": "Azure IoT Central",
@@ -1230,7 +1230,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/iot-central/",
                 "icon_category": "iot",
                 "icon_filename": "10184-icon-service-IoT-Central-Applications.svg",
-                "icon_location": "./Icons/iot/10184-icon-service-IoT-Central-Applications.svg"
+                "icon_location": "WebIcons/iot/10184-icon-service-IoT-Central-Applications.svg"
             },
             {
                 "service_name": "Azure IoT Edge",
@@ -1238,7 +1238,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/iot-edge/",
                 "icon_category": "iot",
                 "icon_filename": "10186-icon-service-IoT-Edge.svg",
-                "icon_location": "./Icons/iot/10186-icon-service-IoT-Edge.svg"
+                "icon_location": "WebIcons/iot/10186-icon-service-IoT-Edge.svg"
             },
             {
                 "service_name": "Azure IoT Hub",
@@ -1246,7 +1246,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/iot-hub/",
                 "icon_category": "iot",
                 "icon_filename": "10182-icon-service-IoT-Hub.svg",
-                "icon_location": "./Icons/iot/10182-icon-service-IoT-Hub.svg"
+                "icon_location": "WebIcons/iot/10182-icon-service-IoT-Hub.svg"
             },
             {
                 "service_name": "Azure IoT Operations",
@@ -1254,7 +1254,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/iot-operations",
                 "icon_category": "iot",
                 "icon_filename": "03485-icon-service-Azure-IoT-Operations.svg",
-                "icon_location": "./Icons/iot/03485-icon-service-Azure-IoT-Operations.svg"
+                "icon_location": "WebIcons/iot/03485-icon-service-Azure-IoT-Operations.svg"
             },
             {
                 "service_name": "Azure Functions",
@@ -1262,7 +1262,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/functions/",
                 "icon_category": "compute",
                 "icon_filename": "10029-icon-service-Function-Apps.svg",
-                "icon_location": "./Icons/compute/10029-icon-service-Function-Apps.svg"
+                "icon_location": "WebIcons/compute/10029-icon-service-Function-Apps.svg"
             },
             {
                 "service_name": "Azure Machine Learning",
@@ -1270,7 +1270,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/machine-learning/",
                 "icon_category": "ai + machine learning",
                 "icon_filename": "10166-icon-service-Machine-Learning.svg",
-                "icon_location": "./Icons/ai + machine learning/10166-icon-service-Machine-Learning.svg"
+                "icon_location": "WebIcons/ai + machine learning/10166-icon-service-Machine-Learning.svg"
             },
             {
                 "service_name": "Azure Maps",
@@ -1278,7 +1278,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-maps/",
                 "icon_category": "iot",
                 "icon_filename": "10185-icon-service-Azure-Maps-Accounts.svg",
-                "icon_location": "./Icons/iot/10185-icon-service-Azure-Maps-Accounts.svg"
+                "icon_location": "WebIcons/iot/10185-icon-service-Azure-Maps-Accounts.svg"
             },
             {
                 "service_name": "Azure RTOS",
@@ -1286,7 +1286,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/rtos/",
                 "icon_category": "other",
                 "icon_filename": "10778-icon-service-RTOS.svg",
-                "icon_location": "./Icons/other/10778-icon-service-RTOS.svg"
+                "icon_location": "WebIcons/other/10778-icon-service-RTOS.svg"
             },
             {
                 "service_name": "Azure Sphere",
@@ -1294,7 +1294,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-sphere/",
                 "icon_category": "other",
                 "icon_filename": "10190-icon-service-Azure-Sphere.svg",
-                "icon_location": "./Icons/other/10190-icon-service-Azure-Sphere.svg"
+                "icon_location": "WebIcons/other/10190-icon-service-Azure-Sphere.svg"
             },
             {
                 "service_name": "Azure SQL Edge",
@@ -1302,7 +1302,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-sql/edge/",
                 "icon_category": "databases",
                 "icon_filename": "02750-icon-service-Azure-SQL-Edge.svg",
-                "icon_location": "./Icons/databases/02750-icon-service-Azure-SQL-Edge.svg"
+                "icon_location": "WebIcons/databases/02750-icon-service-Azure-SQL-Edge.svg"
             },
             {
                 "service_name": "Azure Stream Analytics",
@@ -1310,7 +1310,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/stream-analytics/",
                 "icon_category": "analytics",
                 "icon_filename": "00042-icon-service-Stream-Analytics-Jobs.svg",
-                "icon_location": "./Icons/analytics/00042-icon-service-Stream-Analytics-Jobs.svg"
+                "icon_location": "WebIcons/analytics/00042-icon-service-Stream-Analytics-Jobs.svg"
             },
             {
                 "service_name": "Azure Time Series Insights",
@@ -1318,7 +1318,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/time-series-insights/",
                 "icon_category": "iot",
                 "icon_filename": "10192-icon-service-Time-Series-Insights-Access-Policies.svg",
-                "icon_location": "./Icons/iot/10192-icon-service-Time-Series-Insights-Access-Policies.svg"
+                "icon_location": "WebIcons/iot/10192-icon-service-Time-Series-Insights-Access-Policies.svg"
             },
             {
                 "service_name": "Event Grid",
@@ -1326,7 +1326,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/event-grid/",
                 "icon_category": "iot",
                 "icon_filename": "10221-icon-service-Event-Grid-Subscriptions.svg",
-                "icon_location": "./Icons/iot/10221-icon-service-Event-Grid-Subscriptions.svg"
+                "icon_location": "WebIcons/iot/10221-icon-service-Event-Grid-Subscriptions.svg"
             },
             {
                 "service_name": "Notification Hubs",
@@ -1334,7 +1334,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/notification-hubs/",
                 "icon_category": "mobile",
                 "icon_filename": "10045-icon-service-Notification-Hubs.svg",
-                "icon_location": "./Icons/mobile/10045-icon-service-Notification-Hubs.svg"
+                "icon_location": "WebIcons/mobile/10045-icon-service-Notification-Hubs.svg"
             },
             {
                 "service_name": "Windows 10 IoT Core Services",
@@ -1342,7 +1342,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/windows-10-iot-core/",
                 "icon_category": "iot",
                 "icon_filename": "10203-icon-service-Windows10-Core-Services.svg",
-                "icon_location": "./Icons/iot/10203-icon-service-Windows10-Core-Services.svg"
+                "icon_location": "WebIcons/iot/10203-icon-service-Windows10-Core-Services.svg"
             },
             {
                 "service_name": "Windows for IoT",
@@ -1350,7 +1350,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/windows-iot/",
                 "icon_category": "other",
                 "icon_filename": "02733-icon-service-Windows-Notification-Services.svg",
-                "icon_location": "./Icons/other/02733-icon-service-Windows-Notification-Services.svg"
+                "icon_location": "WebIcons/other/02733-icon-service-Windows-Notification-Services.svg"
             },
             {
                 "service_name": "Logic Apps",
@@ -1358,7 +1358,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/logic-apps/",
                 "icon_category": "iot",
                 "icon_filename": "02631-icon-service-Logic-Apps.svg",
-                "icon_location": "./Icons/iot/02631-icon-service-Logic-Apps.svg"
+                "icon_location": "WebIcons/iot/02631-icon-service-Logic-Apps.svg"
             }
         ]
     },
@@ -1372,7 +1372,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/copilot",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             },
             {
                 "service_name": "Automation",
@@ -1380,7 +1380,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/automation/",
                 "icon_category": "management + governance",
                 "icon_filename": "00022-icon-service-Automation-Accounts.svg",
-                "icon_location": "./Icons/management + governance/00022-icon-service-Automation-Accounts.svg"
+                "icon_location": "WebIcons/management + governance/00022-icon-service-Automation-Accounts.svg"
             },
             {
                 "service_name": "Azure Advisor",
@@ -1388,7 +1388,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/advisor/",
                 "icon_category": "management + governance",
                 "icon_filename": "00003-icon-service-Advisor.svg",
-                "icon_location": "./Icons/management + governance/00003-icon-service-Advisor.svg"
+                "icon_location": "WebIcons/management + governance/00003-icon-service-Advisor.svg"
             },
             {
                 "service_name": "Defender External Attack Surface Management",
@@ -1396,7 +1396,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/defender-external-attack-surface-management/",
                 "icon_category": "other",
                 "icon_filename": "03422-icon-service-Defender-Programable-Board.svg",
-                "icon_location": "./Icons/other/03422-icon-service-Defender-Programable-Board.svg"
+                "icon_location": "WebIcons/other/03422-icon-service-Defender-Programable-Board.svg"
             },
             {
                 "service_name": "Azure Backup",
@@ -1404,7 +1404,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/backup/",
                 "icon_category": "other",
                 "icon_filename": "02360-icon-service-Azure-Backup-Center.svg",
-                "icon_location": "./Icons/other/02360-icon-service-Azure-Backup-Center.svg"
+                "icon_location": "WebIcons/other/02360-icon-service-Azure-Backup-Center.svg"
             },
             {
                 "service_name": "Azure Blueprints \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
@@ -1412,7 +1412,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/blueprints/",
                 "icon_category": "management + governance",
                 "icon_filename": "00006-icon-service-Blueprints.svg",
-                "icon_location": "./Icons/management + governance/00006-icon-service-Blueprints.svg"
+                "icon_location": "WebIcons/management + governance/00006-icon-service-Blueprints.svg"
             },
             {
                 "service_name": "Azure Lighthouse",
@@ -1420,7 +1420,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-lighthouse/",
                 "icon_category": "management + governance",
                 "icon_filename": "00471-icon-service-Azure-Lighthouse.svg",
-                "icon_location": "./Icons/management + governance/00471-icon-service-Azure-Lighthouse.svg"
+                "icon_location": "WebIcons/management + governance/00471-icon-service-Azure-Lighthouse.svg"
             },
             {
                 "service_name": "Azure Managed Applications",
@@ -1428,7 +1428,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/managed-applications/",
                 "icon_category": "management + governance",
                 "icon_filename": "10313-icon-service-Managed-Applications-Center.svg",
-                "icon_location": "./Icons/management + governance/10313-icon-service-Managed-Applications-Center.svg"
+                "icon_location": "WebIcons/management + governance/10313-icon-service-Managed-Applications-Center.svg"
             },
             {
                 "service_name": "Azure Migrate",
@@ -1436,7 +1436,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-migrate/",
                 "icon_category": "migrate",
                 "icon_filename": "10281-icon-service-Azure-Migrate.svg",
-                "icon_location": "./Icons/migrate/10281-icon-service-Azure-Migrate.svg"
+                "icon_location": "WebIcons/migrate/10281-icon-service-Azure-Migrate.svg"
             },
             {
                 "service_name": "Azure mobile app",
@@ -1449,7 +1449,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/monitor/",
                 "icon_category": "monitor",
                 "icon_filename": "00001-icon-service-Monitor.svg",
-                "icon_location": "./Icons/monitor/00001-icon-service-Monitor.svg"
+                "icon_location": "WebIcons/monitor/00001-icon-service-Monitor.svg"
             },
             {
                 "service_name": "Azure Policy",
@@ -1457,7 +1457,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-policy/",
                 "icon_category": "management + governance",
                 "icon_filename": "10316-icon-service-Policy.svg",
-                "icon_location": "./Icons/management + governance/10316-icon-service-Policy.svg"
+                "icon_location": "WebIcons/management + governance/10316-icon-service-Policy.svg"
             },
             {
                 "service_name": "Azure Resource Manager",
@@ -1465,7 +1465,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/get-started/azure-portal/resource-manager/",
                 "icon_category": "networking",
                 "icon_filename": "02145-icon-service-Resource-Management-Private-Link.svg",
-                "icon_location": "./Icons/networking/02145-icon-service-Resource-Management-Private-Link.svg"
+                "icon_location": "WebIcons/networking/02145-icon-service-Resource-Management-Private-Link.svg"
             },
             {
                 "service_name": "Azure Resource Manager templates",
@@ -1473,7 +1473,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/arm-templates/",
                 "icon_category": "general",
                 "icon_filename": "10349-icon-service-Resource-Explorer.svg",
-                "icon_location": "./Icons/general/10349-icon-service-Resource-Explorer.svg"
+                "icon_location": "WebIcons/general/10349-icon-service-Resource-Explorer.svg"
             },
             {
                 "service_name": "Azure Service Health",
@@ -1481,7 +1481,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/get-started/azure-portal/service-health/",
                 "icon_category": "general",
                 "icon_filename": "10004-icon-service-Service-Health.svg",
-                "icon_location": "./Icons/general/10004-icon-service-Service-Health.svg"
+                "icon_location": "WebIcons/general/10004-icon-service-Service-Health.svg"
             },
             {
                 "service_name": "Azure Site Recovery",
@@ -1494,7 +1494,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/get-started/azure-portal/cloud-shell/",
                 "icon_category": "other",
                 "icon_filename": "00559-icon-service-Azure-Cloud-Shell.svg",
-                "icon_location": "./Icons/other/00559-icon-service-Azure-Cloud-Shell.svg"
+                "icon_location": "WebIcons/other/00559-icon-service-Azure-Cloud-Shell.svg"
             },
             {
                 "service_name": "Microsoft Cost Management",
@@ -1507,7 +1507,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/get-started/azure-portal/",
                 "icon_category": "security",
                 "icon_filename": "02247-icon-service-Microsoft-Defender-for-IoT.svg",
-                "icon_location": "./Icons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
+                "icon_location": "WebIcons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
             },
             {
                 "service_name": "Network Watcher",
@@ -1515,7 +1515,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/network-watcher/",
                 "icon_category": "networking",
                 "icon_filename": "10066-icon-service-Network-Watcher.svg",
-                "icon_location": "./Icons/networking/10066-icon-service-Network-Watcher.svg"
+                "icon_location": "WebIcons/networking/10066-icon-service-Network-Watcher.svg"
             },
             {
                 "service_name": "Traffic Manager",
@@ -1523,7 +1523,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/traffic-manager/",
                 "icon_category": "networking",
                 "icon_filename": "10065-icon-service-Traffic-Manager-Profiles.svg",
-                "icon_location": "./Icons/networking/10065-icon-service-Traffic-Manager-Profiles.svg"
+                "icon_location": "WebIcons/networking/10065-icon-service-Traffic-Manager-Profiles.svg"
             },
             {
                 "service_name": "Azure Automanage",
@@ -1531,7 +1531,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-automanage/",
                 "icon_category": "compute",
                 "icon_filename": "02112-icon-service-Automanaged-VM.svg",
-                "icon_location": "./Icons/compute/02112-icon-service-Automanaged-VM.svg"
+                "icon_location": "WebIcons/compute/02112-icon-service-Automanaged-VM.svg"
             },
             {
                 "service_name": "Azure Resource Mover",
@@ -1539,7 +1539,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/resource-mover/",
                 "icon_category": "other",
                 "icon_filename": "02200-icon-service-Resource-Mover.svg",
-                "icon_location": "./Icons/other/02200-icon-service-Resource-Mover.svg"
+                "icon_location": "WebIcons/other/02200-icon-service-Resource-Mover.svg"
             },
             {
                 "service_name": "Microsoft Purview",
@@ -1547,7 +1547,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/purview/",
                 "icon_category": "security",
                 "icon_filename": "02247-icon-service-Microsoft-Defender-for-IoT.svg",
-                "icon_location": "./Icons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
+                "icon_location": "WebIcons/security/02247-icon-service-Microsoft-Defender-for-IoT.svg"
             },
             {
                 "service_name": "Azure Chaos Studio",
@@ -1555,7 +1555,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/chaos-studio/",
                 "icon_category": "other",
                 "icon_filename": "02223-icon-service-Azure-Chaos-Studio.svg",
-                "icon_location": "./Icons/other/02223-icon-service-Azure-Chaos-Studio.svg"
+                "icon_location": "WebIcons/other/02223-icon-service-Azure-Chaos-Studio.svg"
             },
             {
                 "service_name": "Azure Managed Grafana",
@@ -1563,7 +1563,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/managed-grafana/",
                 "icon_category": "other",
                 "icon_filename": "02905-icon-service-Azure-Managed-Grafana.svg",
-                "icon_location": "./Icons/other/02905-icon-service-Azure-Managed-Grafana.svg"
+                "icon_location": "WebIcons/other/02905-icon-service-Azure-Managed-Grafana.svg"
             },
             {
                 "service_name": "Update management center \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
@@ -1571,7 +1571,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-update-management-center/",
                 "icon_category": "other",
                 "icon_filename": "02846-icon-service-Update-Management-Center.svg",
-                "icon_location": "./Icons/other/02846-icon-service-Update-Management-Center.svg"
+                "icon_location": "WebIcons/other/02846-icon-service-Update-Management-Center.svg"
             }
         ]
     },
@@ -1585,7 +1585,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/media-services/media-player/",
                 "icon_category": "general",
                 "icon_filename": "10854-icon-service-Media.svg",
-                "icon_location": "./Icons/general/10854-icon-service-Media.svg"
+                "icon_location": "WebIcons/general/10854-icon-service-Media.svg"
             },
             {
                 "service_name": "Content Delivery Network",
@@ -1613,7 +1613,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/media-services/",
                 "icon_category": "web",
                 "icon_filename": "10309-icon-service-Azure-Media-Service.svg",
-                "icon_location": "./Icons/web/10309-icon-service-Azure-Media-Service.svg"
+                "icon_location": "WebIcons/web/10309-icon-service-Azure-Media-Service.svg"
             }
         ]
     },
@@ -1627,7 +1627,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/database-migration/",
                 "icon_category": "migration",
                 "icon_filename": "10133-icon-service-Azure-Database-Migration-Services.svg",
-                "icon_location": "./Icons/migration/10133-icon-service-Azure-Database-Migration-Services.svg"
+                "icon_location": "WebIcons/migration/10133-icon-service-Azure-Database-Migration-Services.svg"
             },
             {
                 "service_name": "Azure Migrate",
@@ -1635,7 +1635,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-migrate/",
                 "icon_category": "migrate",
                 "icon_filename": "10281-icon-service-Azure-Migrate.svg",
-                "icon_location": "./Icons/migrate/10281-icon-service-Azure-Migrate.svg"
+                "icon_location": "WebIcons/migrate/10281-icon-service-Azure-Migrate.svg"
             },
             {
                 "service_name": "Azure Site Recovery",
@@ -1653,7 +1653,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/databox/",
                 "icon_category": "migrate",
                 "icon_filename": "10094-icon-service-Data-Box.svg",
-                "icon_location": "./Icons/migrate/10094-icon-service-Data-Box.svg"
+                "icon_location": "WebIcons/migrate/10094-icon-service-Data-Box.svg"
             }
         ]
     },
@@ -1667,7 +1667,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/remote-rendering/",
                 "icon_category": "mixed reality",
                 "icon_filename": "00698-icon-service-Remote-Rendering.svg",
-                "icon_location": "./Icons/mixed reality/00698-icon-service-Remote-Rendering.svg"
+                "icon_location": "WebIcons/mixed reality/00698-icon-service-Remote-Rendering.svg"
             },
             {
                 "service_name": "Azure Digital Twins",
@@ -1675,7 +1675,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/digital-twins/",
                 "icon_category": "iot",
                 "icon_filename": "01030-icon-service-Digital-Twins.svg",
-                "icon_location": "./Icons/iot/01030-icon-service-Digital-Twins.svg"
+                "icon_location": "WebIcons/iot/01030-icon-service-Digital-Twins.svg"
             }
         ]
     },
@@ -1689,7 +1689,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/api-management/",
                 "icon_category": "integration",
                 "icon_filename": "10042-icon-service-API-Management-Services.svg",
-                "icon_location": "./Icons/integration/10042-icon-service-API-Management-Services.svg"
+                "icon_location": "WebIcons/integration/10042-icon-service-API-Management-Services.svg"
             },
             {
                 "service_name": "App Configuration",
@@ -1697,7 +1697,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-configuration/",
                 "icon_category": "integration",
                 "icon_filename": "10219-icon-service-App-Configuration.svg",
-                "icon_location": "./Icons/integration/10219-icon-service-App-Configuration.svg"
+                "icon_location": "WebIcons/integration/10219-icon-service-App-Configuration.svg"
             },
             {
                 "service_name": "App Service",
@@ -1705,7 +1705,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-service/",
                 "icon_category": "containers",
                 "icon_filename": "10035-icon-service-App-Services.svg",
-                "icon_location": "./Icons/containers/10035-icon-service-App-Services.svg"
+                "icon_location": "WebIcons/containers/10035-icon-service-App-Services.svg"
             },
             {
                 "service_name": "Azure AI Search",
@@ -1713,7 +1713,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-search",
                 "icon_category": "general",
                 "icon_filename": "10834-icon-service-Search.svg",
-                "icon_location": "./Icons/general/10834-icon-service-Search.svg"
+                "icon_location": "WebIcons/general/10834-icon-service-Search.svg"
             },
             {
                 "service_name": "Azure Maps",
@@ -1721,7 +1721,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-maps/",
                 "icon_category": "iot",
                 "icon_filename": "10185-icon-service-Azure-Maps-Accounts.svg",
-                "icon_location": "./Icons/iot/10185-icon-service-Azure-Maps-Accounts.svg"
+                "icon_location": "WebIcons/iot/10185-icon-service-Azure-Maps-Accounts.svg"
             },
             {
                 "service_name": "Azure AI Services",
@@ -1729,7 +1729,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/",
                 "icon_category": "integration",
                 "icon_filename": "10836-icon-service-Azure-Service-Bus.svg",
-                "icon_location": "./Icons/integration/10836-icon-service-Azure-Service-Bus.svg"
+                "icon_location": "WebIcons/integration/10836-icon-service-Azure-Service-Bus.svg"
             },
             {
                 "service_name": "App Center",
@@ -1737,7 +1737,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-center/",
                 "icon_category": "other",
                 "icon_filename": "10232-icon-service-App-Registrations.svg",
-                "icon_location": "./Icons/other/10232-icon-service-App-Registrations.svg"
+                "icon_location": "WebIcons/other/10232-icon-service-App-Registrations.svg"
             },
             {
                 "service_name": "Azure Communication Services",
@@ -1745,7 +1745,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/communication-services/",
                 "icon_category": "other",
                 "icon_filename": "00968-icon-service-Azure-Communication-Services.svg",
-                "icon_location": "./Icons/other/00968-icon-service-Azure-Communication-Services.svg"
+                "icon_location": "WebIcons/other/00968-icon-service-Azure-Communication-Services.svg"
             },
             {
                 "service_name": "Azure Operator 5G Core",
@@ -1753,7 +1753,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/operator-5g-core",
                 "icon_category": "hybrid + multicloud",
                 "icon_filename": "03248-icon-service-Azure-Operator-5G-Core.svg",
-                "icon_location": "./Icons/hybrid + multicloud/03248-icon-service-Azure-Operator-5G-Core.svg"
+                "icon_location": "WebIcons/hybrid + multicloud/03248-icon-service-Azure-Operator-5G-Core.svg"
             },
             {
                 "service_name": "Azure Operator Call Protection",
@@ -1761,7 +1761,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/operator-call-protection",
                 "icon_category": "hybrid + multicloud",
                 "icon_filename": "03324-icon-service-Azure-Operator-Nexus.svg",
-                "icon_location": "./Icons/hybrid + multicloud/03324-icon-service-Azure-Operator-Nexus.svg"
+                "icon_location": "WebIcons/hybrid + multicloud/03324-icon-service-Azure-Operator-Nexus.svg"
             },
             {
                 "service_name": "Notification Hubs",
@@ -1769,7 +1769,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/notification-hubs/",
                 "icon_category": "mobile",
                 "icon_filename": "10045-icon-service-Notification-Hubs.svg",
-                "icon_location": "./Icons/mobile/10045-icon-service-Notification-Hubs.svg"
+                "icon_location": "WebIcons/mobile/10045-icon-service-Notification-Hubs.svg"
             }
         ]
     },
@@ -1783,7 +1783,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/application-gateway",
                 "icon_category": "networking",
                 "icon_filename": "10076-icon-service-Application-Gateways.svg",
-                "icon_location": "./Icons/networking/10076-icon-service-Application-Gateways.svg"
+                "icon_location": "WebIcons/networking/10076-icon-service-Application-Gateways.svg"
             },
             {
                 "service_name": "Azure Bastion",
@@ -1791,7 +1791,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-bastion/",
                 "icon_category": "networking",
                 "icon_filename": "02422-icon-service-Bastions.svg",
-                "icon_location": "./Icons/networking/02422-icon-service-Bastions.svg"
+                "icon_location": "WebIcons/networking/02422-icon-service-Bastions.svg"
             },
             {
                 "service_name": "Azure DDoS Protection",
@@ -1799,7 +1799,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ddos-protection/",
                 "icon_category": "networking",
                 "icon_filename": "10072-icon-service-DDoS-Protection-Plans.svg",
-                "icon_location": "./Icons/networking/10072-icon-service-DDoS-Protection-Plans.svg"
+                "icon_location": "WebIcons/networking/10072-icon-service-DDoS-Protection-Plans.svg"
             },
             {
                 "service_name": "Azure DNS",
@@ -1807,7 +1807,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/dns/",
                 "icon_category": "networking",
                 "icon_filename": "03368-icon-service-DNS-Security-Policy.svg",
-                "icon_location": "./Icons/networking/03368-icon-service-DNS-Security-Policy.svg"
+                "icon_location": "WebIcons/networking/03368-icon-service-DNS-Security-Policy.svg"
             },
             {
                 "service_name": "Azure ExpressRoute",
@@ -1815,7 +1815,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/expressroute/",
                 "icon_category": "networking",
                 "icon_filename": "10079-icon-service-ExpressRoute-Circuits.svg",
-                "icon_location": "./Icons/networking/10079-icon-service-ExpressRoute-Circuits.svg"
+                "icon_location": "WebIcons/networking/10079-icon-service-ExpressRoute-Circuits.svg"
             },
             {
                 "service_name": "Azure Firewall",
@@ -1823,7 +1823,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-firewall/",
                 "icon_category": "networking",
                 "icon_filename": "10084-icon-service-Firewalls.svg",
-                "icon_location": "./Icons/networking/10084-icon-service-Firewalls.svg"
+                "icon_location": "WebIcons/networking/10084-icon-service-Firewalls.svg"
             },
             {
                 "service_name": "Azure Orbital Ground Station",
@@ -1831,7 +1831,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/orbital/",
                 "icon_category": "other",
                 "icon_filename": "02697-icon-service-Azure-Orbital.svg",
-                "icon_location": "./Icons/other/02697-icon-service-Azure-Orbital.svg"
+                "icon_location": "WebIcons/other/02697-icon-service-Azure-Orbital.svg"
             },
             {
                 "service_name": "Azure Route Server",
@@ -1849,7 +1849,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/communications-gateway/",
                 "icon_category": "networking",
                 "icon_filename": "03311-icon-service-Azure-Communications-Gateway.svg",
-                "icon_location": "./Icons/networking/03311-icon-service-Azure-Communications-Gateway.svg"
+                "icon_location": "WebIcons/networking/03311-icon-service-Azure-Communications-Gateway.svg"
             },
             {
                 "service_name": "Azure Operator 5G Core",
@@ -1857,7 +1857,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/operator-5g-core",
                 "icon_category": "hybrid + multicloud",
                 "icon_filename": "03248-icon-service-Azure-Operator-5G-Core.svg",
-                "icon_location": "./Icons/hybrid + multicloud/03248-icon-service-Azure-Operator-5G-Core.svg"
+                "icon_location": "WebIcons/hybrid + multicloud/03248-icon-service-Azure-Operator-5G-Core.svg"
             },
             {
                 "service_name": "Azure Front Door",
@@ -1865,7 +1865,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/frontdoor/",
                 "icon_category": "networking",
                 "icon_filename": "10073-icon-service-Front-Door-and-CDN-Profiles.svg",
-                "icon_location": "./Icons/networking/10073-icon-service-Front-Door-and-CDN-Profiles.svg"
+                "icon_location": "WebIcons/networking/10073-icon-service-Front-Door-and-CDN-Profiles.svg"
             },
             {
                 "service_name": "Azure Network Function Manager",
@@ -1873,7 +1873,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-network-function-manager/",
                 "icon_category": "other",
                 "icon_filename": "02740-icon-service-Azure-Network-Function-Manager.svg",
-                "icon_location": "./Icons/other/02740-icon-service-Azure-Network-Function-Manager.svg"
+                "icon_location": "WebIcons/other/02740-icon-service-Azure-Network-Function-Manager.svg"
             },
             {
                 "service_name": "Azure Virtual Network Manager",
@@ -1881,7 +1881,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/virtual-wan/",
                 "icon_category": "networking",
                 "icon_filename": "10353-icon-service-Virtual-WANs.svg",
-                "icon_location": "./Icons/networking/10353-icon-service-Virtual-WANs.svg"
+                "icon_location": "WebIcons/networking/10353-icon-service-Virtual-WANs.svg"
             },
             {
                 "service_name": "Azure NAT Gateway",
@@ -1889,7 +1889,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-nat-gateway",
                 "icon_category": "networking",
                 "icon_filename": "10310-icon-service-NAT.svg",
-                "icon_location": "./Icons/networking/10310-icon-service-NAT.svg"
+                "icon_location": "WebIcons/networking/10310-icon-service-NAT.svg"
             },
             {
                 "service_name": "Azure Programmable Connectivity",
@@ -1897,7 +1897,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/programmable-connectivity",
                 "icon_category": "hybrid + multicloud",
                 "icon_filename": "03347-icon-service-Azure-Programmable-Connectivity.svg",
-                "icon_location": "./Icons/hybrid + multicloud/03347-icon-service-Azure-Programmable-Connectivity.svg"
+                "icon_location": "WebIcons/hybrid + multicloud/03347-icon-service-Azure-Programmable-Connectivity.svg"
             },
             {
                 "service_name": "Azure Private Link",
@@ -1905,7 +1905,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/private-link/",
                 "icon_category": "networking",
                 "icon_filename": "00427-icon-service-Private-Link.svg",
-                "icon_location": "./Icons/networking/00427-icon-service-Private-Link.svg"
+                "icon_location": "WebIcons/networking/00427-icon-service-Private-Link.svg"
             },
             {
                 "service_name": "Azure Firewall Manager",
@@ -1913,7 +1913,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/firewall-manager/",
                 "icon_category": "networking",
                 "icon_filename": "00271-icon-service-Azure-Firewall-Manager.svg",
-                "icon_location": "./Icons/networking/00271-icon-service-Azure-Firewall-Manager.svg"
+                "icon_location": "WebIcons/networking/00271-icon-service-Azure-Firewall-Manager.svg"
             },
             {
                 "service_name": "Content Delivery Network",
@@ -1926,7 +1926,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/network-watcher/",
                 "icon_category": "networking",
                 "icon_filename": "10066-icon-service-Network-Watcher.svg",
-                "icon_location": "./Icons/networking/10066-icon-service-Network-Watcher.svg"
+                "icon_location": "WebIcons/networking/10066-icon-service-Network-Watcher.svg"
             },
             {
                 "service_name": "Traffic Manager",
@@ -1934,7 +1934,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/traffic-manager/",
                 "icon_category": "networking",
                 "icon_filename": "10065-icon-service-Traffic-Manager-Profiles.svg",
-                "icon_location": "./Icons/networking/10065-icon-service-Traffic-Manager-Profiles.svg"
+                "icon_location": "WebIcons/networking/10065-icon-service-Traffic-Manager-Profiles.svg"
             },
             {
                 "service_name": "Virtual Network",
@@ -1942,7 +1942,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/virtual-network/",
                 "icon_category": "networking",
                 "icon_filename": "10061-icon-service-Virtual-Networks.svg",
-                "icon_location": "./Icons/networking/10061-icon-service-Virtual-Networks.svg"
+                "icon_location": "WebIcons/networking/10061-icon-service-Virtual-Networks.svg"
             },
             {
                 "service_name": "Virtual WAN",
@@ -1950,7 +1950,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/virtual-wan/",
                 "icon_category": "networking",
                 "icon_filename": "10353-icon-service-Virtual-WANs.svg",
-                "icon_location": "./Icons/networking/10353-icon-service-Virtual-WANs.svg"
+                "icon_location": "WebIcons/networking/10353-icon-service-Virtual-WANs.svg"
             },
             {
                 "service_name": "VPN Gateway",
@@ -1963,7 +1963,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/web-application-firewall/",
                 "icon_category": "networking",
                 "icon_filename": "10362-icon-service-Web-Application-Firewall-Policies(WAF).svg",
-                "icon_location": "./Icons/networking/10362-icon-service-Web-Application-Firewall-Policies(WAF).svg"
+                "icon_location": "WebIcons/networking/10362-icon-service-Web-Application-Firewall-Policies(WAF).svg"
             }
         ]
     },
@@ -1977,7 +1977,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-configuration/",
                 "icon_category": "integration",
                 "icon_filename": "10219-icon-service-App-Configuration.svg",
-                "icon_location": "./Icons/integration/10219-icon-service-App-Configuration.svg"
+                "icon_location": "WebIcons/integration/10219-icon-service-App-Configuration.svg"
             },
             {
                 "service_name": "Application Gateway",
@@ -1985,7 +1985,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/application-gateway",
                 "icon_category": "networking",
                 "icon_filename": "10076-icon-service-Application-Gateways.svg",
-                "icon_location": "./Icons/networking/10076-icon-service-Application-Gateways.svg"
+                "icon_location": "WebIcons/networking/10076-icon-service-Application-Gateways.svg"
             },
             {
                 "service_name": "Microsoft Entra Domain Services",
@@ -1993,7 +1993,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/microsoft-entra-ds",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             },
             {
                 "service_name": "Microsoft Defender for Cloud",
@@ -2001,7 +2001,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/defender-for-cloud/",
                 "icon_category": "security",
                 "icon_filename": "10241-icon-service-Microsoft-Defender-for-Cloud.svg",
-                "icon_location": "./Icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
+                "icon_location": "WebIcons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
             },
             {
                 "service_name": "Defender External Attack Surface Management",
@@ -2009,7 +2009,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/defender-external-attack-surface-management/",
                 "icon_category": "other",
                 "icon_filename": "03422-icon-service-Defender-Programable-Board.svg",
-                "icon_location": "./Icons/other/03422-icon-service-Defender-Programable-Board.svg"
+                "icon_location": "WebIcons/other/03422-icon-service-Defender-Programable-Board.svg"
             },
             {
                 "service_name": "Azure Bastion",
@@ -2017,7 +2017,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-bastion/",
                 "icon_category": "networking",
                 "icon_filename": "02422-icon-service-Bastions.svg",
-                "icon_location": "./Icons/networking/02422-icon-service-Bastions.svg"
+                "icon_location": "WebIcons/networking/02422-icon-service-Bastions.svg"
             },
             {
                 "service_name": "Azure DDoS Protection",
@@ -2025,7 +2025,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ddos-protection/",
                 "icon_category": "networking",
                 "icon_filename": "10072-icon-service-DDoS-Protection-Plans.svg",
-                "icon_location": "./Icons/networking/10072-icon-service-DDoS-Protection-Plans.svg"
+                "icon_location": "WebIcons/networking/10072-icon-service-DDoS-Protection-Plans.svg"
             },
             {
                 "service_name": "Azure Dedicated HSM",
@@ -2033,7 +2033,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-dedicated-hsm/",
                 "icon_category": "other",
                 "icon_filename": "02322-icon-service-Dedicated-HSM.svg",
-                "icon_location": "./Icons/other/02322-icon-service-Dedicated-HSM.svg"
+                "icon_location": "WebIcons/other/02322-icon-service-Dedicated-HSM.svg"
             },
             {
                 "service_name": "Azure Firewall",
@@ -2041,7 +2041,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-firewall/",
                 "icon_category": "networking",
                 "icon_filename": "10084-icon-service-Firewalls.svg",
-                "icon_location": "./Icons/networking/10084-icon-service-Firewalls.svg"
+                "icon_location": "WebIcons/networking/10084-icon-service-Firewalls.svg"
             },
             {
                 "service_name": "Azure Firewall Manager",
@@ -2049,7 +2049,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/firewall-manager/",
                 "icon_category": "networking",
                 "icon_filename": "00271-icon-service-Azure-Firewall-Manager.svg",
-                "icon_location": "./Icons/networking/00271-icon-service-Azure-Firewall-Manager.svg"
+                "icon_location": "WebIcons/networking/00271-icon-service-Azure-Firewall-Manager.svg"
             },
             {
                 "service_name": "Azure Front Door",
@@ -2057,7 +2057,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/frontdoor/",
                 "icon_category": "networking",
                 "icon_filename": "10073-icon-service-Front-Door-and-CDN-Profiles.svg",
-                "icon_location": "./Icons/networking/10073-icon-service-Front-Door-and-CDN-Profiles.svg"
+                "icon_location": "WebIcons/networking/10073-icon-service-Front-Door-and-CDN-Profiles.svg"
             },
             {
                 "service_name": "Azure Information Protection",
@@ -2065,7 +2065,7 @@
                 "service_link": "https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection",
                 "icon_category": "security",
                 "icon_filename": "10229-icon-service-Azure-Information-Protection.svg",
-                "icon_location": "./Icons/security/10229-icon-service-Azure-Information-Protection.svg"
+                "icon_location": "WebIcons/security/10229-icon-service-Azure-Information-Protection.svg"
             },
             {
                 "service_name": "Microsoft Sentinel",
@@ -2073,7 +2073,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/microsoft-sentinel/",
                 "icon_category": "security",
                 "icon_filename": "10241-icon-service-Microsoft-Defender-for-Cloud.svg",
-                "icon_location": "./Icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
+                "icon_location": "WebIcons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg"
             },
             {
                 "service_name": "Key Vault",
@@ -2081,7 +2081,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/key-vault/",
                 "icon_category": "security",
                 "icon_filename": "10245-icon-service-Key-Vaults.svg",
-                "icon_location": "./Icons/security/10245-icon-service-Key-Vaults.svg"
+                "icon_location": "WebIcons/security/10245-icon-service-Key-Vaults.svg"
             },
             {
                 "service_name": "Azure confidential ledger",
@@ -2099,7 +2099,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/web-application-firewall/",
                 "icon_category": "networking",
                 "icon_filename": "10362-icon-service-Web-Application-Firewall-Policies(WAF).svg",
-                "icon_location": "./Icons/networking/10362-icon-service-Web-Application-Firewall-Policies(WAF).svg"
+                "icon_location": "WebIcons/networking/10362-icon-service-Web-Application-Firewall-Policies(WAF).svg"
             },
             {
                 "service_name": "Microsoft Azure Attestation",
@@ -2112,7 +2112,7 @@
                 "service_link": "https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-copilot-security",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             }
         ]
     },
@@ -2126,7 +2126,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/storage",
                 "icon_category": "management + governance",
                 "icon_filename": "00756-icon-service-Azure-Arc.svg",
-                "icon_location": "./Icons/management + governance/00756-icon-service-Azure-Arc.svg"
+                "icon_location": "WebIcons/management + governance/00756-icon-service-Azure-Arc.svg"
             },
             {
                 "service_name": "Azure Managed Lustre",
@@ -2134,7 +2134,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/managed-lustre/",
                 "icon_category": "management + governance",
                 "icon_filename": "10313-icon-service-Managed-Applications-Center.svg",
-                "icon_location": "./Icons/management + governance/10313-icon-service-Managed-Applications-Center.svg"
+                "icon_location": "WebIcons/management + governance/10313-icon-service-Managed-Applications-Center.svg"
             },
             {
                 "service_name": "Azure Backup",
@@ -2142,7 +2142,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/backup/",
                 "icon_category": "other",
                 "icon_filename": "02360-icon-service-Azure-Backup-Center.svg",
-                "icon_location": "./Icons/other/02360-icon-service-Azure-Backup-Center.svg"
+                "icon_location": "WebIcons/other/02360-icon-service-Azure-Backup-Center.svg"
             },
             {
                 "service_name": "Azure Data Lake Storage",
@@ -2150,7 +2150,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/storage/data-lake-storage/",
                 "icon_category": "storage",
                 "icon_filename": "10090-icon-service-Data-Lake-Storage-Gen1.svg",
-                "icon_location": "./Icons/storage/10090-icon-service-Data-Lake-Storage-Gen1.svg"
+                "icon_location": "WebIcons/storage/10090-icon-service-Data-Lake-Storage-Gen1.svg"
             },
             {
                 "service_name": "Azure Data Share",
@@ -2158,7 +2158,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/data-share/",
                 "icon_category": "storage",
                 "icon_filename": "10098-icon-service-Data-Shares.svg",
-                "icon_location": "./Icons/storage/10098-icon-service-Data-Shares.svg"
+                "icon_location": "WebIcons/storage/10098-icon-service-Data-Shares.svg"
             },
             {
                 "service_name": "Azure Files",
@@ -2166,7 +2166,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/storage/files/",
                 "icon_category": "general",
                 "icon_filename": "10801-icon-service-Files.svg",
-                "icon_location": "./Icons/general/10801-icon-service-Files.svg"
+                "icon_location": "WebIcons/general/10801-icon-service-Files.svg"
             },
             {
                 "service_name": "Azure Storage Actions \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
@@ -2174,7 +2174,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/storage-actions",
                 "icon_category": "new icons",
                 "icon_filename": "03502-icon-service-Storage-Actions.svg",
-                "icon_location": "./Icons/new icons/03502-icon-service-Storage-Actions.svg"
+                "icon_location": "WebIcons/new icons/03502-icon-service-Storage-Actions.svg"
             },
             {
                 "service_name": "Azure NetApp Files",
@@ -2182,7 +2182,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/netapp/",
                 "icon_category": "storage",
                 "icon_filename": "10096-icon-service-Azure-NetApp-Files.svg",
-                "icon_location": "./Icons/storage/10096-icon-service-Azure-NetApp-Files.svg"
+                "icon_location": "WebIcons/storage/10096-icon-service-Azure-NetApp-Files.svg"
             },
             {
                 "service_name": "Azure Blob Storage",
@@ -2195,7 +2195,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/databox/",
                 "icon_category": "migrate",
                 "icon_filename": "10094-icon-service-Data-Box.svg",
-                "icon_location": "./Icons/migrate/10094-icon-service-Data-Box.svg"
+                "icon_location": "WebIcons/migrate/10094-icon-service-Data-Box.svg"
             },
             {
                 "service_name": "Azure Disk Storage",
@@ -2203,7 +2203,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/storage/disks/",
                 "icon_category": "compute",
                 "icon_filename": "00398-icon-service-Disk-Encryption-Sets.svg",
-                "icon_location": "./Icons/compute/00398-icon-service-Disk-Encryption-Sets.svg"
+                "icon_location": "WebIcons/compute/00398-icon-service-Disk-Encryption-Sets.svg"
             },
             {
                 "service_name": "Azure confidential ledger",
@@ -2216,7 +2216,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/storage/elastic-san/",
                 "icon_category": "other",
                 "icon_filename": "03190-icon-service-Elastic-SAN.svg",
-                "icon_location": "./Icons/other/03190-icon-service-Elastic-SAN.svg"
+                "icon_location": "WebIcons/other/03190-icon-service-Elastic-SAN.svg"
             },
             {
                 "service_name": "Queue Storage",
@@ -2229,7 +2229,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/category/storage/",
                 "icon_category": "storage",
                 "icon_filename": "10086-icon-service-Storage-Accounts.svg",
-                "icon_location": "./Icons/storage/10086-icon-service-Storage-Accounts.svg"
+                "icon_location": "WebIcons/storage/10086-icon-service-Storage-Accounts.svg"
             },
             {
                 "service_name": "Storage Explorer",
@@ -2237,7 +2237,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/storage/storage-explorer/",
                 "icon_category": "storage",
                 "icon_filename": "10091-icon-service-Storage-Explorer.svg",
-                "icon_location": "./Icons/storage/10091-icon-service-Storage-Explorer.svg"
+                "icon_location": "WebIcons/storage/10091-icon-service-Storage-Explorer.svg"
             }
         ]
     },
@@ -2251,7 +2251,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/lab-services/",
                 "icon_category": "devops",
                 "icon_filename": "10265-icon-service-Lab-Services.svg",
-                "icon_location": "./Icons/devops/10265-icon-service-Lab-Services.svg"
+                "icon_location": "WebIcons/devops/10265-icon-service-Lab-Services.svg"
             },
             {
                 "service_name": "Azure Virtual Desktop",
@@ -2259,7 +2259,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/virtual-desktop/",
                 "icon_category": "other",
                 "icon_filename": "00327-icon-service-Azure-Virtual-Desktop.svg",
-                "icon_location": "./Icons/other/00327-icon-service-Azure-Virtual-Desktop.svg"
+                "icon_location": "WebIcons/other/00327-icon-service-Azure-Virtual-Desktop.svg"
             },
             {
                 "service_name": "Microsoft Dev Box \u1d3e\u1d3f\u1d31\u2c7d\u1d35\u1d31\u1d42",
@@ -2267,7 +2267,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/dev-box/",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             }
         ]
     },
@@ -2281,7 +2281,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/api-management/",
                 "icon_category": "integration",
                 "icon_filename": "10042-icon-service-API-Management-Services.svg",
-                "icon_location": "./Icons/integration/10042-icon-service-API-Management-Services.svg"
+                "icon_location": "WebIcons/integration/10042-icon-service-API-Management-Services.svg"
             },
             {
                 "service_name": "App Configuration",
@@ -2289,7 +2289,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-configuration/",
                 "icon_category": "integration",
                 "icon_filename": "10219-icon-service-App-Configuration.svg",
-                "icon_location": "./Icons/integration/10219-icon-service-App-Configuration.svg"
+                "icon_location": "WebIcons/integration/10219-icon-service-App-Configuration.svg"
             },
             {
                 "service_name": "App Service",
@@ -2297,7 +2297,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-service/",
                 "icon_category": "containers",
                 "icon_filename": "10035-icon-service-App-Services.svg",
-                "icon_location": "./Icons/containers/10035-icon-service-App-Services.svg"
+                "icon_location": "WebIcons/containers/10035-icon-service-App-Services.svg"
             },
             {
                 "service_name": "Azure AI Search",
@@ -2305,7 +2305,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/ai-services/ai-search",
                 "icon_category": "general",
                 "icon_filename": "10834-icon-service-Search.svg",
-                "icon_location": "./Icons/general/10834-icon-service-Search.svg"
+                "icon_location": "WebIcons/general/10834-icon-service-Search.svg"
             },
             {
                 "service_name": "Azure Maps",
@@ -2313,7 +2313,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/azure-maps/",
                 "icon_category": "iot",
                 "icon_filename": "10185-icon-service-Azure-Maps-Accounts.svg",
-                "icon_location": "./Icons/iot/10185-icon-service-Azure-Maps-Accounts.svg"
+                "icon_location": "WebIcons/iot/10185-icon-service-Azure-Maps-Accounts.svg"
             },
             {
                 "service_name": "Azure SignalR Service",
@@ -2321,7 +2321,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/signalr-service/",
                 "icon_category": "web",
                 "icon_filename": "10052-icon-service-SignalR.svg",
-                "icon_location": "./Icons/web/10052-icon-service-SignalR.svg"
+                "icon_location": "WebIcons/web/10052-icon-service-SignalR.svg"
             },
             {
                 "service_name": "Content Delivery Network",
@@ -2334,7 +2334,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/notification-hubs/",
                 "icon_category": "mobile",
                 "icon_filename": "10045-icon-service-Notification-Hubs.svg",
-                "icon_location": "./Icons/mobile/10045-icon-service-Notification-Hubs.svg"
+                "icon_location": "WebIcons/mobile/10045-icon-service-Notification-Hubs.svg"
             },
             {
                 "service_name": "Static Web Apps",
@@ -2342,7 +2342,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-service/static/",
                 "icon_category": "web",
                 "icon_filename": "01007-icon-service-Static-Apps.svg",
-                "icon_location": "./Icons/web/01007-icon-service-Static-Apps.svg"
+                "icon_location": "WebIcons/web/01007-icon-service-Static-Apps.svg"
             },
             {
                 "service_name": "Azure Communication Services",
@@ -2350,7 +2350,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/communication-services/",
                 "icon_category": "other",
                 "icon_filename": "00968-icon-service-Azure-Communication-Services.svg",
-                "icon_location": "./Icons/other/00968-icon-service-Azure-Communication-Services.svg"
+                "icon_location": "WebIcons/other/00968-icon-service-Azure-Communication-Services.svg"
             },
             {
                 "service_name": "Azure Web PubSub",
@@ -2358,7 +2358,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/web-pubsub/",
                 "icon_category": "networking",
                 "icon_filename": "10362-icon-service-Web-Application-Firewall-Policies(WAF).svg",
-                "icon_location": "./Icons/networking/10362-icon-service-Web-Application-Firewall-Policies(WAF).svg"
+                "icon_location": "WebIcons/networking/10362-icon-service-Web-Application-Firewall-Policies(WAF).svg"
             },
             {
                 "service_name": "Azure Fluid Relay",
@@ -2371,7 +2371,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/app-service/containers/",
                 "icon_category": "general",
                 "icon_filename": "10850-icon-service-Web-Test.svg",
-                "icon_location": "./Icons/general/10850-icon-service-Web-Test.svg"
+                "icon_location": "WebIcons/general/10850-icon-service-Web-Test.svg"
             },
             {
                 "service_name": "Microsoft Playwright Testing",
@@ -2379,7 +2379,7 @@
                 "service_link": "https://azure.microsoft.com/en-us/products/playwright-testing/",
                 "icon_category": "other",
                 "icon_filename": "03250-icon-service-Microsoft-Dev-Box.svg",
-                "icon_location": "./Icons/other/03250-icon-service-Microsoft-Dev-Box.svg"
+                "icon_location": "WebIcons/other/03250-icon-service-Microsoft-Dev-Box.svg"
             }
         ]
     }
